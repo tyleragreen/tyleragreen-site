@@ -164,13 +164,13 @@ footer a:hover {
     display: none;
   }
   #slider-one {
-    background-image: url('legacy/images/DSC_5035(3).jpg');
+    background-image: url('images/DSC_5035(3).jpg');
   }
   #slider-two {
-    background-image: url('legacy/images/DSC_1566(3).jpg');
+    background-image: url('images/DSC_1566(3).jpg');
   }
   #slider-three {
-    background-image: url('legacy/images/DSC_1888(3).jpg');
+    background-image: url('images/DSC_1888(3).jpg');
   }
 }
 @media (max-width: 1200px) {
