@@ -1,18 +1,497 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="resource-type" content="document" />
+    <meta http-equiv="content-type" content="text/html; charset=US-ASCII" />
+    <meta http-equiv="content-language" content="en-us" />
+    <meta name="author" content="Tyler A. Green">
+    <meta name="contact" content="greent@tyleragreen.com" />
+    <meta name="copyright" content="Copyright (c)2017 Tyler A. Green. All Rights Reserved." />
+    <meta name="description" content="Tyler A. Green is a public transit enthusiast, urban adventurer, and stadium fanatic located in Brooklyn, New York. In between riding transit for work and play, he likes to develop software, tweet about buses, drink coffee, and watch Kentucky basketball. Say hello next time you see him on a rail near you!" />
+    <meta name="keywords" content="tyler a green, transit, public transit, transportation, cities, urban, buses, subways, light rail, blog, colorado, brooklyn" />
+    <link rel="icon" href="favicon.ico">
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+    <title>Tyler A. Green, Public Transit Enthusiast</title>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+        
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Raleway:700' rel='stylesheet' type='text/css'>
 
-      <div class="entry">
-        {{ post.excerpt }}
+    <!-- Custom styles for this template -->
+    <link href="legacy/carousel.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link href="legacy/tagr_style.css" rel="stylesheet">
+    
+  </head>
+  
+<!-- NAVBAR
+================================================== -->
+  <body id="top">
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-fixed-top top">
+          <div class="container">
+            <div class="nav navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" id="top-logo" href="#top"><img src="legacy/images/display_board.png" alt="Tyler A. Green"></a>
+              <a class="navbar-brand scroll" id="bottom-logo" href="#top">Tyler A. Green</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav navbar-right top">
+                <li><a href="#about" class="scroll">About</a></li>
+                <li><a href="#casual-vitae" class="scroll">Casual Vitae</a></li>
+                <li><a href="#projects" class="scroll">Projects</a></li>
+                <li><a href="#connect" class="scroll">Connect</a></li>
+                <li><a href="/blog/">Blog</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="legacy/images/IMAG4517(3).jpg" alt="Public Transit Enthusiast.">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Public Transit Enthusiast.</h1>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="legacy/images/DSC_4975(3).jpg" alt="Urban Adventurer.">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Urban Adventurer.</h1>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="legacy/images/DSC_4572(3).jpg" alt="Stadium Fanatic.">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Stadium Fanatic.</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+
+    <!-- Featurettes
+    ================================================== -->
+
+    <div class="marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row featurette section-inner" id="about">
+        <div class="col-lg-4">
+          <div class="bio-image">
+          <img class="img-circle" src="legacy/images/tgreen.jpg" alt="Tyler A. Green" width="200" height="200">
+          <h2>Hey, I'm Tyler!</h2>
+          </div>
+        </div>
+        <div class="col-lg-8">
+          <h2 class="featurette-heading">Let's talk transit.</h2>
+          <p>Nothing gets me more excited than using public transportation to improve quality of life! I believe transit has the capability to transform our cities into more friendly and functional urban spaces. As a software engineer and student of urban history, I am working to move this service forward.
+          <p>Who's on board?</p>
+          <p>Check out my <a href="#casual-vitae" class="scroll">casual vitae</a> and <a href="#projects" class="scroll">projects</a> to learn more. Have ideas or projects about transit to share? <a href="#connect" class="scroll">Let me know</a>!</p>
+        </div>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+      <!-- START THE FEATURETTES -->
+
+      <div class="section-inner">
+        <hr class="featurette-divider">
+      </div>      
+      <div id="casual-vitae">
+        <div class="fixed-section" id="slider-one">
+          <h1>Casual Vitae</h1>
+        </div>
+      </div>
+
+      <div class="row featurette section-inner remove-title"><!-- id="casual-vitae">-->
+        <div class="col-md-12">
+          <h2 class="featurette-heading">Casual Vitae. <span class="text-muted">It's not your professor's vitae.</span></h2>
+          <table class="vita">
+          <tr><td class="separator"><b>Work</b></td><td></td></tr>
+          <tr><td>2017 - present</td><td><b><a href="http://www.intersection.com" target="_blank">Intersection</a></b>, Software Engineer, Transit</td></tr>
+          <tr><td>2015 - 2017</td><td><b><a href="http://www.amd.com/" target="_blank">Advanced Micro Devices</a></b>, Design Engineer, Pre-Silicon Core Verification</td></tr>
+          <tr><td class="separator"><b>Learn</b></td><td></td></tr>
+          <tr><td>2013 - 2014</td><td><b>Purdue University</b>, MS Electrical & Computer Engineering</td></tr>
+          <tr><td>2009 - 2013</td><td><b>University of Kentucky</b>, BS Computer Engineering</td></tr>
+          <tr><td class="separator"><b>Lead</b></td><td></td></tr>
+          <tr><td>2018 - present</td><td><b><a href="https://www.meetup.com/Transit-Techies-NYC/" target="_blank">Transit Techies NYC</a></b>, Cofounder</td></tr>
+          <tr><td>2017 - present</td><td><b>Young Professionals in Transportation, NYC Chapter</b>, Communications Manager</td></tr>
+          <tr><td>2017 - present</td><td><b>Transportation Camp NYC</b>, Organizing Committee Member</td></tr>
+          <tr><td>2015 - 2017</td><td><b>Fort Collins Public Transit Enthusiasts</b>, Meetup Organizer</td></tr>
+          <tr><td>2016</td><td><b>Fort Collins Municipal Railway</b>, Volunteer Conductor</td></tr>
+          <tr><td>2014</td><td><b>Eta Kappa Nu, Purdue University</b>, President</td></tr>
+          <tr><td class="separator"><b>Play</b></td><td></td></tr>
+          <tr><td>2017 - 2018</td><td><b>NYC Subway</b>, Rider of Entire System</td></tr>
+          <tr><td>2015 - 2017</td><td><b>la de da Performing Arts</b>, Community Actor</td></tr>
+          <tr><td>2017 - present</td><td><b>New York Yankees</b>, Follower of the Bronx Bombers</td></tr>
+          <tr><td>2010 - present</td><td><b>Stadiums</b>, Visitor of (Almost) All 30 Major League Baseball Stadiums</td></tr>
+          <tr><td>1991 - present</td><td><b>Public Transit</b>, Passionate Train, Bus, Ferry, and Escalator Rider</td></tr>
+          <tr><td>1991 - present</td><td><b>Kentucky Basketball</b>, Lifelong Wildcats Fan</td></tr>
+          </table>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section-inner">
+        <hr class="featurette-divider">
+      </div>
+      <div id="projects">
+        <div class="fixed-section" id="slider-two">
+          <h1>Projects</h1>
+        </div>
+      </div>
+
+      <div class="row featurette section-inner remove-title"><!-- id="projects">-->
+        <div class="col-md-12">
+          <h2 class="featurette-heading">Projects. <span class="text-muted">See what I'm working on.</span></h2>
+          <p class="lead">Click on each project to learn more!</p>
+          
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/notetime.png" alt="MTA Fares" data-toggle="modal" data-target="#modalNotetime" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/fare_chart.png" alt="MTA Fares" data-toggle="modal" data-target="#modalFares" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/centrality.png" alt="Transit Network Centrality" data-toggle="modal" data-target="#modalGraphCentrality" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/bfs2.png" alt="Graphing Transit Networks" data-toggle="modal" data-target="#modalGraphAlgorithms" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/boston_thumb.png" alt="Boston Realtime Map" data-toggle="modal" data-target="#modalBoston" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/geojson_thumb.png" alt="GTFS to GeoJSON Ruby Gem" data-toggle="modal" data-target="#modalGtfsGeojson" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/nyc_vis_thumb.png" alt="New York City Transit Frequency Visualization" data-toggle="modal" data-target="#modalNycVis" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/transfort_gis_thumb.png" alt="Transfort GIS Study" data-toggle="modal" data-target="#modalTransfortGis" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/bta_thumb.png" alt="Baseball Transit Authority Map" data-toggle="modal" data-target="#modalBTA" /></a>
+          </div>
+          <div class="col-md-4 col-sm-6 thumb-col">
+            <a href="#projects" class="thumbnail"><img class="modal-thumb" src="legacy/images/modals/sf_thumb.JPG" alt="Stadium Fanatic Social Network" data-toggle="modal" data-target="#modalStadiumFanatic" /></a>
+          </div>
+
+          <div class="modal fade" id="modalNotetime" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Notetime Note tool</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>Fall 2017</p>
+		              <p>As I was collecting articles on the history of the NYC subway fare, I found myself wanting a different way to save my notes. I was tired of reorganizing a Google Doc over and over. What I was looking for was:</p>
+                  <ul>
+                    <li><b>tagging</b> - the ability to view subsets of a notes set</li>
+                    <li><b>dated</b> - the ability to sort subsets of notes</li>
+                    <li><b>portable</b> - so many online note tools seem great but don't improve or fit your ideal data model; I didn't want to get locked in</li>
+                    <li><b>publishable</b> - the ability to quickly share a note I had just written</li>
+                  </ul>
+                  <p>The result is a Node.js library which accepts a series of Markdown-based notes and outputs the grouped and sorted notes. The result is browseable on GitHub or through a docs integration (I used GitBooks).</p>
+                  <p>notetime is on <a href="https://www.npmjs.com/package/notetime" target="_blank">npm</a> and <a href="https://github.com/tyleragreen/notetime" target="_blank">GitHub</a>. I am actively using it to compile my <a href="https://tyleragreen.gitbooks.io/history/" target="_blank">urban history notes</a>.</p>
+                  <div class="modal-image-container"><img class="modal-image" src="legacy/images/modals/notetime.png" alt="" width="676" /></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <div class="modal fade" id="modalFares" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">History of MTA Fares</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>September 2017</p>
+		              <p>Being new to New York City, I decided to study the history of the MTA subway fare.</p>
+		              <p>I ended up collecting the New York Times articles from every fare increase since 1904 and writing up a summary of what I learned. Check out <a href="https://tyleragreen.gitbooks.io/history/timelines/fare-increases.html" target="_blank">my notes</a> and the <a href="http://www.tyleragreen.com/blog/2017/10/alls-fare-diving-into-mta-fares/" target="_blank">finished post</a>.</p>
+                  <div class="modal-image-container"><a href="http://www.tyleragreen.com/blog/2017/10/alls-fare-diving-into-mta-fares/" target="_blank"><img class="modal-image" src="http://www.tyleragreen.com/blog_files/2017-10-fares/fare_chart.png" alt="MTA Fares versus Inflation" width="676" /></a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Graph Centrality Modal -->
+          <div class="modal fade" id="modalGraphCentrality" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Transit Network Centrality</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>Fall 2016</p>
+		              <p>After implementing basic graph algorithms on the New York City subway network, I began exploring centrality metrics on the New York City, Boston, Paris, and Washington, DC, subway networks. This lets us see what are the most important stations in the network and compare network structure across cities.</p>
+		              <p>Check out my blog posts (<a href="http://www.tyleragreen.com/blog/2017/03/graphing-transit-systems-part-ii-centrality/" target="_blank">first</a> and <a href="http://www.tyleragreen.com/blog/2017/03/graphing-transit-systems-part-iii-centrality-extended/" target="_blank">second</a>) on the centrality adventure and check out the results in the <a href="https://gtfs-graph.herokuapp.com/" target="_blank">web app</a>.</p>
+                  <div class="modal-image-container"><a href="http://www.tyleragreen.com/blog/2017/03/graphing-transit-systems-part-ii-centrality/" target="_blank"><img class="modal-image" src="http://www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/page_rank1.png" alt="Transit Network Centrality" width="676" /></a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- Graph Algorithms Modal -->
+          <div class="modal fade" id="modalGraphAlgorithms" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Transit Network Graph Algorithms</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>Summer 2016</p>
+		              <p>While reviewing algorithms during a round of interview prep, I realized it would be fun to implement graph algorithms on a transit network!</p>
+		              <p>Check out my <a href="http://www.tyleragreen.com/blog/2016/10/graphing-transit-systems/" target="_blank">blog post</a> and <a href="https://gtfs-graph.herokuapp.com/demo/" target="_blank">web app</a> about depth-first search, breadth-first search, and Dijkstra's algorithms visualized on the New York City subway network.</p>
+                  <div class="modal-image-container"><a href="http://www.tyleragreen.com/blog/2016/10/graphing-transit-systems/" target="_blank"><img class="modal-image" src="http://www.tyleragreen.com/blog_files/2016-10-gtfs-graph/bfs2.png" alt="Transit Network Graph Algorithms" width="676" /></a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Boston Modal -->
+          <div class="modal fade" id="modalBoston" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Boston Realtime Map</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>May 2016</p>
+		  <p>Wanting to familiarize myself with the GTFS-realtime specification and Node.js applications, I created a realtime map of Boston transit!</p>
+		  <p>You can read <a href="http://www.tyleragreen.com/blog/2016/07/live-the-boston-t-party/" target="_blank">the full explanation on my blog</a>. The code is available on <a href="https://github.com/tyleragreen/boston-in-transit/" target="_blank">GitHub</a>!</p>
+                  <div class="modal-image-container"><a href="http://www.tyleragreen.com/blog/2016/07/live-the-boston-t-party/" target="_blank"><img class="modal-image" src="legacy/images/modals/boston_clip.png" alt="Boston Realtime Map" /></a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- gtfs-geojson Modal -->
+          <div class="modal fade" id="modalGtfsGeojson" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">GTFS to GeoJSON Ruby Gem</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>March 2016</p>
+		  <p>I tackled two birds with one stone on this project: 1) I learned the basics of creating and publishing my own Ruby gem, and 2) I implemented a simple algorithm to convert a GTFS feed into a GeoJSON file. I hope to be able to use this subproject in a larger transit visualization in the future!</p>
+		  <p>You can read <a href="http://www.tyleragreen.com/blog/2016/03/a-ruby-gem-for-gtfs-to-geojson-conversion/" target="_blank">the full explanation on my blog</a>. The code is available on <a href="https://github.com/tyleragreen/tyleragreen-site/" target="_blank">GitHub</a> and <a href="https://rubygems.org/gems/gtfs-geojson" target="_blank">RubyGems.org</a>!</p>
+                  <div class="modal-image-container"><a href="http://www.tyleragreen.com/blog/2016/03/a-ruby-gem-for-gtfs-to-geojson-conversion/" target="_blank"><img class="modal-image" src="legacy/images/modals/geojson_clip.png" alt="GTFS to GeoJSON Ruby Gem output" /></a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- NYC Frequency Visualization Modal -->
+          <div class="modal fade" id="modalNycVis" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">New York City Transit Frequency Visualization</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>February 2016</p>
+		  <p>I created a web tool to visualize New York City transit frequencies using <a href="http://transit.land" target="_blank">Transitland</a> and <a href="http://www.mapbox.com/" target="_blank">Mapbox</a>. Schedule data from buses and subways (and even a few ferry routes!) is plotted for an example Friday and Saturday morning. You can view any of the layers together to understand differences in service between modes and days.</p>
+		  <p>You can read <a href="http://www.tyleragreen.com/blog/2016/02/new-york-city-transit-frequency-visualization/" target="_blank">the full explanation on my blog</a>. Feel free to explore <a href="http://www.tyleragreen.com/maps/new_york.html" target="_blank">the web tool itself</a>!</p>
+                  <div class="modal-image-container"><a href="http://www.tyleragreen.com/maps/new_york/" target="_blank"><img class="modal-image" src="legacy/images/modals/nyc_vis_clip.png" alt="New York City Transit Frequency Visualization" /></a></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Stadium Fanatic Modal -->
+          <div class="modal fade" id="modalStadiumFanatic" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Stadium Fanatic</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>July 2010</p>
+                  <p>I developed a basic social network around stadium travel in an effort to learn PHP and MySQL. As you will notice, I had not yet learned how to make a website look decent in the slightest.</p>
+                  <p>Stadium Fanatic was my first foray into web programming and was critical to my understanding of the modern web. Even better, it sparked my passion for stadium travel. I would not be well on my way to visiting all 30 MLB ballparks without this formative project!</p>
+                  <p>The site is no longer on the web, but below is a picture of it in its prime.</p>
+                  <div class="modal-image-container"><img class="modal-image" src="legacy/images/modals/sf_clip.JPG" alt="Stadium Fanatic Social Network" /></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <!-- BTA Modal -->
+          <div class="modal fade" id="modalBTA" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Baseball Transit Authority Map</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>November 2015</p>
+                  <p>I like baseball. I like stadiums. I <i>really</i> like transit. What better way to combine these interests than by learning vector graphics?</p>
+                  <p><a href="http://www.tyleragreen.com/blog/2016/01/baseball-transit-authority-well-wave-you-home/" target="_blank">Click here</a> to read my full summary and download the map as a PDF. And, as always, <a class="scroll" href="#connect" data-dismiss="modal">let me know</a> about any recommendations you may have!</p>
+                  <div class="modal-image-container"><img class="modal-image" src="legacy/images/modals/bta_map.png" alt="Baseball Transit Authority Map" /></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Transfort GIS Modal -->
+          <div class="modal fade" id="modalTransfortGis" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                  <h3 class="modal-title" id="myModalLabel">Transfort GIS Study</h3>
+                </div>
+                <div class="modal-body">
+                  <p><b>Date: </b>January 2016</p>
+		  <p>Aware of its applications to transit and urban planning, I learned the basics of Geographical Information Systems (GIS). I created the map below using QGIS and Inkscape.</p>
+		  <p>Read about my study of the Transfort bus routes in Fort Collins, Colorado, in the <a href="http://www.tyleragreen.com/blog/2016/01/transfort-bus-stops-through-the-lens-of-gis/">full blog post</a>!</p>
+                  <div class="modal-image-container"><img class="modal-image" src="legacy/images/modals/transfort_gis_clip.png" alt="Transfort GIS Study" /></div>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+          </div>
+	  <!-- End Modals -->
+        </div>
+      </div>
+      
+      <div class="section-inner">
+        <hr class="featurette-divider">
+      </div>
+      <div id="connect">
+        <div class="fixed-section" id="slider-three">
+          <h1>Connect</h1>
+        </div>
+      </div>
+
+      <div class="row featurette section-inner remove-title"><!-- id="connect">-->
+        <div class="col-md-12" style="text-align: center;">
+          <h2 class="featurette-heading">Connect. <span class="text-muted">Hit me up.</span></h2>
+          <p>Let's discuss how we can work together. Or just chat. I enjoy both.</p>
+          <div class="social-icons">
+            <div class="social-icon twitter"><a href="http://twitter.com/greent_tyler" target="_blank"><img src="legacy/icons/twitter.png"></a></div>
+            <div class="social-icon instagram"><a href="http://instagram.com/greent_tyler" target="_blank"><img src="legacy/icons/instagram.png"></a></div>
+            <div class="social-icon linkedin"><a href="https://www.linkedin.com/in/tylergreen" target="_blank"><img src="legacy/icons/linkedin.png"></a></div>
+            <div class="social-icon email"><a href="mailto:greent@tyleragreen.com" target="_blank"><img src="legacy/icons/email.png"></a></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- /END THE FEATURETTES -->
+    </div><!-- /.container -->
+    
+          <!-- FOOTER -->
+    <footer>
+      <div class="section-inner">
+        <div class="col-md-6">
+          <p class="footer-left">"The bus stops here." <span class="text-muted">- Harry Truman, probably.</span></p>
+        </div>
+        <div class="col-md-6">
+          <p class="footer-right"><!--class="pull-right"-->&copy; 2019 <a href="#top" class="scroll">TYLER A. GREEN</a></p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="legacy/tagr_script.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-70458844-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+  </body>
+</html>
