@@ -5,7 +5,7 @@ date: 2016-04-03T11:46:34+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=605
-permalink: /2016/04/bike-share-has-arrived-in-fort-collins/
+permalink: /blog/2016/04/bike-share-has-arrived-in-fort-collins/
 categories:
   - Adventures
 tags:

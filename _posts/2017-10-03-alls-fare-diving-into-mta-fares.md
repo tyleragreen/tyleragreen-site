@@ -5,7 +5,7 @@ date: 2017-10-03T06:47:10+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=758
-permalink: /2017/10/alls-fare-diving-into-mta-fares/
+permalink: /blog/2017/10/alls-fare-diving-into-mta-fares/
 categories:
   - Research
 tags:

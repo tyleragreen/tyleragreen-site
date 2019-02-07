@@ -5,7 +5,7 @@ date: 2016-10-11T22:08:01+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=706
-permalink: /2016/10/graphing-transit-systems/
+permalink: /blog/2016/10/graphing-transit-systems/
 categories:
   - Projects
 tags:

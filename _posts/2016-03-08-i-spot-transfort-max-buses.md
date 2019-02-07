@@ -5,7 +5,7 @@ date: 2016-03-08T20:04:32+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=530
-permalink: /2016/03/i-spot-transfort-max-buses/
+permalink: /blog/2016/03/i-spot-transfort-max-buses/
 categories:
   - Adventures
 tags:

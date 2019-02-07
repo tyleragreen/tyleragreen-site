@@ -5,7 +5,7 @@ date: 2016-03-01T22:57:47+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=515
-permalink: /2016/03/windy-city-recap/
+permalink: /blog/2016/03/windy-city-recap/
 categories:
   - Adventures
 tags:

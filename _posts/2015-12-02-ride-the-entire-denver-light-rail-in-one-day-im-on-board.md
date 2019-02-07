@@ -5,7 +5,7 @@ date: 2015-12-02T03:49:52+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=283
-permalink: /2015/12/ride-the-entire-denver-light-rail-in-one-day-im-on-board/
+permalink: /blog/2015/12/ride-the-entire-denver-light-rail-in-one-day-im-on-board/
 categories:
   - Adventures
 tags:

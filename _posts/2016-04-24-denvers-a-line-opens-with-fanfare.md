@@ -5,7 +5,7 @@ date: 2016-04-24T15:42:36+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=654
-permalink: /2016/04/denvers-a-line-opens-with-fanfare/
+permalink: /blog/2016/04/denvers-a-line-opens-with-fanfare/
 categories:
   - Adventures
 tags:

@@ -5,7 +5,7 @@ date: 2015-11-23T18:58:17+00:00
 author: Tyler Green
 layout: post
 guid: http://tyleragreen.com/blog/?p=20
-permalink: /2015/11/an-american-in-ontario/
+permalink: /blog/2015/11/an-american-in-ontario/
 categories:
   - Reflections
 tags:

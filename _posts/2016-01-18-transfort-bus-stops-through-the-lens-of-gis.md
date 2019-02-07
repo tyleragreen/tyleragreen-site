@@ -5,7 +5,7 @@ date: 2016-01-18T05:05:33+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=416
-permalink: /2016/01/transfort-bus-stops-through-the-lens-of-gis/
+permalink: /blog/2016/01/transfort-bus-stops-through-the-lens-of-gis/
 categories:
   - Projects
 tags:

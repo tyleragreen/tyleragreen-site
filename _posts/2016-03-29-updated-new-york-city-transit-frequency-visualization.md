@@ -5,7 +5,7 @@ date: 2016-03-29T07:25:24+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=595
-permalink: /2016/03/updated-new-york-city-transit-frequency-visualization/
+permalink: /blog/2016/03/updated-new-york-city-transit-frequency-visualization/
 categories:
   - Projects
 tags:

@@ -5,7 +5,7 @@ date: 2016-03-16T20:18:49+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=550
-permalink: /2016/03/im-a-millennial-and-i-dont-need-wifi-on-buses/
+permalink: /blog/2016/03/im-a-millennial-and-i-dont-need-wifi-on-buses/
 categories:
   - Reflections
 tags:

@@ -5,7 +5,7 @@ date: 2016-07-31T18:18:06+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=689
-permalink: /2016/07/live-the-boston-t-party/
+permalink: /blog/2016/07/live-the-boston-t-party/
 categories:
   - Projects
 tags:

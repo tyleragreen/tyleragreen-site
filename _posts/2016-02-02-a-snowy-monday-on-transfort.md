@@ -5,7 +5,7 @@ date: 2016-02-02T04:04:14+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=466
-permalink: /2016/02/a-snowy-monday-on-transfort/
+permalink: /blog/2016/02/a-snowy-monday-on-transfort/
 categories:
   - Adventures
 tags:

@@ -5,7 +5,7 @@ date: 2016-03-20T11:24:50+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=565
-permalink: /2016/03/all-aboard-the-fort-collins-municipal-railway/
+permalink: /blog/2016/03/all-aboard-the-fort-collins-municipal-railway/
 categories:
   - Adventures
 tags:

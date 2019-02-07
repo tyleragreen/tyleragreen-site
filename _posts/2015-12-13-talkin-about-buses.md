@@ -5,7 +5,7 @@ date: 2015-12-13T00:52:26+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=327
-permalink: /2015/12/talkin-about-buses/
+permalink: /blog/2015/12/talkin-about-buses/
 categories:
   - Reflections
 tags:

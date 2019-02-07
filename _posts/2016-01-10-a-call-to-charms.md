@@ -5,7 +5,7 @@ date: 2016-01-10T20:50:16+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=406
-permalink: /2016/01/a-call-to-charms/
+permalink: /blog/2016/01/a-call-to-charms/
 categories:
   - Ideas
 tags:

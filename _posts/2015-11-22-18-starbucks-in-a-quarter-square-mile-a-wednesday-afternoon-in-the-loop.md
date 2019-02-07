@@ -5,7 +5,7 @@ date: 2015-11-22T17:09:11+00:00
 author: Tyler Green
 layout: post
 guid: http://tyleragreen.com/blog/?p=7
-permalink: /2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/
+permalink: /blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/
 categories:
   - Adventures
 tags:

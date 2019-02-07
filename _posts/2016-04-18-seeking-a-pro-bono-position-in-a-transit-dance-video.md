@@ -5,7 +5,7 @@ date: 2016-04-18T23:20:09+00:00
 author: Tyler Green
 layout: post
 guid: http://www.tyleragreen.com/blog/?p=632
-permalink: /2016/04/seeking-a-pro-bono-position-in-a-transit-dance-video/
+permalink: /blog/2016/04/seeking-a-pro-bono-position-in-a-transit-dance-video/
 categories:
   - Ideas
 tags:
