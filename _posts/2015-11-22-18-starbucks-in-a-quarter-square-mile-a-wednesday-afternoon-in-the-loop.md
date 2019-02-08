@@ -13,9 +13,6 @@ tags:
   - coffee
   - starbucks
 ---
-<p style="text-align: left;">
-  <i>This post originally appeared on <a href="https://tgreen8091.wordpress.com/2014/03/20/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/" target="_blank">my old Wordpress blog</a> on March 20, 2014. The content has been modified slightly for this blog, but is my original work in both settings.</i>
-</p>
 
 <p style="text-align: left;">
   Do you know how many <a href="http://www.starbucks.com/" target="_blank">Starbucks</a> locations are contained within <a href="http://en.wikipedia.org/wiki/The_Loop_(Chicago_Transit_Authority)" target="_blank">the Loop</a>?  The gourmet coffee chain&#8217;s prevalence inside this 0.24 square mile area of Chicago&#8217;s business district gives new meaning to the phrase &#8220;on every corner&#8221;.  On Wednesday afternoon, March, 19th, 2014, <a href="https://twitter.com/dua_pushpinder" target="_blank">Pushpinder</a>, <a href="https://twitter.com/dhawalkgupta90" target="_blank">Dhawal</a>, and I set out to take a <a href="https://twitter.com/search?q=%23selfie" target="_blank">#selfie</a> in front of all 18.  That&#8217;s right: one eight.
