@@ -105,7 +105,7 @@ I began riding the bus to work.
 
 <div style="text-align:center"><img src="/assets/img/2015-12-13/IMAG1927-676x383.jpg"></div>
 
-I started a meetup whose recurring event is called "<a href="http://www.meetup.com/FortCollinsPublicTransit/" target="_blank">Let's Talk About Buses</a>".
+I started a meetup whose recurring event is called <a href="http://www.meetup.com/FortCollinsPublicTransit/" target="_blank">Let's Talk About Buses</a>.
 
 And I recently started a YouTube channel where I literally talk about buses.
 
