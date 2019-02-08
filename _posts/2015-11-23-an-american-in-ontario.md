@@ -12,15 +12,15 @@ tags:
   - mindfulness
   - toronto
 ---
-_This essay describes my experience sitting on the boardwalk at Toronto&#8217;s Woodbine Beach on Tuesday, September 22, 2015. I was visiting the city to <a href="https://twitter.com/tgreen8091/status/646093813719564288" target="_blank">attend a Blue Jays game</a> and <a href="https://twitter.com/tgreen8091/status/647107323417202688" target="_blank">appreciate</a> <a href="https://twitter.com/tgreen8091/status/646817687973330944" target="_blank">their</a> <a href="https://twitter.com/tgreen8091/status/645753006420586496" target="_blank">transit</a>, but I took the following hour or so out of the week to take in my surroundings._
+_This essay describes my experience sitting on the boardwalk at Toronto's Woodbine Beach on Tuesday, September 22, 2015. I was visiting the city to <a href="https://twitter.com/tgreen8091/status/646093813719564288" target="_blank">attend a Blue Jays game</a> and <a href="https://twitter.com/tgreen8091/status/647107323417202688" target="_blank">appreciate</a> <a href="https://twitter.com/tgreen8091/status/646817687973330944" target="_blank">their</a> <a href="https://twitter.com/tgreen8091/status/645753006420586496" target="_blank">transit</a>, but I took the following hour or so out of the week to take in my surroundings._
 
-<img class="aligncenter wp-image-22 size-large" src="http://i0.wp.com/tyleragreen.com/blog/wp-content/uploads/2015/11/DSC_48592-1024x678.jpg?resize=676%2C448" alt="DSC_4859(2)" data-recalc-dims="1" />
+<div style="text-align:center"><img src="/assets/img/2015-11-23/DSC_48592-676x448.jpg"></div>
 
 Woodbine Beach stretches gradually from the boardwalk to the water. Small waves break at the edge of the sand. A man navigates the shoreline on a paddle board. He loses his balance and falls on his back into the shallow water. My attention is reigned in as a woman jogs past my bench on the edge of the boardwalk. She wears a sports bra that is a bit too loose and appears as exhausted as the skin that covers her upper arms. She passes more slowly than expected through my vision from left to right. A black and orange butterfly follows her, fluttering in the light breeze.
 
-I remember a Salinger quote: “She wasn&#8217;t doing a thing that I could see, except standing there leaning on the balcony railing, holding the universe together.” What would that look like? Is there an equally-intriguing metaphor to describe the gulls on the beach?
+I remember a Salinger quote: “She wasn't doing a thing that I could see, except standing there leaning on the balcony railing, holding the universe together.” What would that look like? Is there an equally-intriguing metaphor to describe the gulls on the beach?
 
-For a September in Toronto, the weather is perfect. My right arm is sun-soaked, my left wind-swept. My brain combines the two sensations into a single feeling of comfort. I commend the shade tree underneath which I sit on a job well done. Based on my arm’s differing experiences, maybe this is the first time it has been called a &#8220;shade tree&#8221;.
+For a September in Toronto, the weather is perfect. My right arm is sun-soaked, my left wind-swept. My brain combines the two sensations into a single feeling of comfort. I commend the shade tree underneath which I sit on a job well done. Based on my arm’s differing experiences, maybe this is the first time it has been called a "shade tree".
 
 I cross my legs, right knee over left. Other people who do this seem to be having profound thoughts. Is it causation or correlation? I hope to soon know. I feel no immediate effects, but I tell myself I’m in no hurry. Maybe Eckhart Tolle crossed his legs right knee over left during his two years of sitting on park benches.
 
@@ -36,13 +36,13 @@ Who will I describe this moment to first? Why do I want to tell someone about th
 
 Too-loose-sports-bra jogs by again, this time to the left. A boat takes advantage of the lack of swim ring and drives parallel to the shore. It moves quite near the sand, and I wonder how soon before it is too late a beached whale is aware of its fate.
 
-I don&#8217;t see the CN Tower to the left. I remember it is actually to the right. I don&#8217;t see it there either. Maybe it&#8217;s better this way.
+I don't see the CN Tower to the left. I remember it is actually to the right. I don't see it there either. Maybe it's better this way.
 
-<img class="aligncenter wp-image-21 size-large" src="http://i0.wp.com/tyleragreen.com/blog/wp-content/uploads/2015/11/IMAG44222-579x1024.jpg?resize=579%2C1024" alt="IMAG4422(2)" data-recalc-dims="1" />
+<div style="text-align:center"><img src="/assets/img/2015-11-23/IMAG44222-579x1024.jpg"></div>
 
 Two young women pass. Both have straight hair that reaches the top of their backs. Both carry leather bags slung over their left shoulders which rest just behind their right hips. Both wear denim pants which stop several centimeters above their ankles. Both wear sandals which straddle the line between fashionable and functional.
 
-The effect of crossing my legs begins to reveal itself. I can&#8217;t feel my right foot.
+The effect of crossing my legs begins to reveal itself. I can't feel my right foot.
 
 A dog with a head as small as the rest of its body is big pulls its owner down the jogging path behind me. Who is walking whom?
 
@@ -52,7 +52,7 @@ A mother ambles to my left pushing a stroller with a child onboard. Their smiles
 
 What does it mean to enjoy life? What does it mean to enjoy an hour? Maybe those are actually the same thing.
 
-A white pickup truck drives along the water&#8217;s edge. The beach is not topless, so maybe the driver chose this vehicle over a convertible. Or maybe the beach trash patrol completes their rounds approximately midday on Tuesdays.
+A white pickup truck drives along the water's edge. The beach is not topless, so maybe the driver chose this vehicle over a convertible. Or maybe the beach trash patrol completes their rounds approximately midday on Tuesdays.
 
 My window for unstructured time is nearly finished. Will I go to a baseball-themed brewery next or repeat this mindfulness exercise at a city overlook? Which should I do first?
 
@@ -76,4 +76,4 @@ _The next day, I would visit the Toronto Islands and enjoy the stunning view bel
 
 _Do you have any mindfulness exercises you do while traveling or at home? Let me know in the comments below or <a href="http://www.tyleragreen.com/contact/" target="_blank">contact me</a>._
 
-<img class="aligncenter wp-image-55 size-large" src="http://i2.wp.com/tyleragreen.com/blog/wp-content/uploads/2015/11/DSC_48983-1024x678.jpg?resize=676%2C448" alt="DSC_4898(3)" data-recalc-dims="1" />
+<div style="text-align:center"><img src="/assets/img/2015-11-23/DSC_48983-676x448.jpg"></div>
