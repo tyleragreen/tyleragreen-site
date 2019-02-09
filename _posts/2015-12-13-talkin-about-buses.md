@@ -39,6 +39,8 @@ I'd made jokes about starting a website called Rapid Transit Fanatic (a spin-off
 
 I'd bought a shower curtain adorned with the WMATA map, the official guide to DC's metro system (also pre-Silver Line, you'll notice). 
 
+<div style="text-align:center"><img src="/assets/img/2015-12-13/BK59AoiCQAAFMki.jpg"></div>
+
 <blockquote class="twitter-tweet" lang="en">
   <p>
     My shower curtain for the fall: a DC metro map! <a href="http://t.co/TybUH5Zf35">pic.twitter.com/TybUH5Zf35</a> — Tyler Green (@tgreen8091) <a href="https://twitter.com/tgreen8091/status/337344471924621312">May 22, 2013</a>
@@ -84,6 +86,8 @@ I began taking pictures with bus signs. (Major props to Calvin for getting the b
 <div style="text-align:center"><img src="/assets/img/2015-12-13/IMG_20140502_131252478-683x1024.jpg"></div>
 
 I began getting on random campus bus loops and seeing where they would take me.
+
+<div style="text-align:center"><img src="/assets/img/2015-12-13/B2l3CpCIUAEnxyW.jpg"></div>
 
 <blockquote class="twitter-tweet" lang="en">
   <p dir="ltr" lang="en">
