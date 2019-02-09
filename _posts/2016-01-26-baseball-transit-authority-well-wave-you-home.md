@@ -1,6 +1,6 @@
 ---
 id: 444
-title: 'Baseball Transit Authority. Well wave you home.'
+title: Baseball Transit Authority. We'll wave you home.
 date: 2016-01-26T05:51:28+00:00
 author: Tyler Green
 layout: post
