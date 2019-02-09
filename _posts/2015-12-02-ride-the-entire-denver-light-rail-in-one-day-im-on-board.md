@@ -44,12 +44,8 @@ I tried to drum up a little excitement around <a href="https://twitter.com/searc
 
 I received a text from Colby on my way to the bus station. “Idk where to go? Better Google lol I’m in the big lot” Oh no! Was the schedule we used not valid on Fridays? Were there two Harmony Transfer Centers?! My mind started racing as I pulled into the parking lot and saw Colby standing next to the bus shelter. Fortunately, as I jogged over to Colby at 6:07 AM, so did Bustang. I took <span style="text-decoration: line-through;">almost a dozen</span> a few photos and we boarded by scanning our paper QR code on a device at the top of the stairs. The coach was a 51-seater and was operated by Ace Express Coaches. Six other passengers boarded with us. We jumped around different seats based on outlet location (I later learned there’s one for every seat), proximity to exit row (yes, there’s an exit row!), and distance between rows (the seats were on library-stack-like collapsing tracks). We also connected to the WiFi on our phones and confirmed it was functional. The bus pulled out at 6:19 AM. We were on our way to Denver!   
 
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="6">
-  <div style="padding: 8px;">
-    <div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;">
-    </div>
-        <a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/-TumYuESKb/" target="_blank">Good morning from @ridebustang! #CDOT #RTDDay #transit</a>   A photo posted by Tyler Green (@tgreen8091) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2015-11-20T13:26:13+00:00">Nov 20, 2015 at 5:26am PST</time> </div> </blockquote> 
-      
+<div style="text-align:center"><img src="/assets/img/2015-12-02/IMG_0018.jpg"></div>
+
 As I was composing tweets to announce the start of our adventure, Colby pointed out that there was a marquee above the driver. “Your tweets should be going up there!” After we confirmed Bustang had some room for improvement on rider engagement via social media, we began to plan our day. We decided we would pass through every station, but would not do so on every train. Many of the light rail stations are visited by multiple-lettered trains. The idea is that two differently lettered trains may use the same track for a distance, but they will diverge at some point. The RTD light rail map consisted of six lines (C, D, E, F, H, and W) and what we thought was 46 stations. While tracking our progress later, we adjusted this number to 45. We could board the C, E, or W, lines at Union Station, our drop off site. We picked the W line to Golden to knock out first. We didn"t know if we would find treasure, but the set of curvy, colored lines that made up the RTD map would call our shots for the next several hours.
 
 <div style="text-align:center"><img src="/assets/img/2015-12-02/RTD_2014-676x489.jpg"></div>
@@ -68,14 +64,7 @@ The bus picked up 3 more passengers at the Loveland Park and Ride and a short sa
 
 Partly because I"d heard it was awesome and partly because I had no idea where the RTD ticket kiosk was, we took the escalators to ground level and explored the gorgeous interior of Union Station. The station reopened after extensive renovations were completed in July 2014, which <a href="http://www.cntraveler.com/stories/2014-08-13/first-look-crawford-hotel-union-station" target="_blank">added The Crawford Hotel on both sides of the Grand Hall</a>. The area was decorated for Christmas and was an infinitely relaxing space. I wanted to sit here all day, but we had a job to do! It also involved sitting all day, but in less-oft romanticized locations.
 
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="6">
-  <div style="padding: 8px;">
-    <div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 50.0% 0; text-align: center; width: 100%;">
-    </div>
-    
-        <a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/-T3kazkSMd/" target="_blank">The Crawford Hotel in Union Station! #RTDDay</a> A photo posted by Tyler Green (@tgreen8091) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2015-11-20T14:44:36+00:00">Nov 20, 2015 at 6:44am PST</time>
-      </div>
-</blockquote>
+<div style="text-align:center"><img src="/assets/img/2015-12-02/IMG_0055.jpg"></div>
 
 <div style="text-align:center"><img src="/assets/img/2015-12-02/2015-11-20-07.39.273-676x507.jpg"></div>
 
@@ -85,17 +74,7 @@ After taking some photos of the RTD commuter rail trains, whose marquee festivel
 
 **Stations Completed: 1. Buses Ridden: 1. Union Station Escalators Ridden: 5.**
 
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="6">
-  <div style="padding: 8px;">
-    <p style="margin: 8px 0 0 0; padding: 0 4px;">
-      <a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/-T4zYhkSOs/" target="_blank">Regional RTD day pass, light rail maps, and the light rail (by Siemens) seat fabric! #transit #RTDDay #denver</a>
-    </p>
-        
-    <p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">
-      A photo posted by Tyler Green (@tgreen8091) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2015-11-20T14:55:23+00:00">Nov 20, 2015 at 6:55am PST</time>
-    </p>
-  </div>
-</blockquote>
+<div style="text-align:center"><img src="/assets/img/2015-12-02/IMG_0062.jpg"></div>
 
 I noticed the layout of each car was completely different than any other light rail vehicle I had been on. First of all, the cars weren’t <a href="https://en.wikipedia.org/wiki/Low-floor_bus" target="_blank">low-floor</a> (a common accessibility aide; the link is about buses, but the concept is similar for light rail vehicles). Second, they had exclusively seats that faced each other. Third, these seats were padded. (And I don’t mean <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/WMATA_Rohr_interior.jpg/800px-WMATA_Rohr_interior.jpg" target="_blank">old D.C. metro padded</a>, I mean <i>padded</i> padded.) Fourth, they weren’t really seats, but more like benches. Fifth, each bench width was approximately 1.5 persons wide (with no comment on the increasing girth of Americans). The unusual aspect of a car with a high floor throughout its length is that bikers have to carry their bikes up the stairs and stand with them. I saw one man doing this during our ride on the W line, though his helmet and substantial jacket made me think he might have been going to bike to skydiving practice after leaving the train.
 
@@ -165,21 +144,7 @@ We got off the C train at its “final stop” at Littleton · Mineral and then 
 
 **Stations Completed: 23. Buses Ridden: 1. Community Colleges Passed: (felt like) 15.**
 
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="6">
-  <div style="padding: 8px;">
-    <div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 37.5% 0; text-align: center; width: 100%;">
-    </div>
-    
-    <p style="margin: 8px 0 0 0; padding: 0 4px;">
-      <a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/-UJPFqESNm/" target="_blank">That feeling when you"ve completed 23 of 46 light rail stations! #RTDDay #transit #denver #colorado</a>
-    </p>
-        
-    <p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;">
-      A photo posted by Tyler Green (@tgreen8091) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2015-11-20T17:18:58+00:00">Nov 20, 2015 at 9:18am PST</time>
-      </div>
-    </p>
-  </div>
-</blockquote>
+<div style="text-align:center"><img src="/assets/img/2015-12-02/IMG_0104.jpg"></div>
 
 We decided to walk around the shopping mall at the Littleton · Mineral station. After riding what felt like the Costco Express, finding a large mall at the end of the line did not surprise me in the slightest. Colby mentioned a movie theatre here called Alamo that serves food during the movies and I asked if he remembered the Alamo theatre. I don’t remember his response, but I assume he chuckled. Before we even reached the mall, we stopped in a bus shelter to check some maps. Something about standing in the shadow of a bus lit our creative side and one of us said “Want to take a bus?!” We decided a great way to change up the scenery would be to take a bus from the end of the C/D line to as close as we could get to the end of the E/F line. This would prevent us from doubling-up on most of the southwest and southeast light rail stations. Google Maps informed me that the 403 bus would take us there. Fortuitously, this was the bus that had just pulled up to the shelter! Little-ton did we know it, but we had just signed up for the most memorable part of the day.
 
@@ -265,16 +230,7 @@ With renewed camaraderie, we boarded the next arriving train (an H train), rode 
 
 <div style="text-align:center"><img src="/assets/img/2015-12-02/2015-11-20-13.20.47-HDR3-676x901.jpg"></div>
 
-<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 658px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-version="6">
-  <div style="padding: 8px;">
-    <div style="background: #F8F8F8; line-height: 0; margin-top: 40px; padding: 57.2222222222% 0; text-align: center; width: 100%;">
-    </div>
-    
-        <a style="color: #000; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none; word-wrap: break-word;" href="https://www.instagram.com/p/-U2cLcESAk/" target="_blank">Light rail ahead, 46 stations behind. Riding the entire Denver light rail in one day: accomplished! #RTDDay #transit #denver #colorado</a><br /> A photo posted by Tyler Green (@tgreen8091) on <time style="font-family: Arial,sans-serif; font-size: 14px; line-height: 17px;" datetime="2015-11-20T23:53:58+00:00">Nov 20, 2015 at 3:53pm PST</time>
-      </div>
-</blockquote>
-
-&nbsp;
+<div style="text-align:center"><img src="/assets/img/2015-12-02/IMG_0230.jpg"></div>
 
 Our completed route map was indeed satisfyingly counterclockwise and unintentionally <a href="http://s7d9.scene7.com/is/image/BedBathandBeyond/32191041325490p?$478$" target="_blank">resembled a Christmas ornament</a>.
 
