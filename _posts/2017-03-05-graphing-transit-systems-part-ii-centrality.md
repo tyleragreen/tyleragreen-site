@@ -15,7 +15,7 @@ tags:
   - new york city
   - paris
 ---
-_This post is the second of <del>three</del> four looking into the graph structure of the New York City subway system. In the <a href="http://www.tyleragreen.com/blog/2016/10/graphing-transit-systems/" target="_blank">previous post</a>, I discussed a <a href="https://gtfs-graph.herokuapp.com/demo" target="_blank">frontend I built</a> to visualize a depth-first search, breadth-first search, and shortest path algorithm. I ended with a discussion of centrality algorithms. We pick up our hero there&#8230;_
+_This post is the second of <del>three</del> four looking into the graph structure of the New York City subway system. In the <a href="/blog/2016/10/graphing-transit-systems/" target="_blank">previous post</a>, I discussed a <a href="https://gtfs-graph.herokuapp.com/demo" target="_blank">frontend I built</a> to visualize a depth-first search, breadth-first search, and shortest path algorithm. I ended with a discussion of centrality algorithms. We pick up our hero there&#8230;_
 
 Centrality metrics identify important nodes in a graph. In the <a href="https://github.com/tyleragreen/gtfs-graph" target="_blank">gtfs-graph</a> world, nodes represent subway stations. Why might we want to identify important stations in the NYC subway network? Honestly, my initial reason was I thought it sounded cool. I was curious to see if there are numbers (besides ridership&#8230;we'll get to that in the next post!) to rank stations which align with our human perception of important stations in the system. Meaning: **does the network structure indicate Times Square is a critical station, or is that just where the most riders board**? That was the first question I wanted to explore. The next question would challenge the Lake Wobegon effect. That is: **can all stations in a network be important**?
 
@@ -31,10 +31,10 @@ It is worth noting at this point that analyzing a transit network only using sto
 
 # PageRank
 
-If PageRank sounds familiar to you, it's likely because it is the algorithm used by book publishers to identify pages, and definitely not because it was invented by Google co-founders Larry Page and Sergey Brin to rank web pages for their search engine. In this algorithm, a node&#8217;s importance is derived from the importance of all the nodes which link to it. Mapped over to transit, a station&#8217;s importance is derived from the importance of all the stations which have direct connections to it.
+If PageRank sounds familiar to you, it's likely because it is the algorithm used by book publishers to identify pages, and definitely not because it was invented by Google co-founders Larry Page and Sergey Brin to rank web pages for their search engine. In this algorithm, a node's importance is derived from the importance of all the nodes which link to it. Mapped over to transit, a station's importance is derived from the importance of all the stations which have direct connections to it.
 
-<div style="width: 883px" class="wp-caption aligncenter">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/page_rank2.png?resize=676%2C435" alt="The PageRank results look interesting and definitely pick out important stations, but they do not give us insight into the entire distribution of stations." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/page_rank2.png" alt="The PageRank results look interesting and definitely pick out important stations, but they do not give us insight into the entire distribution of stations." />
   
   <p class="wp-caption-text">
     The PageRank results look interesting and definitely pick out important stations, but they do not give us insight into the entire distribution of stations.
@@ -45,10 +45,10 @@ I was giddy while implementing this and my brain swirled with grand visions of u
 
 In the NYC PageRank view, you can see that Times Square comes out on top. Let's collectively channel our inner undergrad physics lab student and breathe a sigh of relief that the numbers show us what we expected. Phewwwwwww. However, if we look at one of its neighbors, 34 St &#8211; 11 Av AKA the 7 train extension, we see that it ranks last. Not just maybe not top ten or top 100, but dead last. PageRank is saying that the 7 train extension produced a station that is literally the least important in the NYC network.
 
-Have no fear Andrew Cuomo, let's consider the model again. If you throw in sample numbers <a href="http://pr.efactory.de/e-pagerank-algorithm.shtml" target="_blank">using the PageRank formula</a>, you can see that the above behavior is correct. 34 St &#8211; 11 Av only has one "link" and that node&#8217;s PageRank is high, but it also has a high out-degree. Using the random surfer / random transit rider model, a rider passing through Times Square is not likely to end up at 34 St &#8211; 11 Av. Sorry 7 train, but PageRank is just does not do your <a href="http://www.citylab.com/commute/2015/09/7-fun-facts-about-the-new-york-subways-new-7-train-extension/404800/" target="_blank">$2.4 billion price tag</a> justice. Let&#8217;s see how the other centrality metrics view the subway network!
+Have no fear Andrew Cuomo, let's consider the model again. If you throw in sample numbers <a href="http://pr.efactory.de/e-pagerank-algorithm.shtml" target="_blank">using the PageRank formula</a>, you can see that the above behavior is correct. 34 St &#8211; 11 Av only has one "link" and that node's PageRank is high, but it also has a high out-degree. Using the random surfer / random transit rider model, a rider passing through Times Square is not likely to end up at 34 St &#8211; 11 Av. Sorry 7 train, but PageRank is just does not do your <a href="http://www.citylab.com/commute/2015/09/7-fun-facts-about-the-new-york-subways-new-7-train-extension/404800/" target="_blank">$2.4 billion price tag</a> justice. Let's see how the other centrality metrics view the subway network!
 
-<div style="width: 1369px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/page_rank1.png?resize=676%2C316" alt="Poor 34 St - 11 Av doesn't get any love from PageRank. The data on the right shows the top 10 stations serve several subway routes each. This is not a coincidence; PageRank picks out highly connected nodes." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/page_rank1.png" alt="Poor 34 St - 11 Av doesn't get any love from PageRank. The data on the right shows the top 10 stations serve several subway routes each. This is not a coincidence; PageRank picks out highly connected nodes." />
   
   <p class="wp-caption-text">
     Poor 34 St &#8211; 11 Av doesn't get any love from PageRank. The data on the right shows the top 10 stations serve several subway routes each. This is not a coincidence; PageRank picks out highly connected nodes.
@@ -65,8 +65,8 @@ The results from Katz are&#8230;&#8230;confusing. If you picked South Ferry as t
 
 Here's all the insight I can offer on Katz centrality: all traffic between two well-connected sections of the graph (Staten Island and the entire rest of the MTA subway) has to pass through two stations: South Ferry and St George. Therefore, they are "important" and &#8220;central&#8221; and I am &#8220;confused&#8221; and &#8220;ready to talk about other metrics.&#8221;
 
-<div style="width: 1009px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/katz1.png?resize=676%2C413" alt="Katz says the subway network is equally unimpressive. Except for South Ferry. What a champ." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/katz1.png" alt="Katz says the subway network is equally unimpressive. Except for South Ferry. What a champ." />
   
   <p class="wp-caption-text">
     Katz says the subway network is equally unimpressive. Except for South Ferry. What a champ.
@@ -75,20 +75,20 @@ Here's all the insight I can offer on Katz centrality: all traffic between two w
 
 # Closeness Centrality
 
-My friend <a href="http://calvinholic.com/" target="_blank">Calvin</a> and I half made-up, half realized-it-was-already-a-thing, a centrality metric which promised a return to the fundamentals. Closeness centrality (or as Cal and I called it, the squiggly-doo) is intuitive in that the closer a node is to all other nodes, the more "central" it is. It does this by ranking a node by the sum of the shortest paths to all other nodes in the network. As you may remember from <a href="http://www.tyleragreen.com/blog/2016/10/graphing-transit-systems/" target="_blank">last post</a>, the distance of each edge in our network is the number of seconds to travel via that route segment according to that system's GTFS feed.
+My friend <a href="http://calvinholic.com/" target="_blank">Calvin</a> and I half made-up, half realized-it-was-already-a-thing, a centrality metric which promised a return to the fundamentals. Closeness centrality (or as Cal and I called it, the squiggly-doo) is intuitive in that the closer a node is to all other nodes, the more "central" it is. It does this by ranking a node by the sum of the shortest paths to all other nodes in the network. As you may remember from <a href="/blog/2016/10/graphing-transit-systems/" target="_blank">last post</a>, the distance of each edge in our network is the number of seconds to travel via that route segment according to that system's GTFS feed.
 
 At this point of confusing results from two metrics, I discovered the term "node influence metrics." These metrics seek to answer my second question from earlier: can all nodes in a network be important? PageRank and Katz identify important nodes, but only the top of their resulting distribution should be considered. This means the metric results for the bottom half of the distribution are more or less meaningless. Technically, closeness centrality is not a node influence metric, but I treat it as such. Intuition tells me that its results have meaning for the entire distribution of nodes. Please comment if you feel otherwise!
 
-<div style="width: 658px" class="wp-caption aligncenter">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/closeness2.PNG?resize=648%2C510" alt="Neapolitan ice cream anyone? Closeness centrality results have no surprises." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/closeness2.PNG" alt="Neapolitan ice cream anyone? Closeness centrality results have no surprises." />
   
   <p class="wp-caption-text">
     Neapolitan ice cream anyone? Closeness centrality results have no surprises.
   </p>
 </div>
 
-<div style="width: 500px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/closeness1.PNG?resize=490%2C537" alt="Manhattan stations are ranked highly by closeness centrality. This uniformity is in contrast to the Manhattan results for outward accessibility." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/closeness1.PNG" alt="Manhattan stations are ranked highly by closeness centrality. This uniformity is in contrast to the Manhattan results for outward accessibility." />
   
   <p class="wp-caption-text">
     Manhattan stations are ranked highly by closeness centrality. This uniformity is in contrast to the Manhattan results for outward accessibility.
@@ -103,16 +103,16 @@ Outward accessibility is one of the primary node influence metrics. It produces 
 
 One drawback to the outward accessibility metric is performance and repeatability. Before calculating the actual metric, one must perform a series of random walks of varying distances from each node. For these walks to be representative, the walk count must be high, which can lengthen execution time of the analysis. Due to the nature of random calculations, the answers change every time! This could be solved by using a consistent random number generator seed when running the analysis, or by always running enough random walks for the results to converge.
 
-<div style="width: 523px" class="wp-caption aligncenter">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/accessibility2.PNG?resize=513%2C503" alt="Outward accessibility gives us the weather map similar to closeness centrality, but are its individual stations ranked similarly?" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/accessibility2.PNG" alt="Outward accessibility gives us the weather map similar to closeness centrality, but are its individual stations ranked similarly?" />
   
   <p class="wp-caption-text">
     Outward accessibility gives us the weather map appearance similar to closeness centrality, but are its individual stations ranked similarly?
   </p>
 </div>
 
-<div style="width: 526px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/accessibility1.PNG?resize=516%2C531" alt="Outward accessibility picks out hotspots of importance in a graph network. These can vary slightly due to the random nature of this algorithm, but should converge over time with enough random walks." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2017-03-05/accessibility1.PNG" alt="Outward accessibility picks out hotspots of importance in a graph network. These can vary slightly due to the random nature of this algorithm, but should converge over time with enough random walks." />
   
   <p class="wp-caption-text">
     Outward accessibility picks out hot spots of importance in a graph network. These can vary slightly due to the random nature of this algorithm, but should converge over time with enough random walks.
@@ -125,4 +125,4 @@ Accessibility also has a strange property of <a href="https://twitter.com/green
 
 # Next Stop
 
-If you've hung with me this long and have noticed I haven&#8217;t answered either question posed at the start of this post, I&#8217;m going to grant you a short break. In <a href="http://www.tyleragreen.com/blog/2017/03/graphing-transit-systems-part-iii-centrality-extended/" target="_blank">the next post</a>, we&#8217;ll discuss how the closeness centrality and outward accessibility results correlate to the NYC subway ridership numbers, as well as how these metrics compare between NYC and Paris. I hope you&#8217;ll stay on board!
+If you've hung with me this long and have noticed I haven't answered either question posed at the start of this post, I'm going to grant you a short break. In <a href="/blog/2017/03/graphing-transit-systems-part-iii-centrality-extended/" target="_blank">the next post</a>, we'll discuss how the closeness centrality and outward accessibility results correlate to the NYC subway ridership numbers, as well as how these metrics compare between NYC and Paris. I hope you'll stay on board!
