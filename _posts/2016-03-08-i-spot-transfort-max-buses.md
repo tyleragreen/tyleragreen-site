@@ -19,8 +19,8 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 79
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_79.jpg?resize=676%2C507" alt="MAX 79 from the fleet of Transfort buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_79.jpg" alt="MAX 79 from the fleet of Transfort buses" />
   
   <p class="wp-caption-text">
     MAX 79 departing the South Transit Center. Bus 79 was my last bus to spot and I was getting anxious. Calmer pictures to follow!
@@ -29,8 +29,8 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 80
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_80-2.jpg?resize=676%2C507" alt="MAX 80 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_80-2.jpg" alt="MAX 80 from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
     MAX 80 at the South Transit Center. This AM-sunlit platform would be clutch during my season of bus spotting.
@@ -39,8 +39,8 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 81
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_81.jpg?resize=676%2C507" alt="MAX 81 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_81.jpg" alt="MAX 81 from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
     A northbound MAX 81 crossing Olive on Mason. Again, not a bus portrait studio, but necessary for completion. This intersection would serve me well in the future&#8230;
@@ -49,18 +49,18 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 82
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_82.jpg?resize=676%2C507" alt="MAX 82 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_82.jpg" alt="MAX 82 from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
-    MAX 82, also northbound at Olive and Mason. I couldn't have produced this motion panning effect even if I tried! And I definitely didn&#8217;t. (See MAX 81.) Let&#8217;s say I was hoping to produce a neat "we&#8217;re going places" effect for a Transfort promotional.
+    MAX 82, also northbound at Olive and Mason. I couldn't have produced this motion panning effect even if I tried! And I definitely didn't. (See MAX 81.) Let's say I was hoping to produce a neat "we're going places" effect for a Transfort promotional.
   </p>
 </div>
 
 ## MAX 83
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_83.jpg?resize=676%2C507" alt="MAX 83 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_83.jpg" alt="MAX 83 from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
     MAX 83 back at the sun-soaked South Transit Center. This is the only known photo of my shadow with a MAX bus. Except for the other three in this set I cropped it out of.
@@ -69,8 +69,8 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 84
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_84.jpg?resize=676%2C507" alt="MAX 84 from the fleet of Transfort buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_84.jpg" alt="MAX 84 from the fleet of Transfort buses" />
   
   <p class="wp-caption-text">
     MAX 84 at the&#8230;you guessed it&#8230;South Transit Center with a&#8230;you guessed it&#8230;tumbleweed. #colorado
@@ -79,8 +79,8 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 102
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_102.jpg?resize=676%2C507" alt="MAX 102 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_102.jpg" alt="MAX 102 from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
     MAX 102 at the South Transit Center on a day where the snow tainted its usually-pristine livery. MAX 103 peeps in from the rear. Buses 102 and 103 were ordered after the other six, which explains the gap in the fleet numbers.
@@ -89,8 +89,8 @@ Aside: please raise your hand if you were also worried upon discovering the firs
 
 ## MAX 103
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_103.jpg?resize=676%2C507" alt="MAX 103 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_103.jpg" alt="MAX 103 from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
     MAX 103 at the South Transit Center on the same sloppy morning. Doesn't that sky just look cold? Bus 103 is currently the highest-numbered in the Transfort fleet.
@@ -101,18 +101,18 @@ And, a bonus&#8230;
 
 ## MAX 89: "MiniMAX"
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_89.jpg?resize=676%2C507" alt="MAX 89, also known as Mini MAX, from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-08/MAX_89.jpg" alt="MAX 89, also known as Mini MAX, from the fleet of Transfort MAX buses" />
   
   <p class="wp-caption-text">
     MAX 89 at the South Transit Center. Notice the lack of articulation? Because this is MiniMAX! The articulated buses are not run in the snow and this 40&#8242; replacement is the only (that I know of) non-articulated bus with the MAX livery. It was an unexpected treat to watch the snow fall through a backwards "max" during this ride!
   </p>
 </div>
 
-If you're wondering what kind of idyllic bus world the cover image to this post is from, the answer is Adobe Lightroom. Doesn&#8217;t this better-than-real image make you want to go ride a bus?
+If you're wondering what kind of idyllic bus world the image below is from, the answer is Adobe Lightroom. Doesn't this better-than-real image make you want to go ride a bus?
 
 I'll see you there.
 
 **Ride on!**
 
-<img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_80.jpg?w=676" alt="MAX 80 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
+<img src="/assets/img/2016-03-08/MAX_80.jpg" alt="MAX 80 from the fleet of Transfort MAX buses" />
