@@ -16,7 +16,7 @@ tags:
   - review
   - rtd
 ---
-Most days, I am content to take the bus to work and back, read a piece or two of transit news, and go to sleep dreaming I am swaying in the center aisle of a brisk underground train. Other days, I have an idea that reroutes the temporary flow of my daily consciousness for the better. One Sunday afternoon a few weeks ago, I had one of those thoughts. **"I SHOULD RIDE THE ENTIRE DENVER LIGHT RAIL IN ONE DAY."** It seemed so obvious. How was this a new thought to me?! Having completed a <a href="http://tyleragreen.com/blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/" target="_blank">similar urban challenge</a> in the past and enjoying a growing passion for public transit, this was the perfect goal. I set a due date: by the end of 2015, I would ride all 6 lines of the RTD light rail.
+Most days, I am content to take the bus to work and back, read a piece or two of transit news, and go to sleep dreaming I am swaying in the center aisle of a brisk underground train. Other days, I have an idea that reroutes the temporary flow of my daily consciousness for the better. One Sunday afternoon a few weeks ago, I had one of those thoughts. **"I SHOULD RIDE THE ENTIRE DENVER LIGHT RAIL IN ONE DAY."** It seemed so obvious. How was this a new thought to me?! Having completed a <a href="/blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/" target="_blank">similar urban challenge</a> in the past and enjoying a growing passion for public transit, this was the perfect goal. I set a due date: by the end of 2015, I would ride all 6 lines of the RTD light rail.
 
 **Stations Completed: 0. Buses Ridden: 0. Ideas I Was Thrilled to Implement: 1.**
 
