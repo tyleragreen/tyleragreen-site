@@ -38,7 +38,7 @@ As with most transit projects, the input to gtfs-geojson is a GTFS feed. GTFS is
 
 gtfs-geojson implements the same algorithm as the "Points to path" QGIS tool I used when <a href="/blog/2016/01/transfort-bus-stops-through-the-lens-of-gis/" target="_blank">looking at Transfort bus data</a>. The main trick is that the points within each route ID must be sorted by their point sequence value. Several other QGIS plugins I tried did not do this correctly, so don't forget this if implementing this yourself!
 
-While QGIS tools output shapefiles, gtfs-geojson produces a GeoJSON file, which is a JSON stream with geospatial points and polylines data served up in a standard format. I have previously <a href="http://www.tyleragreen.com/blog/2016/02/new-york-city-transit-frequency-visualization/" target="_blank">loaded GeoJSON files in Mapbox</a> applications, and they are also useful in a GIS context. The following three lines will load the library, validate the GTFS feed, convert its shapes.txt file to GeoJSON format, and write the GeoJSON to a file.
+While QGIS tools output shapefiles, gtfs-geojson produces a GeoJSON file, which is a JSON stream with geospatial points and polylines data served up in a standard format. I have previously <a href="/blog/2016/02/new-york-city-transit-frequency-visualization/">loaded GeoJSON files in Mapbox</a> applications, and they are also useful in a GIS context. The following three lines will load the library, validate the GTFS feed, convert its shapes.txt file to GeoJSON format, and write the GeoJSON to a file.
 
 ```
 require 'gtfs-geojson'

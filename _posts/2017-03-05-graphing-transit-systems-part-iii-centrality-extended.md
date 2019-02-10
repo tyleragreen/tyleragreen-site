@@ -15,7 +15,7 @@ tags:
   - new york city
   - paris
 ---
-_This is the third post diving into the graph structure of the New York City subway system. Read the [first](http://www.tyleragreen.com/blog/2016/10/graphing-transit-systems/) <a href="http://www.tyleragreen.com/blog/2017/03/graphing-transit-systems-part-ii-centrality/" target="_blank">two</a> for more background!_
+_This is the third post diving into the graph structure of the New York City subway system. Read the [first](/blog/2016/10/graphing-transit-systems/) <a href="/blog/2017/03/graphing-transit-systems-part-ii-centrality/" target="_blank">two</a> for more background!_
 
 At the start of last post, I threw out two questions:
 
