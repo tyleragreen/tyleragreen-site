@@ -26,15 +26,19 @@ We discussed the difference between centrality metrics and node importance metr
 
 To support our discussion, I whipped up a map showing the MTA subway ridership data by itself using Carto. <a href="https://tyleragreen.carto.com/viz/568a4bcc-fb87-11e6-b240-0e3ebc282e83/embed_map" target="_blank">Here's the interactive map</a>! The data is from the years 2010 to 2015 and is <a href="http://web.mta.info/nyct/facts/ridership/ridership_sub_annual.htm" target="_blank">provided by the MTA</a>.
 
-<a href="https://tyleragreen.carto.com/viz/568a4bcc-fb87-11e6-b240-0e3ebc282e83/embed_map" target="_blank"><img class="aligncenter" src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/ridership.PNG?w=676" alt="" data-recalc-dims="1" /></a>
+<a href="https://tyleragreen.carto.com/viz/568a4bcc-fb87-11e6-b240-0e3ebc282e83/embed_map" target="_blank"><img class="aligncenter" src="/assets/img/2017-03-05/ridership.PNG" alt="" /></a>
 
 ## Does the network structure of the New York City subway indicate Times Square is a critical station, or is that just where the most riders board?
 
 To answer this question, I calculated the correlation between ridership and centrality. In the scatter plots below, the independent variable is the centrality score per station, and the dependent variable is the ridership at that station, averaged over the years 2010 through 2015. This might seem backwards, but I chose this because the centrality metric is a reflection of the network structure and we are studying the effect of network structure on ridership.
 
-<img class="aligncenter" src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/closeness_scatter.png?w=676" alt="" data-recalc-dims="1" />
+<div style="text-align:center">
+<img class="aligncenter" src="/assets/img/2017-03-05/closeness_scatter.png" alt="" />
+</div>
   
-<img class="aligncenter" src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/accessibility_scatter.png?w=676" alt="" data-recalc-dims="1" />
+<div style="text-align:center">
+<img class="aligncenter" src="/assets/img/2017-03-05/accessibility_scatter.png" alt="" />
+</div>
 
 The correlation coefficient for these two data sets show a moderate positive correlation.
 
@@ -53,19 +57,27 @@ Why would we want all stations to be "important"? If our goal is for all citize
 
 The two histograms below sit on the same range on the horizontal axis. The count on the vertical axis is the number of stations which fall into the horizontal range represented by its bar. As you can see, Paris has many, many stations which score higher than all of New York City's.
 
-<img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/nyc_closeness_histogram.png?w=676" alt="" data-recalc-dims="1" />
+<div style="text-align:center">
+<img src="/assets/img/2017-03-05/nyc_closeness_histogram.png" alt="" />
+</div>
   
-<img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/paris_closeness_histogram.png?w=676" alt="" data-recalc-dims="1" />
+<div style="text-align:center">
+<img src="/assets/img/2017-03-05/paris_closeness_histogram.png" alt="" />
+</div>
 
-There is one large caveat here: land area. Officially, the area of New York City is 302.6 square miles, while Paris is only 40.7 square miles. Another metric is longest subway line: New York's A train extends 31 miles, while Paris&#8217; Line 13 is just over 15 miles. Closeness centrality uses shortest path between station pairs, which in my graph, are the number of seconds for a trip. A 31-mile subway trip will take longer than a 15-mile subway trip, so this metrics are stacked against New York City subway and the large area it covers.
+There is one large caveat here: land area. Officially, the area of New York City is 302.6 square miles, while Paris is only 40.7 square miles. Another metric is longest subway line: New York's A train extends 31 miles, while Paris' Line 13 is just over 15 miles. Closeness centrality uses shortest path between station pairs, which in my graph, are the number of seconds for a trip. A 31-mile subway trip will take longer than a 15-mile subway trip, so this metrics are stacked against New York City subway and the large area it covers.
 
-Concerning our question, even though Paris' stations score much higher than New York&#8217;s, **they are not all equal. This gets back to my earlier point: there will be an importance continuum among stations, but improving the importance of the least connected stations can still provide a benefit to citizens.**
+Concerning our question, even though Paris' stations score much higher than New York's, **they are not all equal. This gets back to my earlier point: there will be an importance continuum among stations, but improving the importance of the least connected stations can still provide a benefit to citizens.**
 
 Next, let's look at this histograms for New York and Paris outward accessibility scores.
   
-<img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/nyc_accessibility_histogram.png?w=676" alt="" data-recalc-dims="1" />
+<div style="text-align:center">
+<img src="/assets/img/2017-03-05/nyc_accessibility_histogram.png" alt="" />
+</div>
   
-<img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2017-03-gtfs-graph-centrality/paris_accessibility_histogram.png?w=676" alt="" data-recalc-dims="1" />
+<div style="text-align:center">
+<img src="/assets/img/2017-03-05/paris_accessibility_histogram.png" alt="" />
+</div>
 
 There is not as much difference between New York City and Paris in the histograms for outward accessibility. This metric is independent of network area or subway line length, so this does not surprise me. It may hint that more of the difference between the networks for closeness centrality may be due to geographical area.
 
