@@ -29,32 +29,32 @@ That's it! Keep reading for some photos of my experience and details on each com
 
 As you can see in the screenshots below, there are several stations scattered throughout Old Town. The second image is a wider map view of Fort Collins, which shows the stations are very concentrated in a single part of town for now. I would expect the station coverage to expand if the program proves successful in the denser section of Fort Collins, following the roll-out model of Chicago's Divvy bike share.
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture4.jpg?resize=676%2C1200" alt="Map of bike share stations in north Fort Collins." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare_capture4.jpg" alt="Map of bike share stations in north Fort Collins." />
   
   <p class="wp-caption-text">
     Map of bike share stations in north Fort Collins.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture5.jpg?resize=676%2C1200" alt="Bike share stations are concentrated main around Old Town Fort Collins at the system's launch on Friday, April 1st. But this is no joke!" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare_capture5.jpg" alt="Bike share stations are concentrated main around Old Town Fort Collins at the system's launch on Friday, April 1st. But this is no joke!" />
   
   <p class="wp-caption-text">
     Bike share stations are concentrated main around Old Town Fort Collins at the system's launch on Friday, April 1st. But this is no joke!
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare4.jpg?resize=676%2C507" alt="The bike share station at Oak and College." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare4.jpg" alt="The bike share station at Oak and College." />
   
   <p class="wp-caption-text">
     The bike share station at Oak and College.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare1.jpg?resize=676%2C901" alt="The instructions at the Oak and College station have already been &quot;artistically modified.&quot;" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare1.jpg" alt="The instructions at the Oak and College station have already been &quot;artistically modified.&quot;" />
   
   <p class="wp-caption-text">
     The instructions at the Oak and College station have already been "artistically modified."
@@ -70,24 +70,24 @@ The fee structure is as follows:
 
 I've included some screenshots showing how you pick your payment plan in the Zagster app. I purchased the 24 hour membership for $7 and had the bike checked out for about 50 minutes, resulting in a $2 usage fee.
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture1.jpg?resize=676%2C1200" alt="Screenshot of the Zapster app for the 24 hour membership." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare_capture1.jpg" alt="Screenshot of the Zapster app for the 24 hour membership." />
   
   <p class="wp-caption-text">
     Screenshot of the Zapster app for the 24 hour membership.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture3.jpg?resize=676%2C1200" alt="Screenshot of the Zapster app for the weekly membership." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare_capture3.jpg" alt="Screenshot of the Zapster app for the weekly membership." />
   
   <p class="wp-caption-text">
     Screenshot of the Zapster app for the weekly membership.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture2.jpg?resize=676%2C1200" alt="Screenshot of the Zapster app for the annual membership." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare_capture2.jpg" alt="Screenshot of the Zapster app for the annual membership." />
   
   <p class="wp-caption-text">
     Screenshot of the Zapster app for the annual membership.
@@ -104,48 +104,48 @@ The bike even had a bell and basket in front! I saw another bike share user put 
 
 I'm not quite sure what I did to relock the key box when I returned the bike. I locked the U-lock back up to the station, but could not get the key box to close. The sign on the bike says to re-enter your code if you can&#8217;t get the box to lock, and I did this and was eventually able to hear the box relock, but I don&#8217;t think it was because of me re-entering the code. If you understand the inputs and feedback of this system, please let me know!
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare2.jpg?resize=676%2C901" alt="The keypad on the back rack of the bike." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare2.jpg" alt="The keypad on the back rack of the bike." />
   
   <p class="wp-caption-text">
     The keypad on the back rack of the bike.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare3.jpg?resize=676%2C507" alt="Instruction for using the keypad, also on the back rack of the bike." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare3.jpg" alt="Instruction for using the keypad, also on the back rack of the bike." />
   
   <p class="wp-caption-text">
     Instruction for using the keypad, also on the back rack of the bike.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare5.jpg?resize=676%2C901" alt="A row of new Zagster bikes at the Oak and College station." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare5.jpg" alt="A row of new Zagster bikes at the Oak and College station." />
   
   <p class="wp-caption-text">
     A row of new Zagster bikes at the Oak and College station.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare6.jpg?resize=676%2C901" alt="The 4-digit code you type into the app on the side of the keypad." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare6.jpg" alt="The 4-digit code you type into the app on the side of the keypad." />
   
   <p class="wp-caption-text">
     The 4-digit code you type into the app on the side of the keypad.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare7.jpg?resize=676%2C901" alt="The 8-digit code you DO NOT type into the app." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare7.jpg" alt="The 8-digit code you DO NOT type into the app." />
   
   <p class="wp-caption-text">
     The 8-digit code you DO NOT type into the app.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare8.jpg?resize=676%2C901" alt="The slot which holds the U-lock while you ride." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare8.jpg" alt="The slot which holds the U-lock while you ride." />
   
   <p class="wp-caption-text">
     The slot which holds the U-lock while you ride.
@@ -166,8 +166,8 @@ I know I normally say this about other modes of transit, but until next time&#82
 
 _Have you had any good or bad experiences with the bike share?_
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare9.jpg?resize=676%2C507" alt="My Zagster bike at City Park Lake. The new bike share is a great improvement for mobility in Fort Collins!" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-04-03/bikeshare9.jpg" alt="My Zagster bike at City Park Lake. The new bike share is a great improvement for mobility in Fort Collins!" />
   
   <p class="wp-caption-text">
     My Zagster bike at City Park Lake. The new bike share is a great improvement for mobility in Fort Collins!
