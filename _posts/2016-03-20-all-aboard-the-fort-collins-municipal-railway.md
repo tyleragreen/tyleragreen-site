@@ -19,96 +19,96 @@ Streetcars originally ran in Fort Collins from 1907 until 1951. Five streetcars 
 
 The trolley runs on weekends and holidays May through September. Visit <a href="http://www.fortcollinstrolley.org/" target="_blank">fortcollinstrolley.org</a> for more information!
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn1.jpg?resize=676%2C507" alt="The Fort Collins Municipal Railway barn on N. Howes Street. It was built in roughly ten years before the date listed on its sign of 1919. Not sure of the reason for the misdirection!" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn1.jpg" alt="The Fort Collins Municipal Railway barn on N. Howes Street. It was built in roughly ten years before the date listed on its sign of 1919. Not sure of the reason for the misdirection!" />
   
   <p class="wp-caption-text">
     The Fort Collins Municipal Railway barn on N. Howes Street. It was built in roughly ten years before the date listed on its sign of 1919. Not sure of the reason for the misdirection!
   </p>
 </div>
 
-<div style="width: 517px" class="wp-caption aligncenter">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn2.jpg?resize=507%2C676" alt="The body of Car 25 in restoration in the trolley barn. The &quot;truck&quot; or undercarriage is pictured in the foreground. Its current restoration as Charleston Car 407 was done by the SCANA Corporation of South Carolina. It was purchased by the Fort Collins Municipal Railway society in 2007." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn2.jpg" alt="The body of Car 25 in restoration in the trolley barn. The &quot;truck&quot; or undercarriage is pictured in the foreground. Its current restoration as Charleston Car 407 was done by the SCANA Corporation of South Carolina. It was purchased by the Fort Collins Municipal Railway society in 2007." />
   
   <p class="wp-caption-text">
     The body of Car 25 in restoration in the trolley barn. The "truck" or undercarriage is pictured in the foreground. Its current restoration as Charleston Car 407 was done by the SCANA Corporation of South Carolina. It was purchased by the Fort Collins Municipal Railway society in 2007.
   </p>
 </div>
 
-<div style="width: 517px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn3.jpg?resize=507%2C676" alt="A closer view of the truck of Car 25. In the foreground and background center are the two motors that power the wheels. The short wheel base was common among Birney cars such as this one." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn3.jpg" alt="A closer view of the truck of Car 25. In the foreground and background center are the two motors that power the wheels. The short wheel base was common among Birney cars such as this one." />
   
   <p class="wp-caption-text">
     A closer view of the truck of Car 25. In the foreground and background center are the two motors that power the wheels. The short wheel base was common among Birney cars such as this one.
   </p>
 </div>
 
-<div style="width: 517px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn4.jpg?resize=507%2C676" alt="A close up of one of the Car 25 wheels. The motorman has a control that will drop sand onto the tracks in front of each tire to assist in braking!" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn4.jpg" alt="A close up of one of the Car 25 wheels. The motorman has a control that will drop sand onto the tracks in front of each tire to assist in braking!" />
   
   <p class="wp-caption-text">
     A close up of one of the Car 25 wheels. The motorman has a control that will drop sand onto the tracks in front of each wheel to assist in braking!
   </p>
 </div>
 
-<div style="width: 682px" class="wp-caption aligncenter">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn5.jpg?resize=672%2C676" alt="Other contents of the trolley barn garage included a recently-retired Transfort bus. There was talk of opening a transportation museum, and this is one of the &quot;relics&quot;. Transfort does not operate any Blue Birds today, so this find excited me!" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn5.jpg" alt="Other contents of the trolley barn garage included a recently-retired Transfort bus. There was talk of opening a transportation museum, and this is one of the &quot;relics&quot;. Transfort does not operate any Blue Birds today, so this find excited me!" />
   
   <p class="wp-caption-text">
     Other contents of the trolley barn garage included a recently-retired Transfort bus. There was talk of opening a transportation museum, and this is one of the "relics". Transfort does not operate any Blue Birds today (only Gilligs and NABIs, that I know of), so this find excited me!
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn6.jpg?resize=676%2C507" alt="More trolley barn contents: a historical Timnath fire truck!" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn6.jpg" alt="More trolley barn contents: a historical Timnath fire truck!" />
   
   <p class="wp-caption-text">
     More trolley barn contents: a historical Timnath fire truck!
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn7.jpg?resize=676%2C507" alt="A historical omnibus (horse-drawn bus) in the Fort Collins Municipal Railway trolley barn! There is some doubt as two whether this was actually a school bus, but the side reads &quot;Cache la Poudre School Bus.&quot;" data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn7.jpg" alt="A historical omnibus (horse-drawn bus) in the Fort Collins Municipal Railway trolley barn! There is some doubt as two whether this was actually a school bus, but the side reads &quot;Cache la Poudre School Bus.&quot;" />
   
   <p class="wp-caption-text">
     A historical omnibus (horse-drawn bus) in the Fort Collins Municipal Railway trolley barn! There is some doubt as two whether this was actually a school bus, but the side reads "Cache la Poudre School Bus."
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn8.jpg?resize=676%2C507" alt="A side view of the &quot;Cache la Poudre School Bus&quot; in the Fort Collins Municipal trolley barn." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn8.jpg" alt="A side view of the &quot;Cache la Poudre School Bus&quot; in the Fort Collins Municipal trolley barn." />
   
   <p class="wp-caption-text">
     A side view of the "Cache la Poudre School Bus."
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn9.jpg?resize=676%2C507" alt="Two giants in transit: Blue Bird and Transfort." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn9.jpg" alt="Two giants in transit: Blue Bird and Transfort." />
   
   <p class="wp-caption-text">
     Two giants in transit: Blue Bird and Transfort.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn10.jpg?resize=676%2C507" alt="The Transfort bus was retired even more recently than I would have guessed; this label shows its annual inspection was last completed in June 2014." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn10.jpg" alt="The Transfort bus was retired even more recently than I would have guessed; this label shows its annual inspection was last completed in June 2014." />
   
   <p class="wp-caption-text">
     The Transfort bus was retired even more recently than I would have guessed; this label shows its annual inspection was last completed in June 2014.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn11.jpg?resize=676%2C507" alt="The interior of Car 25 during restoration in the Fort Collins Municipal Railway trolley barn." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn11.jpg" alt="The interior of Car 25 during restoration in the Fort Collins Municipal Railway trolley barn." />
   
   <p class="wp-caption-text">
     The interior of Car 25 during restoration.
   </p>
 </div>
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-trolley-barn/trolley_barn12.jpg?resize=676%2C507" alt="The ceiling of Car 25 is marked with its original manufacturer: J.G. Brill Company in Philadelphia. Brill stopped making transit vehicles in 1954." data-recalc-dims="1" />
+<div style="text-align:center">
+  <img src="/assets/img/2016-03-20/trolley_barn12.jpg" alt="The ceiling of Car 25 is marked with its original manufacturer: J.G. Brill Company in Philadelphia. Brill stopped making transit vehicles in 1954." />
   
   <p class="wp-caption-text">
     The ceiling of Car 25 is marked with its original manufacturer: J.G. Brill Company in Philadelphia. Brill stopped making transit vehicles in 1954.
