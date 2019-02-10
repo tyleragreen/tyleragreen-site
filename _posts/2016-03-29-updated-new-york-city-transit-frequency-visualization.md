@@ -14,12 +14,12 @@ tags:
   - ruby
   - transitland
 ---
-Since I detailed my New York City transit frequency visualization project <a href="http://www.tyleragreen.com/blog/2016/02/new-york-city-transit-frequency-visualization/" target="_blank">last month</a>, there have been a few updates. <a href="http://www.tyleragreen.com/maps/new_york" target="_blank">Check out the web tool</a> to view the changes!
+Since I detailed my New York City transit frequency visualization project <a href="/blog/2016/02/new-york-city-transit-frequency-visualization/">last month</a>, there have been a few updates. <a href="/maps/new_york" target="_blank">Check out the web tool</a> to view the changes!
 
 ## What's new?
 
   * The frequency buckets have been realigned to better parallel the psychology of how we use transit. The bins now group trips of less than 4 trips per hour, 4 to 8 trips per hour, and more than 8 trips per hour. <span style="font-weight: 400;">Less than 4 trips per hour is generally the threshold where riders should consult a schedule before waiting on a curb, so it was important to separate these visually. </span>The thickness of each edge now also increases with frequency.
-  * There is now much more coverage in Queens bus data. No, MTA did not see my first update and decide to expand Queens service, though that would be awesome! I communicated with the Transitland team and my tool helped them discover they were previously missing the feed for the MTA Bus Company. It was historically a separate company and still has its own <a href="http://transitfeeds.com/p/mta/85" target="_blank">GTFS feed</a>. I came up with some wild conclusions in <a href="http://www.tyleragreen.com/blog/2016/02/new-york-city-transit-frequency-visualization/" target="_blank">my previous post on this project</a>, several of which were rendered invalid by the completion of the data set.
+  * There is now much more coverage in Queens bus data. No, MTA did not see my first update and decide to expand Queens service, though that would be awesome! I communicated with the Transitland team and my tool helped them discover they were previously missing the feed for the MTA Bus Company. It was historically a separate company and still has its own <a href="http://transitfeeds.com/p/mta/85" target="_blank">GTFS feed</a>. I came up with some wild conclusions in <a href="/blog/2016/02/new-york-city-transit-frequency-visualization/">my previous post on this project</a>, several of which were rendered invalid by the completion of the data set.
 
 ## What's up next?
 
@@ -29,8 +29,8 @@ We're all #InTransit everyday and I hope to have many more updates soon!
 
 _What kind of things are you working on? Let me know in the comments below!_
 
-<div style="width: 686px" class="wp-caption aligncenter">
-  <a href="http://www.tyleragreen.com/maps/new_york/" target="_blank"><img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-nyc-viz-update/friday_subway.png?resize=676%2C503" alt="The frequency data for subway routes on a Friday morning for New York City transit. The darker the color, the higher the frequency!" data-recalc-dims="1" /></a>
+<div style="text-align:center">
+  <a href="/maps/new_york/" target="_blank"><img src="/assets/img/2016-03-29/friday_subway.png" alt="The frequency data for subway routes on a Friday morning for New York City transit. The darker the color, the higher the frequency!" /></a>
   
   <p class="wp-caption-text">
     The frequency data for subway routes on a Friday morning in New York City. The darker the color, the higher the frequency!
