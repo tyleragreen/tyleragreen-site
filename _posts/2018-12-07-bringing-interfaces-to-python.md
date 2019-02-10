@@ -47,4 +47,4 @@ Some other things which would be interesting to explore:
   
 3. Requiring interface methods to be empty/abstract/`pass`-only
 
-`interface` was a great learning experience and I'm hoping to produce more Python libraries in the future! Let me know if you have any related ideas. Or&#8230; open a PR. <img src="http://i2.wp.com/www.tyleragreen.com/blog/wp-includes/images/smilies/simple-smile.png?w=676" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" data-recalc-dims="1" />
+`interface` was a great learning experience and I'm hoping to produce more Python libraries in the future! Let me know if you have any related ideas. Or&#8230; open a PR. <img src="/assets/img/2018-12-07/simple-smile.png" alt=":)" style="height: 1em; max-height: 1em;" />
