@@ -20,8 +20,8 @@ I'm a few months late on this one, but I recently wanted to learn about WebSock
 
 Try clicking on a marker for more information on the subway/bus/light rail/commuter rail vehicle it represents!
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <a href="https://boston-in-transit.herokuapp.com/" target="_blank"><img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-07-boston-map/boston_1.png?resize=676%2C351" alt="The sidebar of the application appears when you click on a vehicle. The area could be populated with tons more info from the GTFS static feed!" data-recalc-dims="1" /></a>
+<div style="text-align:center">
+  <a href="https://boston-in-transit.herokuapp.com/" target="_blank"><img src="/assets/img/2016-07-31/boston_1.png" alt="The sidebar of the application appears when you click on a vehicle. The area could be populated with tons more info from the GTFS static feed!" /></a>
   
   <p class="wp-caption-text">
     The sidebar of the application appears when you click on a vehicle. This area could be populated with tons more info from the GTFS static feed!
@@ -34,8 +34,8 @@ The app runs on a Node.js server that accepts both a socket connection and an AP
 
 The basic architecture described until this point can operate completely independent from a GTFS static feed, but this would only produce a bunch of dots on a map which move periodically. Which, don't get me wrong, made me ecstatic when that was all I had. But linking up a GTFS static feed gives each dot context. I decided to load the MBTA feed into a Postgres database on Amazon&#8217;s Relation Database Service using <a href="https://github.com/tyleragreen/gtfs-schema/blob/master/mbta/schema.sql" target="_blank">this schema</a>. The GTFS static connection allows for two features: 1) the client issues an API call to fetch the route and headsign when you click on a vehicle, which is fulfilled by the server through a database query, and 2) the colored route lines are pre-generated into a GeoJSON file using <a href="https://github.com/tyleragreen/boston-in-transit/blob/master/scripts/gtfs_to_geojson.js" target="_blank">a Node.js script</a> which runs a database query to fetch the official MBTA color for each route.
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <a href="https://boston-in-transit.herokuapp.com/" target="_blank"><img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-07-boston-map/boston_2.png?resize=676%2C647" alt="The purple lines are the commuter rail routes. I chuckled the first time these lines loaded and I kept have to zoom out to see where they stop. To Providence and beyond!" data-recalc-dims="1" /></a>
+<div style="text-align:center">
+  <a href="https://boston-in-transit.herokuapp.com/" target="_blank"><img src="/assets/img/2016-07-31/boston_2.png" alt="The purple lines are the commuter rail routes. I chuckled the first time these lines loaded and I kept have to zoom out to see where they stop. To Providence and beyond!" /></a>
   
   <p class="wp-caption-text">
     The purple lines represent the commuter rail routes. I chuckled the first time these lines loaded and I kept having to zoom out to see where they stop. To Providence and beyond!
@@ -52,8 +52,8 @@ You may not need this map to plan your commute from Back Bay to South Station, b
 
 Until next time, **ride on**!
 
-<div style="width: 686px" class="wp-caption alignnone">
-  <a href="https://boston-in-transit.herokuapp.com/" target="_blank"><img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-07-boston-map/boston_3.png?resize=676%2C417" alt="I never get tired of staring at these colored lines until the markers all jump to their next position! The yellow is the official color specified for the bus routes in the MBTA GTFS static feed. Anyone know the reason for this? It also look like the Silver Line goes a bit crazy right after exiting the Ted Williams Tunnel." data-recalc-dims="1" /></a>
+<div style="text-align:center">
+  <a href="https://boston-in-transit.herokuapp.com/" target="_blank"><img src="/assets/img/2016-07-31/boston_3.png" alt="I never get tired of staring at these colored lines until the markers all jump to their next position! The yellow is the official color specified for the bus routes in the MBTA GTFS static feed. Anyone know the reason for this? It also look like the Silver Line goes a bit crazy right after exiting the Ted Williams Tunnel." /></a>
   
   <p class="wp-caption-text">
     I never get tired of staring at these colored lines until the markers all jump to their next position! The yellow is the official color specified for the bus routes in the MBTA GTFS static feed. Anyone know the reason for this? It also looks like the Silver Line goes a bit crazy right after exiting the Ted Williams Tunnel. Correct me if I'm wrong, but I think this is where Silver Line buses switch from diesel power to trolleybuses?
