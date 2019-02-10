@@ -115,6 +115,6 @@ The trolley runs on weekends and holidays May through September. Visit <a href
   </p>
 </div>
 
-I have loads more to learn about trolleys in Fort Collins! <a href="http://www.tyleragreen.com/contact" target="_blank">Let me know</a> if you have any questions and I can likely find the answer from the knowledgeable people in the society. Hope to see you on the ride down Mountain Avenue this summer!
+I have loads more to learn about trolleys in Fort Collins! <a href="/#connect" target="_blank">Let me know</a> if you have any questions and I can likely find the answer from the knowledgeable people in the society. Hope to see you on the ride down Mountain Avenue this summer!
 
 **Ride on!**

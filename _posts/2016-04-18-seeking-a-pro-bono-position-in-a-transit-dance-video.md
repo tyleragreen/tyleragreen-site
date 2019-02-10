@@ -84,9 +84,9 @@ Let&#8217;s match (or exceed) this.
   <strong>Contact</strong>
 </h4>
 
-If you are a transit agency producing promotional media, <a href="http://www.tyleragreen.com/contact/" target="_blank">contact me</a> and we&#8217;ll talk.
+If you are a transit agency producing promotional media, <a href="/#connect" target="_blank">contact me</a> and we&#8217;ll talk.
 
-If you are an enthusiastic transit rider, <a href="http://www.tyleragreen.com/contact/" target="_blank">let&#8217;s brainstorm</a>.
+If you are an enthusiastic transit rider, <a href="/#connect" target="_blank">let&#8217;s brainstorm</a>.
 
 Either way, **see you on the rails.**
 

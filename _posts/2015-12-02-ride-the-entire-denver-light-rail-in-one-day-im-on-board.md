@@ -282,7 +282,7 @@ Our entire #RTDDay adventure had taken 12 hours. We had experienced 46 light rai
 
 Colby, thanks for joining me on our adventure! Hopefully you enjoyed experiencing a familiar city from a new point of view.
 
-#RTDDay made me even more excited for the <a href="http://transitmaps.tumblr.com/post/124941667875/denver-new-rail-2016" target="_blank">opening of the A, B, G, and R lines in 2016</a>. If everything goes well, I will get to do a similar challenge this time next year! If you have any recommendations for #RTDDay2016, please <a href="http://www.tyleragreen.com/contact/" target="_blank">contact me</a>! If there are any public transit enthusiasts out there who want to meet up on a train or bus somewhere, <a href="http://www.tyleragreen.com/contact/" target="_blank">drop me a line</a> and I’ll see when my travels take me to your transit system.
+#RTDDay made me even more excited for the <a href="http://transitmaps.tumblr.com/post/124941667875/denver-new-rail-2016" target="_blank">opening of the A, B, G, and R lines in 2016</a>. If everything goes well, I will get to do a similar challenge this time next year! If you have any recommendations for #RTDDay2016, please <a href="/#connect" target="_blank">contact me</a>! If there are any public transit enthusiasts out there who want to meet up on a train or bus somewhere, <a href="/#connect" target="_blank">drop me a line</a> and I’ll see when my travels take me to your transit system.
 
 **Stations Completed: 46. Buses Ridden: 4. Transit Systems Completed in One Day: 1.**
 

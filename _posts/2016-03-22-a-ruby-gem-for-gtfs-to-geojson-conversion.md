@@ -50,7 +50,7 @@ While QGIS tools output shapefiles, gtfs-geojson produces a GeoJSON file, which
 
 </pre>
 
-That&#8217;s it! [Let me know](http://www.tyleragreen.com/contact) if you have any suggestions! The README on <a href="https://github.com/tyleragreen/gtfs-geojson" target="_blank">the GitHub repo</a> gives installation instructions.
+That&#8217;s it! [Let me know](/#connect) if you have any suggestions! The README on <a href="https://github.com/tyleragreen/gtfs-geojson" target="_blank">the GitHub repo</a> gives installation instructions.
 
 The most valuable tip I learned while creating this gem was the use of the **$RUBYLIB** environment variable. This isn&#8217;t necessary when installing a gem onto your system using bundler, but it is extremely helpful during development. **$RUBYLIB** lets you specify the path searched when the **require** keyword is used. To add paths dynamically to **$RUBYLIB**, you can push items to the &#8216;**$:**&#8216; array. **$:** is shorthand for **$LOAD_PATH** within a Ruby program. My **require_relative** days are over!
 
@@ -60,4 +60,4 @@ I plan to use gtfs-geojson in a Rails project in the future. And speaking of ge
 
 Until then, **ride on**!
 
-_Have any transit projects to share? [Let me know](http://www.tyleragreen.com/contact)!_
+_Have any transit projects to share? [Let me know](/#connect)!_

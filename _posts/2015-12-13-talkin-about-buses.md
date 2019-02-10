@@ -119,6 +119,6 @@ I still get Facebook comments from friends I never remember talking about buses 
 
 So if you have ever seen my tweets or blog posts and wondered what the strange fascination with buses was about, now you know.
 
-Speaking of that, care to <a href="http://www.tyleragreen.com/contact/" target="_blank">talk about buses</a>?
+Speaking of that, care to <a href="/#connect" target="_blank">talk about buses</a>?
 
 P.S. &#8211; Hector will be a guest on an upcoming #TylerTalksTransit episode! Follow along on <a href="http://twitter.com/tgreen8091" target="_blank">Twitter</a> or <a href="https://www.youtube.com/+TylerAGreen" target="_blank">YouTube</a> to learn when you can view it.
