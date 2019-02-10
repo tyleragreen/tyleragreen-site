@@ -32,7 +32,7 @@ I'm the one in the white.
 
 Actually, I may have been wearing blue. We'd been dancing for 23.5 hours at point.
 
-
+[![UK DanceBlue 2013](http://img.youtube.com/vi/aj61KwFfyNI/0.jpg)](http://www.youtube.com/watch?v=aj61KwFfyNI "UK DanceBlue 2013")
 
 **Purdue Night Train Swing Dance Club**
   
@@ -42,7 +42,7 @@ August 2013 &#8211; December 2014
 
 If you didn't get a great sampling of my individual skill from DanceBlue, the following video shows my full repertoire of lindy hop moves and my ability to seemingly read them off the ceiling.
 
-
+[![Lindy Hope Demo - Purdue University](http://img.youtube.com/vi/AXql1RgYhP0/0.jpg)](http://www.youtube.com/watch?v=AXql1RgYhP0 "Lindy Hope Demo - Purdue University")
 
 <h4 style="text-align: center;">
   <strong>Skills</strong>
@@ -66,7 +66,7 @@ The guy who opens the video inspires me. His energy walking down a suburban stre
 
 Let's match (or exceed) this.
 
-
+[![Silver Line Ad](http://img.youtube.com/vi/UW41gztWML8/0.jpg)](http://www.youtube.com/watch?v=UW41gztWML8 "Silver Line Ad")
 
 **Virgin American Safety Video**
   
@@ -78,7 +78,7 @@ I know this isn't _public_ transit, but they move people and this video moves m
 
 Let's match (or exceed) this.
 
-
+[![Virgin America Safety Video](http://img.youtube.com/vi/DtyfiPIHsIg/0.jpg)](http://www.youtube.com/watch?v=DtyfiPIHsIg "Virgin America Safety Video")
 
 <h4 style="text-align: center;">
   <strong>Contact</strong>
