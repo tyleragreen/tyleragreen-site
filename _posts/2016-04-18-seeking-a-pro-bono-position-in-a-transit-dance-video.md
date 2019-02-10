@@ -72,7 +72,7 @@ Let's match (or exceed) this.
   
 The airline formerly known as Virgin America
 
-My own flight on Virgin, I was literally grinning ear-to-ear the five minutes before the boarding door closed and the following video is the reason why. I'm not sure whether I love the lyrics or choreography more. &#8220;So tonight, get ready to fly, cuz we&#8217;re gonna live it on up in the sky&#8221;? Genius.
+My own flight on Virgin, I was literally grinning ear-to-ear the five minutes before the boarding door closed and the following video is the reason why. I'm not sure whether I love the lyrics or choreography more. "So tonight, get ready to fly, cuz we&#8217;re gonna live it on up in the sky"? Genius.
 
 I know this isn't _public_ transit, but they move people and this video moves me. I hope the Alaskan Airlines&#8217; dancers are stretching and their choreographer is being inspired as we speak.
 

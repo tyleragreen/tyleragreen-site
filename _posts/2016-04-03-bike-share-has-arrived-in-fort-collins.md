@@ -21,7 +21,7 @@ The overall process is quite smooth. Here are your six steps to a ride about th
   3. Enter the code of the bike you wish to use into the app to get the U-lock key.
   4. Unlock the bike.
   5. Ride!
-  6. Return the bike to any station, lock it up with the U-lock, and hit &#8220;Return it!&#8221; on the app.
+  6. Return the bike to any station, lock it up with the U-lock, and hit "Return it!" on the app.
 
 That's it! Keep reading for some photos of my experience and details on each component of the bike share.
 
@@ -57,7 +57,7 @@ As you can see in the screenshots below, there are several stations scattered th
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare1.jpg?resize=676%2C901" alt="The instructions at the Oak and College station have already been &quot;artistically modified.&quot;" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The instructions at the Oak and College station have already been &#8220;artistically modified.&#8221;
+    The instructions at the Oak and College station have already been "artistically modified."
   </p>
 </div>
 
@@ -98,7 +98,7 @@ I've included some screenshots showing how you pick your payment plan in the Zag
 
 I could tell the bikes were very new (I was riding on their second day of operation) and mine had a great feel to it! It was a comfortable cruiser with 8 speeds controlled by a single dial on the right hand grip. I would have preferred one higher gear for cruising down Mountain Avenue, but the gear range is quite suitable for most urban biking trips, especially in a town as flat as Fort Collins.
 
-Two codes are important when unlocking the bike. First, you enter the 4-digit code labeled &#8220;Zagster.com Bike #&#8221; into the app. This code is on the side of the keypad on the rack above the back tire. There is also a longer code on the other side that did not work. The app gave a me a bike not available error when I tried the longer one, so be sure to enter the correct code! After you do this, the app will give you a longer code which you enter on the bike keypad (sandwiched by two presses of the ENT(er) key). This will cause they keypad to open, revealing a key you can use the unlock the U-lock.
+Two codes are important when unlocking the bike. First, you enter the 4-digit code labeled "Zagster.com Bike #" into the app. This code is on the side of the keypad on the rack above the back tire. There is also a longer code on the other side that did not work. The app gave a me a bike not available error when I tried the longer one, so be sure to enter the correct code! After you do this, the app will give you a longer code which you enter on the bike keypad (sandwiched by two presses of the ENT(er) key). This will cause they keypad to open, revealing a key you can use the unlock the U-lock.
 
 The bike even had a bell and basket in front! I saw another bike share user put the U-lock in a slot on the back rack so I did the same. It jiggled a bit while the bike was in motion, so I wonder if some rubber could be added to create a more peaceful ride.
 
@@ -156,7 +156,7 @@ I'm not quite sure what I did to relock the key box when I returned the bike. I 
 
 I noticed two features that were missing from the app. First, it did not seem possible to begin a second reservation using the same phone. This would be a major hindrance to renting bikes for a family. I would hope there is actually a way to do this. Does anyone know if I just missed this feature?
 
-Second, the app does not tell you how many bikes are available at each station. I know I did not miss this feature because the technology does not exist at the stations to track this. When I said &#8220;Return It!&#8221; it was my responsibility to lock the bike up to any station using the provided U-lock. Yes, I returned mine to the same station from which I checked it out, but this is not required, nor known to the app. Bike counts will not affect passerbys, but it could prevent someone from leaving home expecting to rent a bike that may not be at the closest station.
+Second, the app does not tell you how many bikes are available at each station. I know I did not miss this feature because the technology does not exist at the stations to track this. When I said "Return It!" it was my responsibility to lock the bike up to any station using the provided U-lock. Yes, I returned mine to the same station from which I checked it out, but this is not required, nor known to the app. Bike counts will not affect passerbys, but it could prevent someone from leaving home expecting to rent a bike that may not be at the closest station.
 
 All in all, I was quite pleased with the new Fort Collins bike share! I had a lovely bike ride from Old Town to City Park and back on a comfortable bike. Visible bikes in Old Town are a great addition to an already strong biking culture in this city. I can see the system being very useful for visitors or even residents who came to Old Town without their bike but decide to go on a ride. Almost more than anything, we are seeing mobility options improve in Fort Collins and that should be celebrated!
 

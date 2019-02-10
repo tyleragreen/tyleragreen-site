@@ -14,7 +14,7 @@ tags:
   - review
   - rtd
 ---
-Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;Take the &#8216;A' Train&#8221; was finally a meaningful phrase for the Denver metro area! Unfortunately, only one of them could make an appearance, while the other&#8217;s legacy lives on.  Relive the opening of the RTD University of Colorado A Line with my photo journey below!
+Friday was a celebration worthy of Duke Ellington and John Hickenlooper. "Take the &#8216;A' Train" was finally a meaningful phrase for the Denver metro area! Unfortunately, only one of them could make an appearance, while the other&#8217;s legacy lives on.  Relive the opening of the RTD University of Colorado A Line with my photo journey below!
 
 <div style="width: 686px" class="wp-caption alignnone">
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_1.jpg?resize=676%2C507" alt="The first bus route of the day: Transfort's FLEX from downtown Fort Collins to Boulder. My friend Austin joined me four stops later and we were on our way!" data-recalc-dims="1" />
@@ -76,7 +76,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_19.jpg?resize=676%2C448" alt="After the ceremony, the public lined up at the &quot;BOARD TRAINS HERE&quot; sign backed by the baby blue branding <a style=&quot;display: inline;&quot; href=&quot;https://twitter.com/greent_tyler/status/724050085437300737&quot; target=&quot;_blank&quot;>found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &quot;Take the 'A' Train.&quot;" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    After the ceremony, the public lined up at the &#8220;BOARD TRAINS HERE&#8221; sign backed by the baby blue branding <a style="display: inline;" href="https://twitter.com/greent_tyler/status/724050085437300737" target="_blank">found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &#8220;Take the &#8216;A&#8217; Train.&#8221;
+    After the ceremony, the public lined up at the "BOARD TRAINS HERE" sign backed by the baby blue branding <a style="display: inline;" href="https://twitter.com/greent_tyler/status/724050085437300737" target="_blank">found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &#8220;Take the &#8216;A&#8217; Train.&#8221;
   </p>
 </div>
 
@@ -100,7 +100,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_22.jpg?resize=676%2C448" alt="A portrait to go down in transit lore. If I had been clever in the moment, upon seeing the University of Colorado graphics on the side of the train, I would have said, &quot;That's a wrap!&quot;" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    A portrait to go down in transit lore. If I had been clever in the moment, upon seeing the University of Colorado graphics on the side of the train, I would have said, &#8220;That's a wrap!&#8221;
+    A portrait to go down in transit lore. If I had been clever in the moment, upon seeing the University of Colorado graphics on the side of the train, I would have said, "That's a wrap!"
   </p>
 </div>
 
@@ -124,7 +124,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_7.jpg?resize=676%2C507" alt="I was excited to finally ride the A line! And if you had asked if my baby blue shirt was in honor of the #TrainToThePlane, I would have answered, &quot;Yes.&quot;" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I was excited to finally ride the A line! And if you had asked if my baby blue shirt was in honor of the #TrainToThePlane, I would have answered, &#8220;Yes.&#8221;
+    I was excited to finally ride the A line! And if you had asked if my baby blue shirt was in honor of the #TrainToThePlane, I would have answered, "Yes."
   </p>
 </div>
 
@@ -228,7 +228,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_10.jpg?resize=676%2C507" alt="One of the stairs near the doors to the capitol is etched with the phrase &quot;One Mile Above Sea Level.&quot; The Mile High City, indeed!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    One of the stairs near the doors to the capitol is etched with the phrase &#8220;One Mile Above Sea Level.&#8221; The Mile High City, indeed!
+    One of the stairs near the doors to the capitol is etched with the phrase "One Mile Above Sea Level." The Mile High City, indeed!
   </p>
 </div>
 
@@ -312,7 +312,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   </p>
 </div>
 
-We made the journey back to Fort Collins using the Flatiron Flyer &#8220;bus rapid transit&#8221; from Union Station to Boulder. From there, the FLEX took us north onto the MAX guideway and to our respective stops in FoCo. Our $9 regional RTD day passes worked as fare for both the AB and the Flyer. The A line was free for opening day, and I used my Transfort year pass to board the FLEX. This means, **we traveled to Denver and back for only nine dollars**. Without Transfort passes, the total would have been $11.50. Once the A line begins revenue service, this route will cost $20.50. Regardless, transit has come a long way in northern Colorado and our (very circuitous) route showed that mobility has reached new heights.
+We made the journey back to Fort Collins using the Flatiron Flyer "bus rapid transit" from Union Station to Boulder. From there, the FLEX took us north onto the MAX guideway and to our respective stops in FoCo. Our $9 regional RTD day passes worked as fare for both the AB and the Flyer. The A line was free for opening day, and I used my Transfort year pass to board the FLEX. This means, **we traveled to Denver and back for only nine dollars**. Without Transfort passes, the total would have been $11.50. Once the A line begins revenue service, this route will cost $20.50. Regardless, transit has come a long way in northern Colorado and our (very circuitous) route showed that mobility has reached new heights.
 
 I am excited for the rest of the FasTracks program and am thrilled we had the chance to experience the first public run of the #TrainToThePlane.
 

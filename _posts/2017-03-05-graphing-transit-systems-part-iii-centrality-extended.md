@@ -49,7 +49,7 @@ Before we go on, I have a theory that any outlier in these plots are the result 
 
 ## Can all stations in a transit network be important?
 
-Why would we want all stations to be &#8220;important&#8221;? If our goal is for all citizens to have equal access to quality to public transportation, we would like everyone to live near a station which provides this gateway. A transit network will always have stations which are more centrally located than others, but is it possible to minimize the differences between the most connected and the least connected stations? Let's see how do our metrics evaluate the structure of another world-class network in this regard. Enter Paris, its minimal geographical constraints, and its lovely radial network.
+Why would we want all stations to be "important"? If our goal is for all citizens to have equal access to quality to public transportation, we would like everyone to live near a station which provides this gateway. A transit network will always have stations which are more centrally located than others, but is it possible to minimize the differences between the most connected and the least connected stations? Let's see how do our metrics evaluate the structure of another world-class network in this regard. Enter Paris, its minimal geographical constraints, and its lovely radial network.
 
 The two histograms below sit on the same range on the horizontal axis. The count on the vertical axis is the number of stations which fall into the horizontal range represented by its bar. As you can see, Paris has many, many stations which score higher than all of New York City's.
 

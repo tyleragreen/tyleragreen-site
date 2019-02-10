@@ -21,7 +21,7 @@ In a hodgepodge effort to improve on Javascript, learn React, create a generic g
 
 # Why transit graphs?
 
-While reviewing algorithms on Jason Park's <a href="http://algo-visualizer.jasonpark.me/" target="_blank">algorithm visualizer</a>, I thought, &#8220;WE CAN APPLY THESE TO TRANSIT.&#8221; It was a moment of pure destiny. To call it multidisciplinary intrigue would be underselling my excitement. Of course, I was not the first person to connect transit and graphs; Google Maps, <a href="https://github.com/opentripplanner/OpenTripPlanner" target="_blank">Open Trip Planner</a>, and Mapzen&#8217;s <a href="https://mapzen.com/blog/valhalla-intro/" target="_blank">Valhalla</a> are all built on graph representations.
+While reviewing algorithms on Jason Park's <a href="http://algo-visualizer.jasonpark.me/" target="_blank">algorithm visualizer</a>, I thought, "WE CAN APPLY THESE TO TRANSIT." It was a moment of pure destiny. To call it multidisciplinary intrigue would be underselling my excitement. Of course, I was not the first person to connect transit and graphs; Google Maps, <a href="https://github.com/opentripplanner/OpenTripPlanner" target="_blank">Open Trip Planner</a>, and Mapzen&#8217;s <a href="https://mapzen.com/blog/valhalla-intro/" target="_blank">Valhalla</a> are all built on graph representations.
 
 My original goal was to display an animated graph traversal of the New York City subway system. I've ended up with a platform to study graph algorithms on transit maps. (I learned that if I&#8217;m unsure what I&#8217;m building, just call it a _platform_. The _solutions_ will follow.)
 
@@ -49,7 +49,7 @@ Fire up the <a href="http://algo-visualizer.jasonpark.me/" target="_blank">algor
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-10-gtfs-graph/routing2.png?resize=315%2C611" alt="The user interface to pick the origin and destination nodes. I studied Pinterest's CSS to help build the stop tokens that populate the input fields when selected. The route details at the bottom uses &quot;display: flex;&quot;, a tip I picked up from the Google Maps CSS." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The user interface to pick the origin and destination nodes. I studied Pinterest's CSS to help build the stop tokens that populate the input fields when selected. The route details at the bottom uses &#8220;display: flex&#8221;, a tip I picked up from the Google Maps CSS.
+    The user interface to pick the origin and destination nodes. I studied Pinterest's CSS to help build the stop tokens that populate the input fields when selected. The route details at the bottom uses "display: flex", a tip I picked up from the Google Maps CSS.
   </p>
 </div>
 
@@ -105,7 +105,7 @@ A breadth-first search is another traversal variant whose lofty goal is to ident
 
 # What's next?
 
-&#8220;gtfs-graph&#8221; (the [GitHub project name](https://github.com/tyleragreen/gtfs-graph) for now &#8211; please help me come up with a better one!) is built to be system-agnostic. I have graph representations for <a href="https://gtfs-graph.herokuapp.com/rank/boston/" target="_blank">Boston</a> and <a href="https://gtfs-graph.herokuapp.com/rank/paris/" target="_blank">Paris</a> in addition to <a href="https://gtfs-graph.herokuapp.com/rank/nyc/" target="_blank">New York City</a>. While the GTFS standard allowed me to construct all three graphs in similar ways, there were still a few quirks, resulting mainly from how the <a href="https://twitter.com/greent_tyler/status/782766567155130368" target="_blank">different systems represent sub-stops</a> (parent/child or northbound/southbound).
+"gtfs-graph" (the [GitHub project name](https://github.com/tyleragreen/gtfs-graph) for now &#8211; please help me come up with a better one!) is built to be system-agnostic. I have graph representations for <a href="https://gtfs-graph.herokuapp.com/rank/boston/" target="_blank">Boston</a> and <a href="https://gtfs-graph.herokuapp.com/rank/paris/" target="_blank">Paris</a> in addition to <a href="https://gtfs-graph.herokuapp.com/rank/nyc/" target="_blank">New York City</a>. While the GTFS standard allowed me to construct all three graphs in similar ways, there were still a few quirks, resulting mainly from how the <a href="https://twitter.com/greent_tyler/status/782766567155130368" target="_blank">different systems represent sub-stops</a> (parent/child or northbound/southbound).
 
 Recently, I have been implementing centrality algorithms to see how the results varied from system to system. Paris' RATP heavy rail lines certainly look to have higher connectivity than Boston&#8217;s hub-centric design, and I&#8217;m working to find the numbers to prove this. If I can indeed prove this, I&#8217;d like to use a genetic algorithm to efficiently enhance (add lines and stops) a system to match the connected-ness/centrality distribution/equity/whatever-metric-I-end-up-with of a higher quality system.
 
