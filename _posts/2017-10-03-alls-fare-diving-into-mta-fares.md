@@ -1,6 +1,6 @@
 ---
 id: 758
-title: 'All&#8217;s Fare? Diving into MTA Fares'
+title: All's Fare? Diving into MTA Fares
 date: 2017-10-03T06:47:10+00:00
 author: Tyler Green
 layout: post

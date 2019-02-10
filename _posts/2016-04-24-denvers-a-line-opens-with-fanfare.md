@@ -1,6 +1,6 @@
 ---
 id: 654
-title: 'Denver&#8217;s A Line Opens with Fanfare'
+title: 'Denver's A Line Opens with Fanfare'
 date: 2016-04-24T15:42:36+00:00
 author: Tyler Green
 layout: post
@@ -14,13 +14,13 @@ tags:
   - review
   - rtd
 ---
-Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;Take the &#8216;A&#8217; Train&#8221; was finally a meaningful phrase for the Denver metro area! Unfortunately, only one of them could make an appearance, while the other&#8217;s legacy lives on.  Relive the opening of the RTD University of Colorado A Line with my photo journey below!
+Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;Take the &#8216;A' Train&#8221; was finally a meaningful phrase for the Denver metro area! Unfortunately, only one of them could make an appearance, while the other&#8217;s legacy lives on.  Relive the opening of the RTD University of Colorado A Line with my photo journey below!
 
 <div style="width: 686px" class="wp-caption alignnone">
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_1.jpg?resize=676%2C507" alt="The first bus route of the day: Transfort's FLEX from downtown Fort Collins to Boulder. My friend Austin joined me four stops later and we were on our way!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The first bus route of the day: Transfort&#8217;s FLEX from downtown Fort Collins to Boulder. My friend Austin joined me four stops later and we were on our way!
+    The first bus route of the day: Transfort's FLEX from downtown Fort Collins to Boulder. My friend Austin joined me four stops later and we were on our way!
   </p>
 </div>
 
@@ -28,7 +28,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_2.jpg?resize=676%2C901" alt="Boulder BCycle bike share bikes outside the Downtown Boulder Center. BCycle is the same provider as Denver's bike share, while Fort Collins recently opened with Zagster." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Boulder BCycle bike share bikes sit outside the Downtown Boulder Station. BCycle is also the operator of Denver&#8217;s bike share, while Fort Collins&#8217; <a style="display: inline;" href="http://www.tyleragreen.com/blog/2016/04/bike-share-has-arrived-in-fort-collins/" target="_blank">recently opened with Zagster</a>.
+    Boulder BCycle bike share bikes sit outside the Downtown Boulder Station. BCycle is also the operator of Denver's bike share, while Fort Collins&#8217; <a style="display: inline;" href="http://www.tyleragreen.com/blog/2016/04/bike-share-has-arrived-in-fort-collins/" target="_blank">recently opened with Zagster</a>.
   </p>
 </div>
 
@@ -44,7 +44,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_4.jpg?resize=676%2C901" alt="Our second bus of the day: RTD AB from Downtown Boulder Station to DIA! I had not expected a coach-style bus. The driver was initially confused that we wanted return transfer slips. Apparently not many people taking the airport bus return same day! Obviously, they hadn't met transit enthusiasts like us yet." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Our second bus of the day: RTD AB from Downtown Boulder Station to DIA! I had not expected a coach-style bus. The driver was initially confused that we wanted return transfer slips. Apparently not many people taking the airport bus return same day! Obviously, they hadn&#8217;t met transit enthusiasts like us yet.
+    Our second bus of the day: RTD AB from Downtown Boulder Station to DIA! I had not expected a coach-style bus. The driver was initially confused that we wanted return transfer slips. Apparently not many people taking the airport bus return same day! Obviously, they hadn't met transit enthusiasts like us yet.
   </p>
 </div>
 
@@ -52,7 +52,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_5.jpg?resize=676%2C901" alt="Our first look of 'Denver Airport' station on the new RTD A line! This was taken from the overlook just below the lobby of the new Westin at DIA." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Our first look of &#8216;Denver Airport&#8217; station on the new RTD A line! This was taken from the overlook just below the lobby of the new Westin at DIA.
+    Our first look of &#8216;Denver Airport' station on the new RTD A line! This was taken from the overlook just below the lobby of the new Westin at DIA.
   </p>
 </div>
 
@@ -76,7 +76,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_19.jpg?resize=676%2C448" alt="After the ceremony, the public lined up at the &quot;BOARD TRAINS HERE&quot; sign backed by the baby blue branding <a style=&quot;display: inline;&quot; href=&quot;https://twitter.com/greent_tyler/status/724050085437300737&quot; target=&quot;_blank&quot;>found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &quot;Take the 'A' Train.&quot;" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    After the ceremony, the public lined up at the &#8220;BOARD TRAINS HERE&#8221; sign backed by the baby blue branding <a style="display: inline;" href="https://twitter.com/greent_tyler/status/724050085437300737" target="_blank">found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington&#8217;s &#8220;Take the &#8216;A&#8217; Train.&#8221;
+    After the ceremony, the public lined up at the &#8220;BOARD TRAINS HERE&#8221; sign backed by the baby blue branding <a style="display: inline;" href="https://twitter.com/greent_tyler/status/724050085437300737" target="_blank">found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &#8220;Take the &#8216;A&#8217; Train.&#8221;
   </p>
 </div>
 
@@ -100,7 +100,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_22.jpg?resize=676%2C448" alt="A portrait to go down in transit lore. If I had been clever in the moment, upon seeing the University of Colorado graphics on the side of the train, I would have said, &quot;That's a wrap!&quot;" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    A portrait to go down in transit lore. If I had been clever in the moment, upon seeing the University of Colorado graphics on the side of the train, I would have said, &#8220;That&#8217;s a wrap!&#8221;
+    A portrait to go down in transit lore. If I had been clever in the moment, upon seeing the University of Colorado graphics on the side of the train, I would have said, &#8220;That's a wrap!&#8221;
   </p>
 </div>
 
@@ -108,7 +108,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_23.jpg?resize=676%2C448" alt="I wasn't kidding about the baby blue. It was everywhere. We boarded this car!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I wasn&#8217;t kidding about the baby blue. It was everywhere. We boarded this car!
+    I wasn't kidding about the baby blue. It was everywhere. We boarded this car!
   </p>
 </div>
 
@@ -116,7 +116,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_24.jpg?resize=676%2C448" alt="The inside of the commuter rail vehicle was immaculate! It had that new train smell. I was taken aback by the imbalanced seating and had to make sure we hadn't accidentally boarded a plane. The vehicles have a top speed of 79 MPH." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The inside of the commuter rail vehicle was immaculate! It had that new train smell. I was taken aback by the imbalanced seating and had to make sure we hadn&#8217;t accidentally boarded a plane. The vehicles have a top speed of 79 MPH.
+    The inside of the commuter rail vehicle was immaculate! It had that new train smell. I was taken aback by the imbalanced seating and had to make sure we hadn't accidentally boarded a plane. The vehicles have a top speed of 79 MPH.
   </p>
 </div>
 
@@ -196,7 +196,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_31.jpg?resize=676%2C448" alt="The tracks at Union Station have a neat roof structure! Which doesn't provide much actual roof-age. But it makes for cool photos! Two buildings in development can be seen at the end of the platforms, which will provide even more residential and retail buzz for the LoDo area." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The tracks at Union Station have a neat roof structure! Which doesn&#8217;t provide much actual roof-age. But it makes for cool photos! Two buildings in development can be seen at the end of the platforms, which will provide even more residential and retail buzz for the LoDo area.
+    The tracks at Union Station have a neat roof structure! Which doesn't provide much actual roof-age. But it makes for cool photos! Two buildings in development can be seen at the end of the platforms, which will provide even more residential and retail buzz for the LoDo area.
   </p>
 </div>
 
@@ -252,7 +252,7 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. &#8220;
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-a-line/a_train_34.jpg?resize=676%2C448" alt="There were even representatives working in the Colorado House of Representatives chamber! Considering this was a Friday afternoon, I guess I shouldn't be surprised. The speakers at the ceremony had just praised these individuals' bipartisanship and its impact on the passage and completion of the A line." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    There were even representatives working in the Colorado House of Representatives chamber! Considering this was a Friday afternoon, I guess I shouldn&#8217;t be surprised. The speakers at the ceremony had just praised these individuals&#8217; bipartisanship and its impact on the passage and completion of the A line.
+    There were even representatives working in the Colorado House of Representatives chamber! Considering this was a Friday afternoon, I guess I shouldn't be surprised. The speakers at the ceremony had just praised these individuals&#8217; bipartisanship and its impact on the passage and completion of the A line.
   </p>
 </div>
 

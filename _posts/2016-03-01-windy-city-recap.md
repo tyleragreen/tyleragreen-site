@@ -12,7 +12,7 @@ tags:
   - chicago
   - cider summit
 ---
-Each February, a few Purdue friends and I make our way to Navy Pier for <a href="http://www.cidersummitnw.com/chicagoeventinfo.html" target="_blank">Cider Summit Chicago</a>. This was our third year of sampling fermented apples, and my second of making the weekend trip from Colorado to Chicago. I&#8217;ve included a few photos from the fantastic weekend below! They can be reasonably categorized into the following: airports, Chicago, Chicago transit, friends, friends on transit, transit in airports, and waffles.
+Each February, a few Purdue friends and I make our way to Navy Pier for <a href="http://www.cidersummitnw.com/chicagoeventinfo.html" target="_blank">Cider Summit Chicago</a>. This was our third year of sampling fermented apples, and my second of making the weekend trip from Colorado to Chicago. I've included a few photos from the fantastic weekend below! They can be reasonably categorized into the following: airports, Chicago, Chicago transit, friends, friends on transit, transit in airports, and waffles.
 
 Until next year, Cider Up! Oh, and ride on.
 
@@ -20,7 +20,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/2.jpg?resize=676%2C507" alt="Denver's iconic Jeppesen Terminal pre-6am on a Saturday." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Denver&#8217;s iconic Jeppesen Terminal pre-6am on a Saturday.
+    Denver's iconic Jeppesen Terminal pre-6am on a Saturday.
   </p>
 </div>
 
@@ -28,7 +28,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/3.jpg?resize=676%2C676" alt="I always pick a window seat, but is most rewarding flying into Chicago. Here we are looking east while making the turn towards O'Hare." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I always pick a window seat, but is most rewarding flying into Chicago. Here we are looking east while making the turn towards O&#8217;Hare.
+    I always pick a window seat, but is most rewarding flying into Chicago. Here we are looking east while making the turn towards O'Hare.
   </p>
 </div>
 
@@ -36,7 +36,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/4.jpg?resize=676%2C507" alt="O'Hare are we? I met Pushpinder and Dhawal in the airport and we relived one of 18 moments from our 2014 Starbucks adventure!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    O&#8217;Hare are we? I met Pushpinder and Dhawal in the airport and we relived one of 18 moments from our <a style="display: inline;" href="http://www.tyleragreen.com/blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/" target="_blank">2014 Starbucks adventure</a>!
+    O'Hare are we? I met Pushpinder and Dhawal in the airport and we relived one of 18 moments from our <a style="display: inline;" href="http://www.tyleragreen.com/blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/" target="_blank">2014 Starbucks adventure</a>!
   </p>
 </div>
 
@@ -76,7 +76,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/9.jpg?resize=676%2C507" alt="I had read about the gap between the wall and cover of the Loop Link stations, but I didn't realize it was quite this drastic. Especially with Chicago winters. Hmm." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I had read about the gap between the wall and cover of the Loop Link stations, but I didn&#8217;t realize it was quite this drastic. Especially with Chicago winters. Hmm.
+    I had read about the gap between the wall and cover of the Loop Link stations, but I didn't realize it was quite this drastic. Especially with Chicago winters. Hmm.
   </p>
 </div>
 
@@ -84,7 +84,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/10.jpg?resize=507%2C676" alt="Macy's on State had a Chicago skyline replica made from chocolate!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Macy&#8217;s on State had a Chicago skyline replica made from chocolate!
+    Macy's on State had a Chicago skyline replica made from chocolate!
   </p>
 </div>
 
@@ -100,7 +100,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/12.jpg?resize=507%2C676" alt="Honestly, we really just rode the escalators up and down inside Macy's on State. Public transit?" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Honestly, we really just rode the escalators up and down inside Macy&#8217;s on State. Public transit?
+    Honestly, we really just rode the escalators up and down inside Macy's on State. Public transit?
   </p>
 </div>
 
@@ -108,7 +108,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/13.jpg?resize=507%2C676" alt="I guess I can see why the Randolph/Washington CTA station is one scheduled to be replaced by Washington/Wabash in 2017, but that doesn't mean I don't think this is neat route identification." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I guess I can see why the Randolph/Washington CTA station is one scheduled to be replaced by Washington/Wabash in 2017, but that doesn&#8217;t mean I don&#8217;t think this is neat route identification.
+    I guess I can see why the Randolph/Washington CTA station is one scheduled to be replaced by Washington/Wabash in 2017, but that doesn't mean I don&#8217;t think this is neat route identification.
   </p>
 </div>
 
@@ -116,7 +116,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/14.jpg?resize=676%2C676" alt="After exploring Macy's and listening to me ramble about Loop Link stations, my friend Jenni and I went to the Bean!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    After exploring Macy&#8217;s and listening to me ramble about Loop Link stations, my friend Jenni and I went to the Bean!
+    After exploring Macy's and listening to me ramble about Loop Link stations, my friend Jenni and I went to the Bean!
   </p>
 </div>
 
@@ -140,7 +140,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/17.jpg?resize=507%2C676" alt="We discovered stones and fragments in the base of the Tribune Tower! I only took photos of those from the local ballparks (correctly oriented with Wrigley's north of Comiskey's), but other structures such as the Berlin Wall, the Taj Mahal, and even the Pyramids were represented. Awesome oasis on Michigan Avenue!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    We discovered stones and fragments in the base of the Tribune Tower! I only took photos of those from the local ballparks (correctly oriented with Wrigley&#8217;s north of Comiskey&#8217;s), but other structures such as the Berlin Wall, the Taj Mahal, and even the Pyramids were represented. Awesome find on Michigan Avenue!
+    We discovered stones and fragments in the base of the Tribune Tower! I only took photos of those from the local ballparks (correctly oriented with Wrigley's north of Comiskey&#8217;s), but other structures such as the Berlin Wall, the Taj Mahal, and even the Pyramids were represented. Awesome find on Michigan Avenue!
   </p>
 </div>
 
@@ -148,7 +148,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/18.jpg?resize=507%2C676" alt="I didn't think to look for a piece from U.S Cellular Field until now." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I didn&#8217;t think to look for a piece from U.S Cellular Field until I got home.
+    I didn't think to look for a piece from U.S Cellular Field until I got home.
   </p>
 </div>
 
@@ -212,7 +212,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/26.jpg?resize=676%2C507" alt="I take all my friends' pictures on transit. Here, Eric is enjoying his finger-less gloves on the southbound Red line." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I take all my friends&#8217; pictures on transit. Here, Eric is enjoying his finger-less gloves on the southbound Red line.
+    I take all my friends' pictures on transit. Here, Eric is enjoying his finger-less gloves on the southbound Red line.
   </p>
 </div>
 
@@ -220,7 +220,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/27.jpg?resize=507%2C676" alt="Jenni made a less-than-excited transit face, but eventually couldn't contain her excitement to be riding with CTA! Eric's finger-less gloves make an appearance." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Jenni made a less-than-excited transit face, but eventually couldn&#8217;t contain her excitement to be riding with CTA! Eric&#8217;s finger-less gloves make an appearance.
+    Jenni made a less-than-excited transit face, but eventually couldn't contain her excitement to be riding with CTA! Eric&#8217;s finger-less gloves make an appearance.
   </p>
 </div>
 
@@ -236,7 +236,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/29.jpg?resize=676%2C507" alt="CTA's Roosevelt station serves both an underground route (Red) and two above ground routes (Orange and Green). I'm a fan of the CTA branding!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    CTA&#8217;s Roosevelt station serves both an underground route (Red) and two above ground routes (Orange and Green). I&#8217;m a fan of the CTA branding!
+    CTA's Roosevelt station serves both an underground route (Red) and two above ground routes (Orange and Green). I&#8217;m a fan of the CTA branding!
   </p>
 </div>
 
@@ -276,7 +276,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/34.jpg?resize=507%2C676" alt="We finally visited the sponsor of the Chicago Cider Summit, Binny's Beverage Depot!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    We finally visited the sponsor of the Chicago Cider Summit, Binny&#8217;s Beverage Depot!
+    We finally visited the sponsor of the Chicago Cider Summit, Binny's Beverage Depot!
   </p>
 </div>
 
@@ -316,7 +316,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/39.jpg?resize=676%2C507" alt="The O'Hare CTA station always gets me excited at the beginning of my trips! And sad at the end of my trips. Maybe in a few years, I'll be saying that about the O'Hare Express." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The O&#8217;Hare CTA station always gets me excited at the beginning of my trips! And sad at the end of my trips. Maybe in a few years, I&#8217;ll be saying that about the <a style="display: inline;" href="http://www.chicagoreader.com/chicago/ohare-express-train-plan-crossrail-solution/Content?oid=21215854" target="_blank">O&#8217;Hare Express</a>.
+    The O'Hare CTA station always gets me excited at the beginning of my trips! And sad at the end of my trips. Maybe in a few years, I&#8217;ll be saying that about the <a style="display: inline;" href="http://www.chicagoreader.com/chicago/ohare-express-train-plan-crossrail-solution/Content?oid=21215854" target="_blank">O&#8217;Hare Express</a>.
   </p>
 </div>
 
@@ -324,7 +324,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/40.jpg?resize=676%2C507" alt="The view from the top of the CTA station escalators at O'Hare." data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    The view from the top of the CTA station escalators at O&#8217;Hare.
+    The view from the top of the CTA station escalators at O'Hare.
   </p>
 </div>
 
@@ -332,7 +332,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-03-windy-city-recap/41.jpg?resize=676%2C507" alt="I enjoy walking down this section near the K gates of O'Hare's terminal 3. And O'Hare's is a weird word. Two apostrophes? Really?!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    I enjoy walking down this section near the K gates of O&#8217;Hare&#8217;s terminal 3. And O&#8217;Hare&#8217;s is a weird word. Two apostrophes? Really?!
+    I enjoy walking down this section near the K gates of O'Hare&#8217;s terminal 3. And O&#8217;Hare&#8217;s is a weird word. Two apostrophes? Really?!
   </p>
 </div>
 
@@ -344,4 +344,4 @@ Until next year, Cider Up! Oh, and ride on.
   </p>
 </div>
 
-Chicago, je t&#8217;aime.
+Chicago, je t'aime.

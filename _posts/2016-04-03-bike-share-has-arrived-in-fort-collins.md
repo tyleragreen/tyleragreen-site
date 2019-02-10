@@ -12,7 +12,7 @@ tags:
   - bike share
   - fort collins
 ---
-I took advantage of a gorgeous Saturday morning to try out Fort Collins&#8217; newest urban mobility option: bike share!
+I took advantage of a gorgeous Saturday morning to try out Fort Collins' newest urban mobility option: bike share!
 
 The overall process is quite smooth. Here are your six steps to a ride about the town.
 
@@ -23,11 +23,11 @@ The overall process is quite smooth. Here are your six steps to a ride about th
   5. Ride!
   6. Return the bike to any station, lock it up with the U-lock, and hit &#8220;Return it!&#8221; on the app.
 
-That&#8217;s it! Keep reading for some photos of my experience and details on each component of the bike share.
+That's it! Keep reading for some photos of my experience and details on each component of the bike share.
 
 ## The Stations
 
-As you can see in the screenshots below, there are several stations scattered throughout Old Town. The second image is a wider map view of Fort Collins, which shows the stations are very concentrated in a single part of town for now. I would expect the station coverage to expand if the program proves successful in the denser section of Fort Collins, following the roll-out model of Chicago&#8217;s Divvy bike share.
+As you can see in the screenshots below, there are several stations scattered throughout Old Town. The second image is a wider map view of Fort Collins, which shows the stations are very concentrated in a single part of town for now. I would expect the station coverage to expand if the program proves successful in the denser section of Fort Collins, following the roll-out model of Chicago's Divvy bike share.
 
 <div style="width: 686px" class="wp-caption alignnone">
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture4.jpg?resize=676%2C1200" alt="Map of bike share stations in north Fort Collins." data-recalc-dims="1" />
@@ -41,7 +41,7 @@ As you can see in the screenshots below, there are several stations scattered th
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture5.jpg?resize=676%2C1200" alt="Bike share stations are concentrated main around Old Town Fort Collins at the system's launch on Friday, April 1st. But this is no joke!" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    Bike share stations are concentrated main around Old Town Fort Collins at the system&#8217;s launch on Friday, April 1st. But this is no joke!
+    Bike share stations are concentrated main around Old Town Fort Collins at the system's launch on Friday, April 1st. But this is no joke!
   </p>
 </div>
 
@@ -68,7 +68,7 @@ The fee structure is as follows:
   * 24 hour membership for $7, weekly membership for $15, or annual membership for $60.
   * Free to checkout a bike for the first 30 minutes, $2 an hour after that, up to $18 for a single ride.
 
-I&#8217;ve included some screenshots showing how you pick your payment plan in the Zagster app. I purchased the 24 hour membership for $7 and had the bike checked out for about 50 minutes, resulting in a $2 usage fee.
+I've included some screenshots showing how you pick your payment plan in the Zagster app. I purchased the 24 hour membership for $7 and had the bike checked out for about 50 minutes, resulting in a $2 usage fee.
 
 <div style="width: 686px" class="wp-caption alignnone">
   <img src="http://i0.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare_capture1.jpg?resize=676%2C1200" alt="Screenshot of the Zapster app for the 24 hour membership." data-recalc-dims="1" />
@@ -102,7 +102,7 @@ Two codes are important when unlocking the bike. First, you enter the 4-digit c
 
 The bike even had a bell and basket in front! I saw another bike share user put the U-lock in a slot on the back rack so I did the same. It jiggled a bit while the bike was in motion, so I wonder if some rubber could be added to create a more peaceful ride.
 
-I&#8217;m not quite sure what I did to relock the key box when I returned the bike. I locked the U-lock back up to the station, but could not get the key box to close. The sign on the bike says to re-enter your code if you can&#8217;t get the box to lock, and I did this and was eventually able to hear the box relock, but I don&#8217;t think it was because of me re-entering the code. If you understand the inputs and feedback of this system, please let me know!
+I'm not quite sure what I did to relock the key box when I returned the bike. I locked the U-lock back up to the station, but could not get the key box to close. The sign on the bike says to re-enter your code if you can&#8217;t get the box to lock, and I did this and was eventually able to hear the box relock, but I don&#8217;t think it was because of me re-entering the code. If you understand the inputs and feedback of this system, please let me know!
 
 <div style="width: 686px" class="wp-caption alignnone">
   <img src="http://i2.wp.com/www.tyleragreen.com/blog_files/2016-04-foco-bikeshare/bikeshare2.jpg?resize=676%2C901" alt="The keypad on the back rack of the bike." data-recalc-dims="1" />

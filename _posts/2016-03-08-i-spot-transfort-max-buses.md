@@ -13,9 +13,9 @@ tags:
   - fort collins
   - transfort
 ---
-If you wanted to see pictures of all <del>six</del> <del>eight</del> nine Transfort MAX buses, you are in luck! Please join me as we tour the fleet of North American Bus Industries vehicles. And no, I&#8217;m not the first person to <a href="http://www.citylab.com/commute/2014/01/bus-spotting-train-spotting-weirder/8021/" target="_blank">practice bus spotting</a>.
+If you wanted to see pictures of all <del>six</del> <del>eight</del> nine Transfort MAX buses, you are in luck! Please join me as we tour the fleet of North American Bus Industries vehicles. And no, I'm not the first person to <a href="http://www.citylab.com/commute/2014/01/bus-spotting-train-spotting-weirder/8021/" target="_blank">practice bus spotting</a>.
 
-Aside: please raise your hand if you were also worried upon discovering the first verb in the first sentence on <a href="https://en.wikipedia.org/wiki/North_American_Bus_Industries" target="_blank">NABI&#8217;s Wikipedia page</a> is in past tense. &#8220;NABI Bus, LLC (NABI) **was** a designer and producer of heavy-duty transit buses&#8230;&#8221; The NABI brand was discontinued in 2014 (the year the MAX opened) and its plants will now produce buses for its parent brand, New Flyer. I hope NABI spare parts were not also discontinued.
+Aside: please raise your hand if you were also worried upon discovering the first verb in the first sentence on <a href="https://en.wikipedia.org/wiki/North_American_Bus_Industries" target="_blank">NABI's Wikipedia page</a> is in past tense. &#8220;NABI Bus, LLC (NABI) **was** a designer and producer of heavy-duty transit buses&#8230;&#8221; The NABI brand was discontinued in 2014 (the year the MAX opened) and its plants will now produce buses for its parent brand, New Flyer. I hope NABI spare parts were not also discontinued.
 
 ## MAX 79
 
@@ -53,7 +53,7 @@ Aside: please raise your hand if you were also worried upon discovering the firs
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_82.jpg?resize=676%2C507" alt="MAX 82 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    MAX 82, also northbound at Olive and Mason. I couldn&#8217;t have produced this motion panning effect even if I tried! And I definitely didn&#8217;t. (See MAX 81.) Let&#8217;s say I was hoping to produce a neat &#8220;we&#8217;re going places&#8221; effect for a Transfort promotional.
+    MAX 82, also northbound at Olive and Mason. I couldn't have produced this motion panning effect even if I tried! And I definitely didn&#8217;t. (See MAX 81.) Let&#8217;s say I was hoping to produce a neat &#8220;we&#8217;re going places&#8221; effect for a Transfort promotional.
   </p>
 </div>
 
@@ -93,7 +93,7 @@ Aside: please raise your hand if you were also worried upon discovering the firs
   <img src="http://i1.wp.com/www.tyleragreen.com/blog_files/2016-03-transfort-buses/MAX_103.jpg?resize=676%2C507" alt="MAX 103 from the fleet of Transfort MAX buses" data-recalc-dims="1" />
   
   <p class="wp-caption-text">
-    MAX 103 at the South Transit Center on the same sloppy morning. Doesn&#8217;t that sky just look cold? Bus 103 is currently the highest-numbered in the Transfort fleet.
+    MAX 103 at the South Transit Center on the same sloppy morning. Doesn't that sky just look cold? Bus 103 is currently the highest-numbered in the Transfort fleet.
   </p>
 </div>
 
@@ -109,9 +109,9 @@ And, a bonus&#8230;
   </p>
 </div>
 
-If you&#8217;re wondering what kind of idyllic bus world the cover image to this post is from, the answer is Adobe Lightroom. Doesn&#8217;t this better-than-real image make you want to go ride a bus?
+If you're wondering what kind of idyllic bus world the cover image to this post is from, the answer is Adobe Lightroom. Doesn&#8217;t this better-than-real image make you want to go ride a bus?
 
-I&#8217;ll see you there.
+I'll see you there.
 
 **Ride on!**
 
