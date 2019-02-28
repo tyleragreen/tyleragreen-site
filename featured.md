@@ -12,7 +12,8 @@ permalink: /featured/
 
 ### Guest Posts
 
-- <a href="https://transit.land/news/2016/04/04/nyc-frequency.html" target="_blank">Made using Transitland: An interactive visualization of New York City transit frequency</a> &#8211; Transit.land
+- [Station-ary: Giving Transit Context to Smart City Kiosks](https://ixn.intersection.com/station-ary-giving-transit-context-to-smart-city-kiosks-3a357c1098ab), IxN - The Intersection Blog, February 2019
+- [Made using Transitland: An interactive visualization of New York City transit frequency](https://transit.land/news/2016/04/04/nyc-frequency.html), Transit.land, April 2016
 
 ### Features
 
