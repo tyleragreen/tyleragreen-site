@@ -29,4 +29,4 @@ If you live in the DC region (or anywhere along the Northeast Corridor), I encou
   </a>
 </div>
 
-You <a href="/assets/pdf/gtfs-graph_TylerGreen.pdf" target="_blank">download the PDF deck</a> of my presentation.
+You can <a href="/assets/pdf/gtfs-graph_TylerGreen.pdf" target="_blank">download the PDF deck</a> of my presentation.
