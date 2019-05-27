@@ -12,6 +12,7 @@ permalink: /about/
 
 ### Guest Posts
 
+- [Now arriving: lessons from delivering real-time transit information to smart city kiosks](https://ixn.intersection.com/now-arriving-lessons-from-delivering-real-time-transit-information-to-smart-city-kiosks-c163ea9f61fe), IxN - The Intersection Blog, May 2019
 - [Station-ary: Giving Transit Context to Smart City Kiosks](https://ixn.intersection.com/station-ary-giving-transit-context-to-smart-city-kiosks-3a357c1098ab), IxN - The Intersection Blog, February 2019
 - [Made using Transitland: An interactive visualization of New York City transit frequency](https://transit.land/news/2016/04/04/nyc-frequency.html), Transit.land, April 2016
 
