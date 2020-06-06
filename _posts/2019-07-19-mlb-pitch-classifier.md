@@ -12,7 +12,7 @@ tags:
   - tensorflow
 ---
 
-_I used TensorFlow to [classify baseball pitches](https://tyleragreen.com/pitch-classifier/). Here’s the backstory._
+_I used TensorFlow to classify baseball pitches. Here’s the backstory! Alternatively, you can skip straight to the [Jupyter notebook](https://tyleragreen.com/pitch-classifier/)._
 
 "Four-seam fastball. Easy." I gave myself a pat on the back as I opened the MLB At Bat app the confirm my pitch classification. After learning to keep score, being able to identify pitches was the next step in my baseball mastery. Well...baseball-spectator-having-never-played mastery. Basically, maximum 10% mastery of someone who had actually stepped foot on America’s diamond.
 
@@ -38,9 +38,15 @@ After a grueling 25 minutes of Googling, I decided that [Brooks Baseball](http:/
 
 I opened up some lecture notes from an online TensorFlow course I had taken earlier in the year. TensorFlow is the popular machine-learning library developed by Google and embraced by the Python community. A main example in the course had been using neural networks to classify images of numbers (the MNIST dataset) as the actual number they represented. We had created a model using a set of labeled data, which is known as supervised learning. As you’ll recall, the pitch dataset I tracked down included a label on each pitch. A great place to start!
 
+<p style="text-align: center">
+  <a href="https://tyleragreen.com/pitch-classifier/"><img src="/assets/img/2019-07-21/pitchPlot.png"></a>
+</p>
+
 From here on, the discussion dives technical. I used a linear classifier and a dense neural network classifier, both included in TensorFlow, to evaluate the test data set with their predicted types against the provided labels. The linear classifier achieved 72% accuracy, while the dense neural network classifier achieved 84% accuracy. Both of these numbers were higher than I expected and significantly higher than my performance against MLB At Bat.
 
-<a href="https://tyleragreen.com/pitch-classifier/"><img src="/assets/img/2019-07-21/jupyter.png"></a>
+<p style="text-align: center">
+  <a href="https://tyleragreen.com/pitch-classifier/"><img src="/assets/img/2019-07-21/jupyter.png"></a>
+</p>
 
 I performed the entire exercise in a Jupyter Notebook and saved [a static version](https://tyleragreen.com/pitch-classifier/) (`jupyter nbconvert` to the rescue!) for easy viewing. Jupyter is a great tool if you want to rerun your experiment with small tweaks and see the affected output on every line. It’s hilarious and valuable at the same time. You know that small hesitation you have when you rip out print statements between every line after you’ve successfully debugged an issue? With Jupyter, hesitate no more!
 
