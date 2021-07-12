@@ -9,7 +9,6 @@
     <meta http-equiv="content-type" content="text/html; charset=US-ASCII" />
     <meta http-equiv="content-language" content="en-us" />
     <meta name="author" content="Tyler A. Green">
-    <meta name="contact" content="greent@tyleragreen.com" />
     <meta name="copyright" content="Copyright (c)2017 Tyler A. Green. All Rights Reserved." />
     <meta name="description" content="Tyler A. Green is a public transit enthusiast, urban adventurer, and stadium fanatic located in Brooklyn, New York. In between riding transit for work and play, he likes to develop software, tweet about buses, drink coffee, and watch Kentucky basketball. Say hello next time you see him on a rail near you!" />
     <meta name="keywords" content="tyler a green, transit, public transit, transportation, cities, urban, buses, subways, light rail, blog, colorado, brooklyn" />
@@ -485,7 +484,6 @@
             <div class="social-icon twitter"><a href="http://twitter.com/greent_tyler" target="_blank"><img src="legacy/icons/twitter.png"></a></div>
             <div class="social-icon instagram"><a href="http://instagram.com/greent_tyler" target="_blank"><img src="legacy/icons/instagram.png"></a></div>
             <div class="social-icon linkedin"><a href="https://www.linkedin.com/in/tylergreen" target="_blank"><img src="legacy/icons/linkedin.png"></a></div>
-            <div class="social-icon email"><a href="mailto:greent@tyleragreen.com" target="_blank"><img src="legacy/icons/email.png"></a></div>
           </div>
         </div>
       </div>
@@ -500,10 +498,13 @@
           <p class="footer-left">"The bus stops here." <span class="text-muted">- Harry Truman, probably.</span></p>
         </div>
         <div class="col-md-6">
-          <p class="footer-right"><!--class="pull-right"-->&copy; 2019 <a href="#top" class="scroll">TYLER A. GREEN</a></p>
+          <p class="footer-right"><!--class="pull-right"-->&copy; <span id="year"></span> <a href="#top" class="scroll">Tyler A. Green</a></p>
         </div>
       </div>
     </footer>
+    <script>
+        document.getElementById("year").innerHTML = new Date().getFullYear();
+    </script>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
