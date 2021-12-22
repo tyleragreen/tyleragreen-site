@@ -9,5 +9,5 @@ bundle install
 ```
 To run the site locally, run
 ```
-jekyll serve
+bundle exec jekyll serve
 ```
