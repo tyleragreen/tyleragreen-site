@@ -23,8 +23,6 @@ Thanks to all the following web curators for giving my work a read!
 
 - [MTA Fare History](/blog/2017/10/alls-fare-diving-into-mta-fares/), October 2017 
    - <a href="https://technical.ly/dc/2017/11/08/transportation-techies-michael-schade/" target="_blank">How Transportation Techies built a meetup into a community</a> &#8211; Technical.ly DC
-- [Transitland Presentation](/blog/2016/05/next-stop-transitland-a-transportationcamp-colorado-presentation/), May 2016 
-   - <a href="https://www.ektad.com/projects/transitland-data-playground" target="_blank">Transitland Data Playground</a> &#8211; Ekta Daryanani
 - [New York City Transit Frequency Visualization](/blog/2016/02/new-york-city-transit-frequency-visualization/), February 2016
    - <a href="http://www.6sqft.com/this-map-tells-you-how-frequently-nyc-subways-and-buses-run/" target="_blank">This Map Tells You How Frequently NYC Subways Actually Run</a> &#8211; 6sqft
    - <a href="http://www.vividmaps.com/2016/04/new-york-city-transit-frequency.html" target="_blank">New York City transit frequency</a> &#8211; Vivid Maps
