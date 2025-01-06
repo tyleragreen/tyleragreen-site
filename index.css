@@ -1,0 +1,64 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 95vh;
+  font-family: "Courier New", monospace;
+  background-color: #121212;
+  color: white;
+  line-height: 1.4;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.container {
+  width: 40%;
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 80%;
+  }
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.toggle-btn {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+
+.toggle-btn i {
+  font-size: 1.2em;
+}
+
+.toggle-btn:hover {
+  opacity: 0.75;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}
+
+.light-mode a {
+  color: black;
+}
+
+.light-mode .toggle-btn {
+  color: black;
+}
