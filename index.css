@@ -1,16 +1,24 @@
+:root {
+  --color-light-bg: white;
+  --color-light-fg: #121212;
+  --color-dark-bg: #121212;
+  --color-dark-fg: white;
+}
+
 body {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 95vh;
   font-family: "Courier New", monospace;
-  background-color: #121212;
-  color: white;
+  background-color: var(--color-dark-bg);
+  transition: background-color 0.2s;
+  color: var(--color-dark-fg);
   line-height: 1.4;
 }
 
 a {
-  color: white;
+  color: var(--color-dark-fg);
 }
 
 a:hover {
@@ -34,6 +42,15 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.hero {
+  border-bottom: 1px solid var(--color-dark-fg);
+  padding-bottom: 10px;
+}
+
+.body-content {
+  padding-top: 10px;
+}
+
 .toggle-btn {
   cursor: pointer;
   display: flex;
@@ -51,14 +68,18 @@ a:hover {
 }
 
 .light-mode {
-  background-color: white;
-  color: black;
+  background-color: var(--color-light-bg);
+  color: var(--color-light-fg);
 }
 
 .light-mode a {
-  color: black;
+  color: var(--color-light-fg);
 }
 
 .light-mode .toggle-btn {
-  color: black;
+  color: var(--color-light-fg);
+}
+
+.light-mode .hero {
+  border-color: var(--color-light-fg);
 }
