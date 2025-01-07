@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+This page is no longer maintained! For my latest work, [click here](/).
+
 ### Presentations
 
 - [Why Your Train is F*cked](https://www.eventbrite.com/e/why-your-train-is-fcked-a-lovehate-show-about-the-history-of-the-mta-tickets-47566159664#), Caveat, July 2018
