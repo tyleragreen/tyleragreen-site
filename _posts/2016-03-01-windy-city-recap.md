@@ -4,7 +4,7 @@ title: Cider Up! A Photo Recap from the Windy City
 date: 2016-03-01T22:57:47+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=515
+guid: https://tyleragreen.com/blog/?p=515
 permalink: /blog/2016/03/windy-city-recap/
 categories:
   - Adventures

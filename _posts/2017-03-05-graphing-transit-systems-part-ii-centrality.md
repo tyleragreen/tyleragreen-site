@@ -4,7 +4,7 @@ title: 'Graphing Transit Systems, Part II &#8211; Centrality'
 date: 2017-03-05T14:38:12+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=723
+guid: https://tyleragreen.com/blog/?p=723
 permalink: /blog/2017/03/graphing-transit-systems-part-ii-centrality/
 categories:
   - Projects

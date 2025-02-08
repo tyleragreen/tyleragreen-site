@@ -4,7 +4,7 @@ title: Honolulu Is Where the HART Is
 date: 2016-01-04T04:24:34+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=359
+guid: https://tyleragreen.com/blog/?p=359
 permalink: /blog/2016/01/honolulu-is-where-the-hart-is/
 categories:
   - Adventures

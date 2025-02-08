@@ -4,7 +4,7 @@ title: Hello Transportation Techies!
 date: 2017-10-30T16:58:42+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=798
+guid: https://tyleragreen.com/blog/?p=798
 permalink: /blog/2017/10/hello-transportation-techies/
 categories:
   - Presentations

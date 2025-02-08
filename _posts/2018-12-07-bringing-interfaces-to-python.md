@@ -4,7 +4,7 @@ title: Bringing interfaces to Python
 date: 2018-12-07T12:42:13+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=827
+guid: https://tyleragreen.com/blog/?p=827
 permalink: /blog/2018/12/bringing-interfaces-to-python/
 categories:
   - Projects

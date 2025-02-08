@@ -4,7 +4,7 @@ title: 'LIVE: The Boston T Party'
 date: 2016-07-31T18:18:06+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=689
+guid: https://tyleragreen.com/blog/?p=689
 permalink: /blog/2016/07/live-the-boston-t-party/
 categories:
   - Projects

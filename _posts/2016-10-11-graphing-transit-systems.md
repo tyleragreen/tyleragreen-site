@@ -4,7 +4,7 @@ title: Graphing Transit Systems
 date: 2016-10-11T22:08:01+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=706
+guid: https://tyleragreen.com/blog/?p=706
 permalink: /blog/2016/10/graphing-transit-systems/
 categories:
   - Projects

@@ -4,7 +4,7 @@ title: 'notetime: Statically-Generated Dynamic Notes'
 date: 2019-05-14T01:55:13+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=828
+guid: https://tyleragreen.com/blog/?p=828
 permalink: /blog/2019/05/notetime-statically-generated-dynamic-notes/
 categories:
   - Projects

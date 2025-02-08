@@ -4,7 +4,7 @@ title: Transfort Bus Stops Through the Lens of GIS
 date: 2016-01-18T05:05:33+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=416
+guid: https://tyleragreen.com/blog/?p=416
 permalink: /blog/2016/01/transfort-bus-stops-through-the-lens-of-gis/
 categories:
   - Projects

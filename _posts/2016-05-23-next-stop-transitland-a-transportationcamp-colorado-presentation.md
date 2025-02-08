@@ -4,7 +4,7 @@ title: '"Next Stop&#8230;Transitland": A TransportationCamp Colorado Presentatio
 date: 2016-05-23T16:07:30+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=679
+guid: https://tyleragreen.com/blog/?p=679
 permalink: /blog/2016/05/next-stop-transitland-a-transportationcamp-colorado-presentation/
 categories:
   - Presentations

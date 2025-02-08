@@ -4,7 +4,7 @@ title: A Ruby Gem for GTFS to GeoJSON Conversion
 date: 2016-03-22T22:37:42+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=575
+guid: https://tyleragreen.com/blog/?p=575
 permalink: /blog/2016/03/a-ruby-gem-for-gtfs-to-geojson-conversion/
 categories:
   - Projects

@@ -4,7 +4,7 @@ title: 'Urban Photography: A Brooklyn Walk'
 date: 2019-02-18T21:46:13+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=827
+guid: https://tyleragreen.com/blog/?p=827
 permalink: /blog/2019/02/urban-photography-a-brooklyn-walk/
 categories:
   - Adventures

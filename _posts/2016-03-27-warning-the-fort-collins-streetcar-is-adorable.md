@@ -4,7 +4,7 @@ title: 'Warning: The Fort Collins Streetcar is Adorable'
 date: 2016-03-27T18:12:25+00:00
 author: Tyler Green
 layout: post
-guid: http://www.tyleragreen.com/blog/?p=586
+guid: https://tyleragreen.com/blog/?p=586
 permalink: /blog/2016/03/warning-the-fort-collins-streetcar-is-adorable/
 categories:
   - Adventures
