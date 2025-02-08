@@ -40,7 +40,6 @@
       width: 100%;
     }
 
-    /* MAP TOGGLES */
     #menu {
       position: absolute;
       top: 15px;
@@ -78,8 +77,6 @@
       background: #3074a4;
     }
 
-    /* End MAP TOGGLES */
-
     #warning {
       background: #fff;
       width: 200px;
@@ -94,7 +91,6 @@
       color: #3074a4;
     }
 
-    /* LEGEND */
     #legend {
       background: #fff;
       position: absolute;
@@ -124,9 +120,6 @@
       text-align: center;
       font-size: 9px;
     }
-
-    /* End MAP LEGEND */
-
 
     @media (max-width: 768px) {
       #legend {
@@ -315,7 +308,7 @@
         e.stopPropagation();
 
         // Set the clicked link as active and the other and inactive
-        $('#menu a').removeClass('active');
+        document.querySelectorAll('#menu a').forEach(a => a.classList.remove('active'));
         this.className = 'active';
 
         // Iterate over all the layers, turning on only the one that is clicked
@@ -370,26 +363,24 @@
       var lon = (feature.geometry.coordinates[0][0] + feature.geometry.coordinates[1][0]) / 2;
       var lat = (feature.geometry.coordinates[0][1] + feature.geometry.coordinates[1][1]) / 2;
 
-      var template = $('#template').html();
       var templateData = {
         frequency: feature.properties.description,
         title: feature.properties.title,
         origin: feature.properties.origin_onestop_id,
         dest: feature.properties.destination_onestop_id
       };
-      Mustache.parse(template);   // optional, speeds up future uses
-      var rendered = Mustache.render(template, templateData);
+
+      // Manually rendering the template using string interpolation. We previously used Mustache.
+      var rendered = `
+        <b>${templateData.title}</b><br />
+        ${templateData.frequency}
+      `;
+
       popup.setLngLat([lon, lat])
         .setHTML(rendered)
         .addTo(map);
     });
   </script>
-  <script id="template" type="x-tmpl-mustache">
-<b>{{ title }}</b><br />
-{{ frequency }}
-</script>
-  <script src="bower_components/mustache.js/mustache.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
   <!-- Google Analytics -->
   <script>
