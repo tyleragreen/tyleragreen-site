@@ -18,7 +18,7 @@ I wasn't thrilled with my options for enforcing this using Python. A few people 
 
 I envisioned the following syntax, and wrote failing tests to guide my implementation.
 
-```
+```python
 from interface import interface
 
 class Iterable:

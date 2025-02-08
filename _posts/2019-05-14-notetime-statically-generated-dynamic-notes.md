@@ -82,12 +82,12 @@ I was initially hestitant to generate full citations, but one of my academic fri
 
 ## What is the workflow?
 You can install `notetime` into your note repo using `npm`.
-```
+```bash
 npm install --save notetime
 ```
 
 To initialize your notes repo, you should create a `config.json`. This is where you delcare the title and description of your note repo, but also what timelines to generate and what sources to group.
-```
+```json
 {
   "title": "Urban History",
   "description": "This document accompanies my urban history studies.",
@@ -100,15 +100,15 @@ To initialize your notes repo, you should create a `config.json`. This is where 
 }
 ```
 The following commands ship with `notetime` to assist in note-taking.
-```
+```bash
+# open vi to let you write your note
 ./new_note.js
-<opens vi to let you write your note>
 
-./open_note.js <search string>
-<opens note that matches search string (if and only if there is 1 match)>
+# open note that matches search string (if and only if there is 1 match)
+./open_note.js "search string"
 
+# run notetime to compiles notes, commits and pushes the changes
 ./deploy.sh
-<runs notetime to compiles notes, commits and pushes the changes>
 ```
 
 In my bash session, I have these three commands aliased to `nn`, `no`, and `nd`. I have found these GREATLY improve my ability to leave the tool for a month or two and still be producive when I return. Another approach could be `make` commands for each.

@@ -40,7 +40,7 @@ gtfs-geojson implements the same algorithm as the "Points to path" QGIS tool I 
 
 While QGIS tools output shapefiles, gtfs-geojson produces a GeoJSON file, which is a JSON stream with geospatial points and polylines data served up in a standard format. I have previously <a href="/blog/2016/02/new-york-city-transit-frequency-visualization/">loaded GeoJSON files in Mapbox</a> applications, and they are also useful in a GIS context. The following three lines will load the library, validate the GTFS feed, convert its shapes.txt file to GeoJSON format, and write the GeoJSON to a file.
 
-```
+```ruby
 require 'gtfs-geojson'
 geojson = GTFS::GeoJSON.generate("gtfs.zip")
 File.open("gtfs.geojson",'w') do { |f| f.write(geojson) }
