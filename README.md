@@ -11,3 +11,8 @@ To run the site locally, run
 ```bash
 bundle exec jekyll serve
 ```
+### History Notes
+To recompile the notes which are served at `/history/`, run:
+```bash
+./build_history_pages.sh
+```
