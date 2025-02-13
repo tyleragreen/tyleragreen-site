@@ -18,7 +18,7 @@ _Update 3/29/16: The transit visualization has been updated! The technical detai
 
 Stop the buses! Hold the phone! I now have visual proof that buses and subways in the Big Apple run more often on Fridays than Saturdays. How insightful, right? Okay, so maybe not, but I still enjoyed making a New York City transit frequency visualization using <a href="https://transit.land/" target="_blank">Transitland</a> and <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>.
 
-<a href="/maps/new_york" target="_blank">VIEW THE TOOL HERE</a>. Try hovering over each route and turning on different days and modes (subway versus bus) of service.
+[You can view the map here](/maps/new_york)! Try hovering over each route and turning on different days and modes (subway versus bus) of service.
 
 Below are a few images showing the difference in frequency of transit service on Friday and Saturday, followed by a discussion of each component of the project.
 

@@ -136,6 +136,6 @@ I'm going to keep taking notes! I don't plan to develop more on `notetime` for t
 
 I have mulled over introducing a `domain` feature. This would be similar to a tag, but intended as a higher-level grouping. The use-case in my notes would be `mta` versus `new-york-city` versus `new-york-state`. For now, I'm just tagging notes with their domain, which is simpler but doesn't allow you to partition. I will solve this another day!
 
-[Let me know](https://tyleragreen.com/#connect) if you have any questions! This post was basically a brain-dump, but now it is out there.
+Let me know if you have any questions! This post was basically a brain-dump, but now it is out there.
 
 Happy learning!

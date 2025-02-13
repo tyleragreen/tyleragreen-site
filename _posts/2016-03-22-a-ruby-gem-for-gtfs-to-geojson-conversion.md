@@ -46,7 +46,7 @@ geojson = GTFS::GeoJSON.generate("gtfs.zip")
 File.open("gtfs.geojson",'w') do { |f| f.write(geojson) }
 ```
 
-That's it! [Let me know](/#connect) if you have any suggestions! The `README` on <a href="https://github.com/tyleragreen/gtfs-geojson" target="_blank">the GitHub repo</a> gives installation instructions.
+That's it! Let me know if you have any suggestions! The `README` on <a href="https://github.com/tyleragreen/gtfs-geojson" target="_blank">the GitHub repo</a> gives installation instructions.
 
 The most valuable tip I learned while creating this gem was the use of the `$RUBYLIB` environment variable. This isn't necessary when installing a gem onto your system using bundler, but it is extremely helpful during development. `$RUBYLIB` lets you specify the path searched when the `require` keyword is used. To add paths dynamically to `$RUBYLIB`, you can push items to the `$:` array. `$:` is shorthand for `$LOAD_PATH` within a Ruby program. My `require_relative` days are over!
 
@@ -55,5 +55,3 @@ If you are considering writing your own gem, I highly recommend RubyGems.org's 
 I plan to use gtfs-geojson in a Rails project in the future. And speaking of gems, I've also been dabbling on a Ruby API client for <a href="http://transit.land/" target="_blank">Transitland</a>. I hope to have more to share on both fronts soon!
 
 Until then, **ride on**!
-
-_Have any transit projects to share? [Let me know](/#connect)!_

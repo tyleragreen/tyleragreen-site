@@ -15,15 +15,19 @@ tags:
   - new york city
   - paris
 ---
-_This post is the second of <del>three</del> four looking into the graph structure of the New York City subway system. In the <a href="/blog/2016/10/graphing-transit-systems/" target="_blank">previous post</a>, I discussed a <a href="https://gtfs-graph.herokuapp.com/demo" target="_blank">frontend I built</a> to visualize a depth-first search, breadth-first search, and shortest path algorithm. I ended with a discussion of centrality algorithms. We pick up our hero there&#8230;_
+_This post is the second of three looking into the graph structure of the New York City subway system. In the <a href="/blog/2016/10/graphing-transit-systems/" target="_blank">previous post</a>, I discussed a frontend I built to visualize a depth-first search, breadth-first search, and shortest path algorithm. I ended with a discussion of centrality algorithms. We pick up our hero there&#8230;_
+
+<div class="highlight-box">
+    <p>This project was originally hosted on Heroku but is no longer live. You can still check out the source code on <a href="https://github.com/tyleragreen/gtfs-graph">GitHub</a>.</p>
+</div>
 
 Centrality metrics identify important nodes in a graph. In the <a href="https://github.com/tyleragreen/gtfs-graph" target="_blank">gtfs-graph</a> world, nodes represent subway stations. Why might we want to identify important stations in the NYC subway network? Honestly, my initial reason was I thought it sounded cool. I was curious to see if there are numbers (besides ridership&#8230;we'll get to that in the next post!) to rank stations which align with our human perception of important stations in the system. Meaning: **does the network structure indicate Times Square is a critical station, or is that just where the most riders board**? That was the first question I wanted to explore. The next question would challenge the Lake Wobegon effect. That is: **can all stations in a network be important**?
 
 To answer these questions, I created a web app for three cities and their heavy rail networks:
 
-  * <a href="https://gtfs-graph.herokuapp.com/rank/nyc/" target="_blank">New York City</a>
-  * <a href="https://gtfs-graph.herokuapp.com/rank/boston/" target="_blank">Boston</a>
-  * <a href="https://gtfs-graph.herokuapp.com/rank/paris/" target="_blank">Paris</a>
+  * New York City
+  * Boston
+  * Paris
 
 Each city has results for four centrality metrics: PageRank, Katz centrality, closeness centrality, and outward accessibility. I will be discussing the results in terms of the New York City network.
 

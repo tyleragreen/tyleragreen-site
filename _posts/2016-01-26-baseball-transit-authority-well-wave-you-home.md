@@ -24,7 +24,7 @@ The Baseball Transit Authority prides itself on performance. While "I don't care
 
 Joking about highly-unfeasible transit systems aside, I learned loads about the incredibly-useful vector graphics to produce this map! How can you not be a fan of an infinite-resolution image? Raster graphics (of which JPEG is one format) define images using an array of pixels, whereas vector graphics define images using an XML list of shapes, text, and colors. While you can write the code yourself and understand SVGs (scalar vector graphics) 110% better as a result, fortunately this is not necessary. Cam Booth of the <a href="http://transitmaps.tumblr.com/" target="_blank">Transit Maps blog</a> recommends the industry-standard Adobe Illustrator to create vector transit maps. For beginners and designers on a budget, Inkscape is a capable alternative. Best of all, <a href="https://inkscape.org/en/download/" target="_blank">it's free to download</a>! I learned about shapes, grids, paths, and nodes, and was quickly able to apply them to my project of confusing baseball and transit fans everywhere.
 
-[Click here](/assets/img/2016-01-26/bta_map.pdf) to download the map as a PDF. And, as always, [let me know](/#connect) about any recommendations you may have!
+[Click here](/assets/img/2016-01-26/bta_map.pdf) to download the map as a PDF. And, as always, let me know about any recommendations you may have!
 
 Don't forget: next time you head out to the ball park&#8230;
 

@@ -4,6 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
+{% include nudge-from-scratch.html %}
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">

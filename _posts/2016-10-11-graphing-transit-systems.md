@@ -17,7 +17,11 @@ tags:
 ---
 I've been away from the blogging world for a while! The last few months included a fantastic and inspiring trip to Transportation Camp NYC and loads of (mostly) fun weekend work on transit graphs.
 
-In a hodgepodge effort to improve on Javascript, learn React, create a generic graph representation of a GTFS feed, and implement a few graph algorithms, I finally have a working <a href="https://gtfs-graph.herokuapp.com/demo/" target="_blank">TRANSIT GRAPH DEMO</a>.
+In a hodgepodge effort to improve on Javascript, learn React, create a generic graph representation of a GTFS feed, and implement a few graph algorithms, I finally have a working transit graph demo.
+
+<div class="highlight-box">
+    <p>This project was originally hosted on Heroku but is no longer live. You can still check out the source code on <a href="https://github.com/tyleragreen/gtfs-graph">GitHub</a>.</p>
+</div>
 
 # Why transit graphs?
 
@@ -38,7 +42,7 @@ Dijkstra's is the classic gateway algorithm to finding shortest paths in graphs
 Fire up the <a href="http://algo-visualizer.jasonpark.me/" target="_blank">algorithm visualizer</a> for to help picture this. In my graph, the edge weights are the time between stations. After running Dijkstra's, we have an ordered sequence of nodes which represent the shortest path between the origin and destination and the time it would take to do so.
 
 <div style="text-align:center">
-  <a href="https://gtfs-graph.herokuapp.com"><img src="/assets/img/2016-10-11/routing1.png" alt="A sample shortest-path from 50th St to 1 Av. The routes are calculated from the GTFS feed based on the trips that pass through that stop. This can periodically result in slightly different route listings than the official MTA map." /></a>
+  <img src="/assets/img/2016-10-11/routing1.png" alt="A sample shortest-path from 50th St to 1 Av. The routes are calculated from the GTFS feed based on the trips that pass through that stop. This can periodically result in slightly different route listings than the official MTA map." />
   
   <p class="wp-caption-text">
     A sample shortest path from 50th St to 1 Av. The routes which serve each station are derived from the GTFS feed based on the trips that pass through that stop. This can periodically result in slightly different route listings than the official MTA map.
@@ -105,12 +109,12 @@ A breadth-first search is another traversal variant whose lofty goal is to ident
 
 # What's next?
 
-`gtfs-graph` (the [GitHub project name](https://github.com/tyleragreen/gtfs-graph) for now &#8211; please help me come up with a better one!) is built to be system-agnostic. I have graph representations for <a href="https://gtfs-graph.herokuapp.com/rank/boston/" target="_blank">Boston</a> and <a href="https://gtfs-graph.herokuapp.com/rank/paris/" target="_blank">Paris</a> in addition to <a href="https://gtfs-graph.herokuapp.com/rank/nyc/" target="_blank">New York City</a>. While the GTFS standard allowed me to construct all three graphs in similar ways, there were still a few quirks, resulting mainly from how the <a href="https://twitter.com/greent_tyler/status/782766567155130368" target="_blank">different systems represent sub-stops</a> (parent/child or northbound/southbound).
+`gtfs-graph` (the [GitHub project name](https://github.com/tyleragreen/gtfs-graph) for now &#8211; please help me come up with a better one!) is built to be system-agnostic. I have graph representations for Boston and Paris in addition to New York City. While the GTFS standard allowed me to construct all three graphs in similar ways, there were still a few quirks, resulting mainly from how the <a href="https://twitter.com/greent_tyler/status/782766567155130368" target="_blank">different systems represent sub-stops</a> (parent/child or northbound/southbound).
 
 Recently, I have been implementing centrality algorithms to see how the results varied from system to system. Paris' RATP heavy rail lines certainly look to have higher connectivity than Boston's hub-centric design, and I'm working to find the numbers to prove this. If I can indeed prove this, I'd like to use a genetic algorithm to efficiently enhance (add lines and stops) a system to match the connected-ness/centrality distribution/equity/whatever-metric-I-end-up-with of a higher quality system.
 
 After implementing Google's PageRank algorithm, I decided it is a poor model for transit. **The rankings currently displayed are a modified version of <a href="https://en.wikipedia.org/wiki/Closeness_centrality" target="_blank">closeness centrality</a>**. I really enjoyed <a href="http://www.sciencedirect.com/science/article/pii/S0375960108015867" target="_blank">this white paper</a> on a node importance algorithm and plan to implement this soon. It uses random walks to calculate the entropy of a given node after a given number of steps.
 
-I hope to have a much more detailed most on these metrics in the coming weeks! I would <a href="/#connect" target="_blank">love to hear</a> any thoughts or ideas you might have about any or all of this!
+I hope to have a much more detailed post on these metrics in the coming weeks! I would love to hear any thoughts or ideas you might have about any or all of this!
 
 Let's build awesome things to help transit, cities, and, most of all, people.

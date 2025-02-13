@@ -17,7 +17,7 @@ Last Wednesday, I rode the Amtrak Northeast Regional to our nation's capital to 
 
 <div style="text-align:center"><img src="/assets/img/2017-10-30/DSC_2341.jpg"></div>
 
-Michael always puts on an incredible event and Metro Hack Night VII was no exception! We had a great <a href="http://mvjantzen.com/meetup/metrohacknight7.html" target="_blank">line-up</a> and <a href="https://www.flickr.com/photos/mvjantzen/37248206144/" target="_blank">turnout</a>. I presented on how we can use graph theory to study transit networks, specifically WMATA Metrorail <a href="https://gtfs-graph.herokuapp.com/rank/dcp/" target="_blank">with</a> and <a href="https://gtfs-graph.herokuapp.com/rank/dc/" target="_blank">without</a> the Purple line.
+Michael always puts on an incredible event and Metro Hack Night VII was no exception! We had a great <a href="http://mvjantzen.com/meetup/metrohacknight7.html" target="_blank">line-up</a> and <a href="https://www.flickr.com/photos/mvjantzen/37248206144/" target="_blank">turnout</a>. I presented on how we can use graph theory to study transit networks, specifically WMATA Metrorail with and without the Purple line.
 
 All the presenters blew me away with their excellent, excellent projects. The DC transit developer community is special and I loved getting to experience it for one night. You can read about the all projects and presenters in this <a href="https://mobilitylab.org/2017/10/27/techies-better-ways-figure-catch-metro-train/" target="_blank">write-up from Mobility Lab</a>.
 

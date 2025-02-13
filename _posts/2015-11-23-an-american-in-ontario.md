@@ -74,6 +74,6 @@ Three middle-aged women dressed for business make their way from the right. One 
 
 _The next day, I would visit the Toronto Islands and enjoy the stunning view below. On the boardwalk, however, it was just me, the sand, and endless ocean._
 
-_Do you have any mindfulness exercises you do while traveling or at home? Let me know in the comments below or <a href="/#connect" target="_blank">contact me</a>._
+_Do you have any mindfulness exercises you do while traveling or at home? Let me know!_
 
 <div style="text-align:center"><img src="/assets/img/2015-11-23/DSC_48983-676x448.jpg"></div>

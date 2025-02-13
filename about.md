@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This page is no longer maintained! For my latest work, [click here](/).
+{% include nudge-from-scratch.html %}
 
 ### Presentations
 
@@ -21,17 +21,15 @@ This page is no longer maintained! For my latest work, [click here](/).
 
 ### Press
 
-Thanks to all the following web curators for giving my work a read!
-
 - [MTA Fare History](/blog/2017/10/alls-fare-diving-into-mta-fares/), October 2017 
-   - <a href="https://technical.ly/dc/2017/11/08/transportation-techies-michael-schade/" target="_blank">How Transportation Techies built a meetup into a community</a> &#8211; Technical.ly DC
+   - [How Transportation Techies built a meetup into a community](https://technical.ly/dc/2017/11/08/transportation-techies-michael-schade/) &#8211; Technical.ly DC
 - [New York City Transit Frequency Visualization](/blog/2016/02/new-york-city-transit-frequency-visualization/), February 2016
-   - <a href="http://www.6sqft.com/this-map-tells-you-how-frequently-nyc-subways-and-buses-run/" target="_blank">This Map Tells You How Frequently NYC Subways Actually Run</a> &#8211; 6sqft
-   - <a href="http://www.vividmaps.com/2016/04/new-york-city-transit-frequency.html" target="_blank">New York City transit frequency</a> &#8211; Vivid Maps
-   - <a href="http://googlemapsmania.blogspot.com/2016/04/the-frequency-of-new-york-subway.html" target="_blank">The Frequency of the New York Subway</a> &#8211; Maps Mania
-   - <a href="http://www.brickunderground.com/streetnoise_4_8_16" target="_blank">A fun new subway map, how Williamsburg got its name, and more</a> &#8211; Brick Underground
-   - <a href="http://spoilednyc.com/map-buses-subway-frequently-run-new-york/" target="_blank">Check Out This Interactive Map That Shows How Frequently NYC Buses & Subways Actually Run</a> &#8211; spoiled NYC
-   - <a href="http://www.brownstoner.com/brooklyn-life/morning-links-another-rheingold-property-trades-one-72-million/" target="_blank">Morning Links: Another Rheingold Property Trades, This One for $72 Million</a> &#8211; Brownstoner
-   - <a href="http://www.streetsblog.org/2016/03/31/todays-headlines-2350/" target="_blank">Today&#8217;s Headlines (3/31/16)</a> &#8211; Streetsblog NYC
+   - [This Map Tells You How Frequently NYC Subways Actually Run](http://www.6sqft.com/this-map-tells-you-how-frequently-nyc-subways-and-buses-run/) &#8211; 6sqft
+   - [New York City transit frequency](http://www.vividmaps.com/2016/04/new-york-city-transit-frequency.html) &#8211; Vivid Maps
+   - [The Frequency of the New York Subway](http://googlemapsmania.blogspot.com/2016/04/the-frequency-of-new-york-subway.html) &#8211; Maps Mania
+   - [A fun new subway map, how Williamsburg got its name, and more](http://www.brickunderground.com/streetnoise_4_8_16) &#8211; Brick Underground
+   - [Check Out This Interactive Map That Shows How Frequently NYC Buses & Subways Actually Run](http://spoilednyc.com/map-buses-subway-frequently-run-new-york/) &#8211; spoiled NYC
+   - [Morning Links: Another Rheingold Property Trades, This One for $72 Million](http://www.brownstoner.com/brooklyn-life/morning-links-another-rheingold-property-trades-one-72-million/) &#8211; Brownstoner
+   - [Today&#8217;s Headlines (3/31/16)](http://www.streetsblog.org/2016/03/31/todays-headlines-2350/) &#8211; Streetsblog NYC
 - [Baseball Transit Authority](/blog/2016/01/baseball-transit-authority-well-wave-you-home/), January 2016
-   - <a href="http://www.fenwaynation.com/2016/01/red-sox-on-blue-line-of-baseball.html" target="_blank">Red Sox On &#8216;Blue Line&#8217; Of &#8216;Baseball Transit Authority&#8217;</a> &#8211; FenwayNation.com
+   - [Red Sox On &#8216;Blue Line&#8217; Of &#8216;Baseball Transit Authority&#8217;](http://www.fenwaynation.com/2016/01/red-sox-on-blue-line-of-baseball.html) &#8211; FenwayNation.com
