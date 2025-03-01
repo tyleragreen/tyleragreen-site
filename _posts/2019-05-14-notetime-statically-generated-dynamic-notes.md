@@ -16,15 +16,13 @@ tags:
 
 I was churning through a lot of sources. In the summer of 2017, I was new to New York and frantically learning everything I could about the MTA. After a few months, I had a better grasp on how the capital program functions and [a blog post on fare increases](/blog/2017/10/alls-fare-diving-into-mta-fares/). Along the way, my process was a rollercoaster.
 
-What I landed on is `notetime`, a Node.js library which accepts a series of Markdown-based notes and outputs the statically-generated notes sorted and tagged. The result is browseable on GitHub or through a docs integration (I used GitBooks).
+What I landed on is `notetime`, a Node.js library which accepts a series of Markdown-based notes and outputs the statically-generated notes sorted and tagged. The result is browseable on GitHub or through a docs integration (I originally used GitBooks before migrating them to this site).
 
 - Library
-  - [Source and Documentation on Github](https://github.com/tyleragreen/notetime)
-  - [npm Library](https://www.npmjs.com/package/notetime)
-- Example
-  - [notetime used on my urban history notes](https://github.com/tyleragreen/history)
-  - [urban history notes published on Gitbooks](https://tyleragreen.gitbooks.io/history/)
-
+  - [Github](https://github.com/tyleragreen/notetime)
+  - [npm](https://www.npmjs.com/package/notetime)
+- Example: [NYC Transit History](/history/) - built using `notetime`
+  - [GitHub](https://github.com/tyleragreen/history)
 
 ## What led me to build `notetime`?
 
@@ -76,7 +74,7 @@ When we compile our notes, we get this even-more-Markdown output! Our title is a
 ### Richard Ravitch NYT Op-Ed on Governor's Interference
 - Discourages city take-over because it resembles system that failed pre-MTA and risks losing regional taxes currently provided from state Legislature
 - Source: Richard Ravitch, "New York's Subways Need an Independent M.T.A.," *The New York Times*, March 29, 2019. [link](https://www.nytimes.com/2019/03/29/opinion/new-yorks-subways-mta.html)
-- Tags: [mta](this-would-be-a-link-to-the-mta-tag.md) [ravitch](this-would-be-a-link-to-the-ravitch-tag.md)
+- Tags: [mta](/history/tags/mta/) [ravitch](/history/tags/ravitch/)
 
 I was initially hestitant to generate full citations, but one of my academic friends nudged me in that direction. I feared that saving only links would make the sources slowly invalidate over time as links broke. By allowing the option for full sources (partial sources are easy too: `; source text link`), we could preserve the ability to rebuild broken links.
 
@@ -126,7 +124,7 @@ This simple mechanism can be used to group notes and help you later consume info
 ### Timelines
 
 Timelines are built on top of tagging and provide a sorted-by-date view into a single tag.
-An example is [my notes on fare increases](https://github.com/tyleragreen/history/blob/master/timelines/fare-increases.md).
+An example is [my notes on fare increases](/history/timelines/fare-increases/).
 Notes can be dated with a date keyword (`; date <date>`), or their single source date will be used.
 You can tell `notetime` what tags should be turned into timelines under the `timelines` key of your `config.json`.
 
