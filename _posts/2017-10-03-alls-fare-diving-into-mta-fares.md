@@ -11,7 +11,7 @@ categories:
 tags:
   - fares
 ---
-A few weeks ago, I was playing around comparing the MTA fares figures against annual inflation. The results initially seemed like some solid clickbait: "**MTA Fares Rise Twice As Fast As Inflation.**" I showed one of my coworkers the graph and his reaction was interesting, something along the lines of, "Oh, so now they're just raking in the money?" Well, not quite. Transit fare increases are a complicated topic and his misunderstanding is 100% justified. I decided to delve deeper into the topic.
+A few weeks ago, I was playing around comparing the MTA fares figures against annual inflation. The results initially seemed like some solid clickbait: **MTA Fares Rise Twice As Fast As Inflation**. I showed one of my coworkers the graph and his reaction was interesting, something along the lines of, "Oh, so now they're just raking in the money?" Well, not quite. Transit fare increases are a complicated topic and his misunderstanding is 100% justified. I decided to delve deeper into the topic.
 
 <div style="text-align:center"><img src="/assets/img/2017-10-03/fare_chart.png"></div>
 
