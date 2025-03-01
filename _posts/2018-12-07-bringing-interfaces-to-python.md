@@ -14,7 +14,7 @@ tags:
 ---
 I am a big fan of polymorphic code. My current mantra is "our code should do one thing, it may just behave differently sometimes." Towards this end, I often write classes that implement a common interface (that is, same methods and same signatures on those methods).
 
-I wasn't thrilled with my options for enforcing this using Python. A few people recommended [ABC](https://docs.python.org/3.7/library/abc.html), Python's abstract base class implementation, which I have used successfully in the past. However, I'm not a fan of its syntax or its overhead. I believed I could write something cleaner, even if it was just a proof-of-concept.
+I wasn't thrilled with my options for enforcing this using Python. I've used [ABC](https://docs.python.org/3/library/abc.html), Python's abstract base class implementation, but I wasn't a fan of its syntax or its overhead. I believed I could write something cleaner, even if it was just a proof-of-concept.
 
 I envisioned the following syntax, and wrote failing tests to guide my implementation.
 
