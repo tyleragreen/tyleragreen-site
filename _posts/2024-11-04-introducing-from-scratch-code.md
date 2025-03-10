@@ -6,7 +6,7 @@ layout: post
 permalink: /blog/2024/11/introducing-from-scratch-code/
 ---
 
-THE BIG CITY—From Scratch Enterprises LLC (ticker: FSEL) announced its newest venture Monday, [From Scratch Code](https://fromscratchcode.com/) (ticker: FSC). Members of the media gathered around the folding chair of its owlish founder, Jones Beach. Refreshments were not provided.
+THE BIG CITY—From Scratch Enterprises LLC (ticker: FSE) announced its newest venture Monday, [From Scratch Code](https://fromscratchcode.com/) (ticker: FSC). Members of the media gathered around the folding chair of its owlish founder, Jones Beach. Refreshments were not provided.
 
 Whispers circulated among the media contingent that this was the same desk which produced the not-a-non-profit, [From Scratch Press](https://fromscratchpress.com/) (ticker: FSP). The representative present could not confirm and barely glanced up from their phone.
 
