@@ -96,7 +96,7 @@ As the JSON Transitland interface language-agnostic, any scripting language coul
 
 ## Other News
 
-I spent another few hours this week getting lost reading about <a href="http://flavorwire.com/311780/9-of-the-coolest-secret-subway-stations-in-the-world/6" target="_blank">the Cincinnati subway</a>. If you haven't dove into that tunnel of information before, I'd highly recommend it. Something about using an old canal which had become economically unfeasible due to competition from railroads to build a tunnel system that was halted due to a moratorium on capital bonds during World War I and never successfully revived just fascinates me. Seriously, any single part of that last sentence would make for a good story, but all those together create a sort transit tragedy worthy of a Shakespearean drama.
+I spent another few hours this week getting lost reading about the Cincinnati subway. If you haven't dove into that tunnel of information before, I'd highly recommend it. Something about using an old canal which had become economically unfeasible due to competition from railroads to build a tunnel system that was halted due to a moratorium on capital bonds during World War I and never successfully revived just fascinates me. Seriously, any single part of that last sentence would make for a good story, but all those together create a sort transit tragedy worthy of a Shakespearean drama.
 
 > In the bed of the canal née Erie
 > 
