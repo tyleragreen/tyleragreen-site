@@ -55,7 +55,7 @@ Until next time, **ride on**!
 <div id="attachment_360" style="width: 686px" class="wp-caption aligncenter">
   <div style="text-align:center"><img src="/assets/img/2016-01-04/2015-12-28-13.51.27-13-676x901.jpg"></div>
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     This bus was NOT IN SERVICE, but will always be IN MY HEART.
   </p>
 </div>

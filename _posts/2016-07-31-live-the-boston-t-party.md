@@ -28,7 +28,7 @@ Try clicking on a marker for more information on the subway/bus/light rail/commu
 <div style="text-align:center">
   <img src="/assets/img/2016-07-31/boston_1.png" alt="The sidebar of the application appears when you click on a vehicle. The area could be populated with tons more info from the GTFS static feed!" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     The sidebar of the application appears when you click on a vehicle. This area could be populated with tons more info from the GTFS static feed!
   </p>
 </div>
@@ -42,7 +42,7 @@ The basic architecture described until this point can operate completely indepe
 <div style="text-align:center">
   <img src="/assets/img/2016-07-31/boston_2.png" alt="The purple lines are the commuter rail routes. I chuckled the first time these lines loaded and I kept have to zoom out to see where they stop. To Providence and beyond!" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     The purple lines represent the commuter rail routes. I chuckled the first time these lines loaded and I kept having to zoom out to see where they stop. To Providence and beyond!
   </p>
 </div>
@@ -60,7 +60,7 @@ Until next time, **ride on**!
 <div style="text-align:center">
   <img src="/assets/img/2016-07-31/boston_3.png" alt="I never get tired of staring at these colored lines until the markers all jump to their next position! The yellow is the official color specified for the bus routes in the MBTA GTFS static feed. Anyone know the reason for this? It also look like the Silver Line goes a bit crazy right after exiting the Ted Williams Tunnel." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     I never get tired of staring at these colored lines until the markers all jump to their next position! The yellow is the official color specified for the bus routes in the MBTA GTFS static feed. Anyone know the reason for this? It also looks like the Silver Line goes a bit crazy right after exiting the Ted Williams Tunnel. Correct me if I'm wrong, but I think this is where Silver Line buses switch from diesel power to trolleybuses?
   </p>
 </div>

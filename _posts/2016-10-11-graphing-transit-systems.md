@@ -44,7 +44,7 @@ Fire up the [algorithm visualizer](http://algo-visualizer.jasonpark.me/) for to 
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/routing1.png" alt="A sample shortest-path from 50th St to 1 Av. The routes are calculated from the GTFS feed based on the trips that pass through that stop. This can periodically result in slightly different route listings than the official MTA map." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     A sample shortest path from 50th St to 1 Av. The routes which serve each station are derived from the GTFS feed based on the trips that pass through that stop. This can periodically result in slightly different route listings than the official MTA map.
   </p>
 </div>
@@ -52,7 +52,7 @@ Fire up the [algorithm visualizer](http://algo-visualizer.jasonpark.me/) for to 
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/routing2.png" alt="The user interface to pick the origin and destination nodes. I studied Pinterest's CSS to help build the stop tokens that populate the input fields when selected. The route details at the bottom uses &quot;display: flex;&quot;, a tip I picked up from the Google Maps CSS." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     The user interface to pick the origin and destination nodes. I studied Pinterest's CSS to help build the stop tokens that populate the input fields when selected. The route details at the bottom uses "display: flex", a tip I picked up from the Google Maps CSS.
   </p>
 </div>
@@ -66,7 +66,7 @@ A depth-first search, or DFS as the real algorithm geeks call it, is a classic t
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/dfs1.png" alt="A snapshot of visited nodes early in a depth-first search from Yankee Stadium. A red line segment is an edge that has been visited, but not unvisited, while a blue line segment has already been unvisited. As the recursive function pops higher up the call stack, more edges turn blue." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     A snapshot of visited nodes early in a depth-first search from 161 St &#8211; Yankee Stadium. A red line segment is an edge that has been visited, but not unvisited, while a blue line segment has already been unvisited. As the recursive function pops higher up the call stack, more edges turn blue.
   </p>
 </div>
@@ -74,7 +74,7 @@ A depth-first search, or DFS as the real algorithm geeks call it, is a classic t
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/dfs2.png" alt="We can see that at the completion of a DFS from 161 St - Yankee Stadium, the entire MTA subway system has been visited. The nodes that have not been visited are the Staten Island railway, which has no rail connections to the subway system and therefore no edges in my graph." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     We can see that at the completion of a DFS from 161 St &#8211; Yankee Stadium, the entire MTA subway system has been visited. The nodes that have not been visited are the Staten Island railway, which has no rail connections to the subway system and therefore no edges in my graph.
   </p>
 </div>
@@ -86,7 +86,7 @@ A breadth-first search is another traversal variant whose lofty goal is to ident
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/bfs1.png" alt="A snapshot early in a breadth-first search from Queensboro Plaza. We see that the visited nodes are spreading outward from the source. Think: diseases. Depth-first search is how you solve a maze and breadth-first search is how you get sick." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     A snapshot early in a breadth-first search from Queensboro Plaza. We see that the visited nodes are spreading outward from the source. Think: diseases. Depth-first search is how you solve a maze and breadth-first search is how you get sick.
   </p>
 </div>
@@ -94,7 +94,7 @@ A breadth-first search is another traversal variant whose lofty goal is to ident
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/bfs2.png" alt="A bit farther in the breadth-first search, we can see the disease...err...graph traversal has continued to spread outward." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     A bit farther in the breadth-first search, we can see the disease&#8230;err&#8230;graph traversal has continued to spread outward.
   </p>
 </div>
@@ -102,7 +102,7 @@ A breadth-first search is another traversal variant whose lofty goal is to ident
 <div style="text-align:center">
   <img src="/assets/img/2016-10-11/bfs3.png" alt="The completion of the breadth-first search. There are no blue edges because this is not a recursive algorithm." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     The visited edges at the completion of the breadth-first search. There are no blue edges because this is not a recursive algorithm.
   </p>
 </div>

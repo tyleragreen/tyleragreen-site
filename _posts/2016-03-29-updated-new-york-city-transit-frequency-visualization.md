@@ -32,7 +32,7 @@ _What kind of things are you working on? Let me know in the comments below!_
 <div style="text-align:center">
   <a href="/maps/new_york/"><img src="/assets/img/2016-03-29/friday_subway.png" alt="The frequency data for subway routes on a Friday morning for New York City transit. The darker the color, the higher the frequency!" /></a>
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     The frequency data for subway routes on a Friday morning in New York City. The darker the color, the higher the frequency!
   </p>
 </div>

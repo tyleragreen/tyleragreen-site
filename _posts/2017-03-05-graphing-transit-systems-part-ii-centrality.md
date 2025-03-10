@@ -40,7 +40,7 @@ If PageRank sounds familiar to you, it's likely because it is the algorithm used
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/page_rank2.png" alt="The PageRank results look interesting and definitely pick out important stations, but they do not give us insight into the entire distribution of stations." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     The PageRank results look interesting and definitely pick out important stations, but they do not give us insight into the entire distribution of stations.
   </p>
 </div>
@@ -54,7 +54,7 @@ Have no fear Andrew Cuomo, let's consider the model again. If you throw in sampl
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/page_rank1.png" alt="Poor 34 St - 11 Av doesn't get any love from PageRank. The data on the right shows the top 10 stations serve several subway routes each. This is not a coincidence; PageRank picks out highly connected nodes." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Poor 34 St &#8211; 11 Av doesn't get any love from PageRank. The data on the right shows the top 10 stations serve several subway routes each. This is not a coincidence; PageRank picks out highly connected nodes.
   </p>
 </div>
@@ -72,7 +72,7 @@ Here's all the insight I can offer on Katz centrality: all traffic between two w
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/katz1.png" alt="Katz says the subway network is equally unimpressive. Except for South Ferry. What a champ." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Katz says the subway network is equally unimpressive. Except for South Ferry. What a champ.
   </p>
 </div>
@@ -86,7 +86,7 @@ At this point of confusing results from two metrics, I discovered the term "node
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/closeness2.PNG" alt="Neapolitan ice cream anyone? Closeness centrality results have no surprises." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Neapolitan ice cream anyone? Closeness centrality results have no surprises.
   </p>
 </div>
@@ -94,7 +94,7 @@ At this point of confusing results from two metrics, I discovered the term "node
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/closeness1.PNG" alt="Manhattan stations are ranked highly by closeness centrality. This uniformity is in contrast to the Manhattan results for outward accessibility." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Manhattan stations are ranked highly by closeness centrality. This uniformity is in contrast to the Manhattan results for outward accessibility.
   </p>
 </div>
@@ -110,7 +110,7 @@ One drawback to the outward accessibility metric is performance and repeatabilit
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/accessibility2.PNG" alt="Outward accessibility gives us the weather map similar to closeness centrality, but are its individual stations ranked similarly?" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Outward accessibility gives us the weather map appearance similar to closeness centrality, but are its individual stations ranked similarly?
   </p>
 </div>
@@ -118,7 +118,7 @@ One drawback to the outward accessibility metric is performance and repeatabilit
 <div style="text-align:center">
   <img src="/assets/img/2017-03-05/accessibility1.PNG" alt="Outward accessibility picks out hotspots of importance in a graph network. These can vary slightly due to the random nature of this algorithm, but should converge over time with enough random walks." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Outward accessibility picks out hot spots of importance in a graph network. These can vary slightly due to the random nature of this algorithm, but should converge over time with enough random walks.
   </p>
 </div>

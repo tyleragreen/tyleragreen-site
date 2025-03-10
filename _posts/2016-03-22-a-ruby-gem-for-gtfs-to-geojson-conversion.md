@@ -21,7 +21,7 @@ Let's start out with some before-and-after views of the data. These images were
 <div style="text-align:center">
   <img src="/assets/img/2016-03-22/gtfs.png" alt="The Transfort GTFS data loaded in QGIS before applying the Ruby gem for GTFS to GeoJSON conversion." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     This map displays the shapes.txt file from Transfort's GTFS feed loaded into QGIS. The seemingly-inconsistent shading on the lines is because there are no lines at all; each "line" is made up of a sequence of points. Each point contains a route ID and is ordered relative to the other points in its route by a point sequence value.
   </p>
 </div>
@@ -29,7 +29,7 @@ Let's start out with some before-and-after views of the data. These images were
 <div style="text-align:center">
   <img src="/assets/img/2016-03-22/geojson.png" alt="The Transfort GTFS data loaded in QGIS after applying the Ruby gem for GTFS to GeoJSON conversion." />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     After running the GTFS feed through gtfs-geojson, you now have a GeoJSON file whose features are each route from the original feed. I used "Categorized" styles in QGIS to quickly apply a unique color to each route.
   </p>
 </div>

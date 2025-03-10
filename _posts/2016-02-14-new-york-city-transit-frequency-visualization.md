@@ -25,7 +25,7 @@ Below are a few images showing the difference in frequency of transit service on
 <div style="text-align:center">
   <img src="/assets/img/2016-02-14/friday.png" alt="Friday service in a New York City Transit Visualization" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Friday morning subway and bus frequency. The coverage and frequencies are impressive!
   </p>
 </div>
@@ -33,7 +33,7 @@ Below are a few images showing the difference in frequency of transit service on
 <div style="text-align:center">
   <img src="/assets/img/2016-02-14/saturday.png" alt="Saturday service in a New York City Transit Visualization" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Saturday morning bus and subway service. As to be expected, the coverage is similar to on Friday, but the frequencies drop significantly.
   </p>
 </div>
@@ -55,7 +55,7 @@ One thing to keep in mind: the trips per hour numbers that appear when you hover
 <div style="text-align:center">
   <img src="/assets/img/2016-02-14/queens_buses.png" alt="Queens bus routes in a New York City Transit Visualization" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Bus routes in western Queens. Doesn't this seem like it's missing something?
   </p>
 </div>
@@ -63,7 +63,7 @@ One thing to keep in mind: the trips per hour numbers that appear when you hover
 <div style="text-align:center">
   <img src="/assets/img/2016-02-14/queens_subway.png" alt="Queens subway routes in a New York City Transit Visualization" />
   
-  <p class="wp-caption-text">
+  <p class="caption-text">
     Bus and subway routes in western Queens. That's a bit better.
   </p>
 </div>
