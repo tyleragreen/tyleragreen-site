@@ -14,7 +14,7 @@ tags:
   - gtfs
   - transfort
 ---
-To better understand the Fort Collins population and what percentage of it is adequately served by Transfort bus stops, I decided to jump on board the GIS-hype train. I downloaded QGIS, read a bit at <a href="http://www.qgistutorials.com" target="_blank">qgistutorials.com</a>, and felt ready to dive in.
+To better understand the Fort Collins population and what percentage of it is adequately served by Transfort bus stops, I decided to jump on board the GIS-hype train. I downloaded QGIS, read a bit at [qgistutorials.com](http://www.qgistutorials.com), and felt ready to dive in.
 
 ## You're talkin' about Transfort bus stops?
 
@@ -89,16 +89,16 @@ Until next time, ride on!
 
 Transfort GTFS Feed
   
-<a href="http://www.ridetransfort.com/developers" target="_blank">http://www.ridetransfort.com/developers</a> OR
+[http://www.ridetransfort.com/developers](http://www.ridetransfort.com/developers) OR
   
-<a href="https://code.google.com/p/googletransitdatafeed/wiki/PublicFeeds" target="_blank">https://code.google.com/p/googletransitdatafeed/wiki/PublicFeeds</a> OR
+[https://code.google.com/p/googletransitdatafeed/wiki/PublicFeeds](https://code.google.com/p/googletransitdatafeed/wiki/PublicFeeds) OR
   
-<a href="http://transitfeeds.com/" target="_blank">http://transitfeeds.com/</a>
+[http://transitfeeds.com/](http://transitfeeds.com/)
 
 City of Fort Collins
   
-<a href="http://www.fcgov.com/gis/downloadable-data.php" target="_blank">http://www.fcgov.com/gis/downloadable-data.php</a>
+[http://www.fcgov.com/gis/downloadable-data.php](http://www.fcgov.com/gis/downloadable-data.php)
 
 Colorado Information Marketplace
   
-<a href="https://data.colorado.gov/Demographics/Census-Blocks-2010/xipb-k5bu" target="_blank">https://data.colorado.gov/Demographics/Census-Blocks-2010/xipb-k5bu</a>
+[https://data.colorado.gov/Demographics/Census-Blocks-2010/xipb-k5bu](https://data.colorado.gov/Demographics/Census-Blocks-2010/xipb-k5bu)

@@ -12,7 +12,7 @@ tags:
   - fort collins
   - fort collins municipal railway
 ---
-Transit fans be warned: the Fort Collins streetcar is adorable. It's <a href="https://www.pinterest.com/pin/342766221620824493/" target="_blank">no kitten</a>, but Car 21 certainly takes you to an era bygone. I wanted to grab an evening post, tighten the top button on my overcoat, and ride into a romanticized time as I leaned against the rattan-backed seat.
+Transit fans be warned: the Fort Collins streetcar is adorable. It's [no kitten](https://www.pinterest.com/pin/342766221620824493/), but Car 21 certainly takes you to an era bygone. I wanted to grab an evening post, tighten the top button on my overcoat, and ride into a romanticized time as I leaned against the rattan-backed seat.
 
 <div style="text-align:center">
   <img src="/assets/img/2016-03-27/trolley-training2.jpg" alt="The inside of the Fort Collins streetcar." />

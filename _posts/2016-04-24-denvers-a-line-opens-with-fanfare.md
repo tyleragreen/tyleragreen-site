@@ -73,10 +73,10 @@ Friday was a celebration worthy of Duke Ellington and John Hickenlooper. "Take t
 </div>
 
 <div style="text-align:center">
-  <img src="/assets/img/2016-04-24/a_train_19.jpg" alt="After the ceremony, the public lined up at the &quot;BOARD TRAINS HERE&quot; sign backed by the baby blue branding <a style=&quot;display: inline;&quot; href=&quot;https://twitter.com/greent_tyler/status/724050085437300737&quot; target=&quot;_blank&quot;>found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &quot;Take the 'A' Train.&quot;" />
+  <img src="/assets/img/2016-04-24/a_train_19.jpg" alt="After the ceremony, the public lined up at the &quot;BOARD TRAINS HERE&quot; sign backed by the baby blue branding found everywhere for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &quot;Take the 'A' Train.&quot;" />
   
   <p class="wp-caption-text">
-    After the ceremony, the public lined up at the "BOARD TRAINS HERE" sign backed by the baby blue branding <a style="display: inline;" href="https://twitter.com/greent_tyler/status/724050085437300737" target="_blank">found everywhere</a> for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &#8220;Take the &#8216;A&#8217; Train.&#8221;
+    After the ceremony, the public lined up at the "BOARD TRAINS HERE" sign backed by the baby blue branding found everywhere for the #TrainToThePlane. A media run of the train had taken place earlier that morning, so they did not mingle in line with us plebs. While we waited, a band played Duke Ellington's &#8220;Take the &#8216;A&#8217; Train.&#8221;
   </p>
 </div>
 

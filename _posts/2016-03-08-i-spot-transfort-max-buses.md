@@ -13,9 +13,9 @@ tags:
   - fort collins
   - transfort
 ---
-If you wanted to see pictures of all <del>six</del> <del>eight</del> nine Transfort MAX buses, you are in luck! Please join me as we tour the fleet of North American Bus Industries vehicles. And no, I'm not the first person to <a href="http://www.citylab.com/commute/2014/01/bus-spotting-train-spotting-weirder/8021/" target="_blank">practice bus spotting</a>.
+If you wanted to see pictures of all <del>six</del> <del>eight</del> nine Transfort MAX buses, you are in luck! Please join me as we tour the fleet of North American Bus Industries vehicles. And no, I'm not the first person to [practice bus spotting](http://www.citylab.com/commute/2014/01/bus-spotting-train-spotting-weirder/8021/).
 
-Aside: please raise your hand if you were also worried upon discovering the first verb in the first sentence on <a href="https://en.wikipedia.org/wiki/North_American_Bus_Industries" target="_blank">NABI's Wikipedia page</a> is in past tense. "NABI Bus, LLC (NABI) **was** a designer and producer of heavy-duty transit buses&#8230;" The NABI brand was discontinued in 2014 (the year the MAX opened) and its plants will now produce buses for its parent brand, New Flyer. I hope NABI spare parts were not also discontinued.
+Aside: please raise your hand if you were also worried upon discovering the first verb in the first sentence on [NABI's Wikipedia page](https://en.wikipedia.org/wiki/North_American_Bus_Industries) is in past tense. "NABI Bus, LLC (NABI) **was** a designer and producer of heavy-duty transit buses&#8230;" The NABI brand was discontinued in 2014 (the year the MAX opened) and its plants will now produce buses for its parent brand, New Flyer. I hope NABI spare parts were not also discontinued.
 
 ## MAX 79
 

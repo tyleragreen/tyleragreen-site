@@ -12,7 +12,7 @@ tags:
   - chicago
   - cider summit
 ---
-Each February, a few Purdue friends and I make our way to Navy Pier for <a href="http://www.cidersummitnw.com/chicagoeventinfo.html" target="_blank">Cider Summit Chicago</a>. This was our third year of sampling fermented apples, and my second of making the weekend trip from Colorado to Chicago. I've included a few photos from the fantastic weekend below! They can be reasonably categorized into the following: airports, Chicago, Chicago transit, friends, friends on transit, transit in airports, and waffles.
+Each February, a few Purdue friends and I make our way to Navy Pier for [Cider Summit Chicago](http://www.cidersummitnw.com/chicagoeventinfo.html). This was our third year of sampling fermented apples, and my second of making the weekend trip from Colorado to Chicago. I've included a few photos from the fantastic weekend below! They can be reasonably categorized into the following: airports, Chicago, Chicago transit, friends, friends on transit, transit in airports, and waffles.
 
 Until next year, Cider Up! Oh, and ride on.
 
@@ -60,7 +60,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="/assets/img/2016-03-01/7.jpg" alt="The new protected bike lane and Loop Link station on Washington Street!" />
   
   <p class="wp-caption-text">
-    The new protected bike lane and <a style="display: inline;" href="http://brtchicago.com/" target="_blank">Loop Link</a> station on Washington Street!
+    The new protected bike lane and Loop Link station on Washington Street!
   </p>
 </div>
 
@@ -300,7 +300,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="/assets/img/2016-03-01/37.jpg" alt="Union Station is set to receive another upgrade, but here is a marker from a 1991 concourse renovation." />
   
   <p class="wp-caption-text">
-    Union Station is set to receive <a style="display: inline;" href="http://www.unionstationmp.com/" target="_blank">another upgrade</a>, but here is a marker from a 1991 concourse renovation.
+    Union Station is set to receive another upgrade, but here is a marker from a 1991 concourse renovation.
   </p>
 </div>
 
@@ -316,7 +316,7 @@ Until next year, Cider Up! Oh, and ride on.
   <img src="/assets/img/2016-03-01/39.jpg" alt="The O'Hare CTA station always gets me excited at the beginning of my trips! And sad at the end of my trips. Maybe in a few years, I'll be saying that about the O'Hare Express." />
   
   <p class="wp-caption-text">
-    The O'Hare CTA station always gets me excited at the beginning of my trips! And sad at the end of my trips. Maybe in a few years, I&#8217;ll be saying that about the <a style="display: inline;" href="http://www.chicagoreader.com/chicago/ohare-express-train-plan-crossrail-solution/Content?oid=21215854" target="_blank">O&#8217;Hare Express</a>.
+    The O'Hare CTA station always gets me excited at the beginning of my trips! And sad at the end of my trips. Maybe in a few years, I'll be saying that about the O'Hare Express.
   </p>
 </div>
 

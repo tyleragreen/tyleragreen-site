@@ -12,7 +12,7 @@ tags:
   - mindfulness
   - toronto
 ---
-_This essay describes my experience sitting on the boardwalk at Toronto's Woodbine Beach on Tuesday, September 22, 2015. I was visiting the city to <a href="https://twitter.com/tgreen8091/status/646093813719564288" target="_blank">attend a Blue Jays game</a> and <a href="https://twitter.com/tgreen8091/status/647107323417202688" target="_blank">appreciate</a> <a href="https://twitter.com/tgreen8091/status/646817687973330944" target="_blank">their</a> <a href="https://twitter.com/tgreen8091/status/645753006420586496" target="_blank">transit</a>, but I took the following hour or so out of the week to take in my surroundings._
+_This essay describes my experience sitting on the boardwalk at Toronto's Woodbine Beach on Tuesday, September 22, 2015. I was visiting the city to [attend a Blue Jays game](https://twitter.com/tgreen8091/status/646093813719564288) and [appreciate](https://twitter.com/tgreen8091/status/647107323417202688) [their](https://twitter.com/tgreen8091/status/646817687973330944) [transit](https://twitter.com/tgreen8091/status/645753006420586496), but I took the following hour or so out of the week to take in my surroundings._
 
 <div style="text-align:center"><img src="/assets/img/2015-11-23/DSC_48592-676x448.jpg"></div>
 

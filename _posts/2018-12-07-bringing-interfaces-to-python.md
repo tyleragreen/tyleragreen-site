@@ -37,7 +37,7 @@ class Foo:
 
 Writing tests was key, as my [inheritance tests](https://github.com/tyleragreen/python-interfaces/blob/master/tests/test_inheritance.py) found a critical bug. I was attempting to test that a user class' inheritance hierarchy is preserved by the wrapper class, but the test showed the opposite. The fix was for the wrapper class to inherit from the user class' parent classes using `*Klass.__bases__`. 
 
-The code lives <a href="https://github.com/tyleragreen/python-interfaces" rel="noopener" target="_blank">on GitHub</a> and can be <a href="https://pypi.org/project/python-interfaces/" rel="noopener" target="_blank">downloaded from PyPi</a>. However, the library is definitely still in beta (v0.1.2 is latest, as of this writing).
+The code lives [on GitHub](https://github.com/tyleragreen/python-interfaces) and can be [downloaded from PyPi](https://pypi.org/project/python-interfaces/). However, the library is definitely still in beta (v0.1.2 is latest, as of this writing).
 
 Some other things which would be interesting to explore:
   
