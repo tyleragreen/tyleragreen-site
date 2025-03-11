@@ -44,6 +44,10 @@ a:hover {
   body {
     align-items: flex-start;
     padding-top: 20px;
+    height: auto;
+    /* Adjust height dynamically to content */
+    min-height: auto;
+    /* Prevent reserving extra space */
   }
 
   .container {
