@@ -8,6 +8,7 @@ permalink: /about/
 
 ### Presentations
 
+- [Transit Techies NYC](https://transittechies.nyc), May 2018 - February 2020
 - [Why Your Train is F*cked](https://www.eventbrite.com/e/why-your-train-is-fcked-a-lovehate-show-about-the-history-of-the-mta-tickets-47566159664#), Caveat, July 2018
 - [Transit Networks GRAPHED](/blog/2017/10/hello-transportation-techies/), Transportation Techies DC, October 2017
 - [Next Stop...Transitland](/blog/2016/05/next-stop-transitland-a-transportationcamp-colorado-presentation/), Transportation Camp Colorado, May 2016
