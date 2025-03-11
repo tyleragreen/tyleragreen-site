@@ -50,6 +50,24 @@
           "@type": "WebPage",
           "@id": "{{ site.url }}"
         }
+      {% if page.layout == 'post' %}
+      },
+      {
+        "@type": "Article",
+        "headline": "{{ page.title }}",
+        "description": "{{ page.excerpt | strip_html }}",
+        "author": {
+          "@type": "Person",
+          "name": "{{ site.name }}",
+          "url": "{{ site.url }}"
+        },
+        "datePublished": "{{ page.date | date_to_xmlschema }}",
+        "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "{{ site.url }}{{ page.url }}"
+        }
+      {% endif %}
       }
     ]
   }
