@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="resource-type" content="document" />
+  <meta http-equiv="content-type" content="text/html; charset=US-ASCII" />
+  <meta http-equiv="content-language" content="en-us" />
+  <meta name="author" content="Tyler Green">
+  <meta name="copyright" content="Copyright (c)2025 Tyler Green. All Rights Reserved." />
+  <meta name="description"
+    content="Tyler Green offers personalized software mentorship and tutoring in Rust, Python, and programming language development. Learn coding from an experienced engineer and advance your career." />
+
+  <link rel="icon" href="favicon.ico">
+  <title>Tyler Green | Software Mentor & Tutor | Rust & Python Expertise</title>
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <link rel="stylesheet" href="index.css">
+  {% include json-ld.html %}
+  {% include analytics.html %}
+</head>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Tyler Green</h1>
+      <div class="toggle-btn" id="toggleBtn">
+        <i class="fas fa-sun" id="icon"></i>
+      </div>
+    </div>
+    <main>
+      {{ content }}
+    </main>
+  </div>
+
+  <!-- Toggle Dark/Light Mode Script -->
+  <script>
+    const toggleBtn = document.getElementById('toggleBtn');
+    const icon = document.getElementById('icon');
+    const body = document.body;
+
+    toggleBtn.addEventListener('click', () => {
+      body.classList.toggle('light-mode');
+      if (body.classList.contains('light-mode')) {
+        icon.classList.replace('fa-sun', 'fa-moon');
+      } else {
+        icon.classList.replace('fa-moon', 'fa-sun');
+      }
+    });
+  </script>
+</body>
+
+</html>
