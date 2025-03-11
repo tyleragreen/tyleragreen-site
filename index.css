@@ -1,15 +1,18 @@
 :root {
-  --color-light-bg: white;
-  --color-light-fg: #121212;
-  --color-dark-bg: #121212;
-  --color-dark-fg: white;
+  --color-off-white: #f4f4f4;
+  --color-off-black: #121212;
+
+  --color-light-bg: var(--color-off-white);
+  --color-light-fg: var(--color-off-black);
+  --color-dark-bg: var(--color-off-black);
+  --color-dark-fg: var(--color-off-white);
 }
 
 body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 95vh;
+  min-height: 75vh;
   font-family: "Courier New", monospace;
   background-color: var(--color-dark-bg);
   transition: background-color 0.2s;
