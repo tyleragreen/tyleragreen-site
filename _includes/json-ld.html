@@ -4,40 +4,40 @@
     "@graph": [
       {
         "@type": "Person",
-        "name": "Tyler Green",
-        "url": "https://tyleragreen.com",
+        "name": "{{ site.name }}",
+        "url": "{{ site.url }}",
         "sameAs": [
-          "https://fromscratchcode.com/",
-          "https://fromscratchpress.com/",
-          "https://fromscratchpress.substack.com/",
-          "https://github.com/JonesBeach",
-          "https://github.com/tyleragreen",
-          "https://www.linkedin.com/in/tylergreen/"
+          "{{ site.codeUrl }}",
+          "{{ site.pressUrl }}",
+          "{{ site.substackUrl }}",
+          "{{ site.fromScratchGithubUrl }}",
+          "{{ site.personalGithubUrl }}",
+          "{{ site.linkedInUrl }}"
         ],
         "jobTitle": "Software Mentor, Tutor, and Writer",
         "worksFor": [
           {
             "@type": "Organization",
-            "name": "From Scratch Code",
-            "url": "https://fromscratchcode.com/",
-            "description": "Personalized Rust and Python mentorship.",
+            "name": "{{ site.codeName }}",
+            "url": "{{ site.codeUrl }}",
+            "description": "{{ site.codeDescription }}",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://fromscratchcode.com/favicon-512x512.png"
+              "url": "{{ site.codeUrl }}/favicon-512x512.png"
             }
           },
           {
             "@type": "Organization",
-            "name": "From Scratch Press",
-            "url": "https://fromscratchpress.com/",
-            "description": "Essays on neurodivergence, meaningful work, and building a life that fits.",
+            "name": "{{ site.pressName }}",
+            "url": "{{ site.pressUrl }}",
+            "description": "{{ site.pressDescription }}",
             "logo": {
               "@type": "ImageObject",
-              "url": "https://fromscratchpress.com/favicon-512x512.png"
+              "url": "{{ site.pressUrl}}/favicon-512x512.png"
             }
           }
         ],
-        "description": "Providing personalized software mentorship and tutoring in Rust and Python, and writing about neurodivergence, meaningful work, and building a life that fits.",
+        "description": "{{ site.description }}",
         "knowsAbout": [
           "Rust",
           "Python",
@@ -48,7 +48,7 @@
         ],
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://tyleragreen.com"
+          "@id": "{{ site.url }}"
         }
       }
     ]

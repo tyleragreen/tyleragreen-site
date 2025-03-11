@@ -8,7 +8,7 @@ name: Tyler Green
 # Short bio or description (displayed in the header)
 subtitle: Life In Transit
 
-description: Tyler Green offers personalized software mentorship and tutoring in Rust, Python, and programming language development. Learn coding from an experienced engineer and advance your career.
+description: Providing personalized software mentorship and tutoring in Rust and Python, and writing about neurodivergence, meaningful work, and building a life that fits.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/15916062
@@ -24,9 +24,18 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # tyler-green
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
 url: "https://tyleragreen.com"
+codeUrl: "https://fromscratchcode.com"
+pressUrl: "https://fromscratchpress.com"
+substackUrl: "https://fromscratchpress.substack.com"
+personalGithubUrl: "https://github.com/JonesBeach"
+fromScratchGithubUrl: "https://github.com/tyleragreen"
+linkedInUrl: "https://www.linkedin.com/in/tylergreen/"
+
+codeName: From Scratch Code
+codeDescription: Personalized Rust and Python mentorship.
+pressName: From Scratch Press
+pressDescription: Essays on neurodivergence, meaningful work, and building a life that fits.
 
 permalink: /:title/
 
