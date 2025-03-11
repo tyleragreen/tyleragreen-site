@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 75vh;
+  min-height: 95vh;
   font-family: "Courier New", monospace;
   background-color: var(--color-dark-bg);
   transition: background-color 0.2s;
@@ -34,7 +34,18 @@ a:hover {
   width: 40%;
 }
 
+@media (max-width: 1024px) {
+  .container {
+    width: 70%;
+  }
+}
+
 @media (max-width: 768px) {
+  body {
+    align-items: flex-start;
+    padding-top: 20px;
+  }
+
   .container {
     width: 90%;
   }
