@@ -16,7 +16,7 @@ The event continued with a personal statement read aloud by Beach, which was a w
 
 > _I never set out to make the killer app. When I was building an early project—a website about stadiums—people asked me when they could expect an app, I looked at them feeling under-appreciated and directed them to my clumsy website. I’m not motivated by attempting to build the next big thing, but by creating something genuine and functional._
 >
-> _My skill set as a software engineer is typically valued through monetization rather than words of affirmation. I’m not asking for sympathy about this; I’m incredibly fortunate that people chose to pay me to write code for them for nearly a decade. But when this system_ [_stopped working for me_](https://fromscratchpress.com/why-i-left-my-9-5-for-good)_, I looked around for what else I could do with my skills. I’m driven by curiosity and a genuine desire to support others, bringing humor and understanding to my work. These values give me far more satisfaction than fitting into the small box an employer needs each quarter, so I set out to build a business that embraces them, with as little BS as possible._
+> _My skill set as a software engineer is typically valued through monetization rather than words of affirmation. I’m not asking for sympathy about this; I’m incredibly fortunate that people chose to pay me to write code for them for nearly a decade. But when this system_ [_stopped working for me_](https://fromscratchpress.com/why-i-left-my-9-5-for-good/)_, I looked around for what else I could do with my skills. I’m driven by curiosity and a genuine desire to support others, bringing humor and understanding to my work. These values give me far more satisfaction than fitting into the small box an employer needs each quarter, so I set out to build a business that embraces them, with as little BS as possible._
 >
 > _What mentally freed me to arrive at this point was letting go of the need to impress people who didn’t understand my tools, my craft, or my skill set. While that path works for some, it left me feeling unheard and used. Instead of building software to do something interesting, I chose to build software that is, itself, interesting—a kind of art for art’s sake and my personal rebellion against a system that seeks to control my time and monetize my output._
 >
@@ -40,4 +40,4 @@ _James Beach covers culture and satire in The Big City. He lives in The Big City
 
 ---
 
-This is cross-posted on [From Scratch Code](https://fromscratchcode.com/blog/introducing-from-scratch-code/) and [From Scratch Press](https://fromscratchpress.com/introducing-from-scratch-code).
+This is cross-posted on [From Scratch Code](https://fromscratchcode.com/blog/introducing-from-scratch-code/) and [From Scratch Press](https://fromscratchpress.com/introducing-from-scratch-code/).
