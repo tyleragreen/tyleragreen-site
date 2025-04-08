@@ -1,5 +1,5 @@
 ---
-title: 'Ride the Entire Denver Light Rail In One Day? I"m On Board!'
+title: "Ride the Entire Denver Light Rail In One Day? I'm On Board!"
 date: 2015-12-02T03:49:52+00:00
 author: Tyler Green
 layout: post
