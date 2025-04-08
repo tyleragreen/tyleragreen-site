@@ -1,19 +1,9 @@
 ---
-id: 706
 title: Graphing Transit Systems
 date: 2016-10-11T22:08:01+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=706
 permalink: /blog/2016/10/graphing-transit-systems/
-categories:
-  - Projects
-tags:
-  - boston
-  - graph
-  - gtfs
-  - new york city
-  - paris
 ---
 I've been away from the blogging world for a while! The last few months included a fantastic and inspiring trip to Transportation Camp NYC and loads of (mostly) fun weekend work on transit graphs.
 

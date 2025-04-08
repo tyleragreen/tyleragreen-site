@@ -1,20 +1,9 @@
 ---
-id: 689
 title: 'LIVE: The Boston T Party'
 date: 2016-07-31T18:18:06+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=689
 permalink: /blog/2016/07/live-the-boston-t-party/
-categories:
-  - Projects
-tags:
-  - boston
-  - gtfs
-  - gtfs-realtime
-  - mbta
-  - node
-  - websockets
 ---
 
 I'm a few months late on this one, but I recently wanted to learn about WebSockets and GTFS-realtime feeds. The result: a real-time Boston transit map! I apologize if you were expecting a historical reenactment.

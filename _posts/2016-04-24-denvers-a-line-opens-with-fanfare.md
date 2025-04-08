@@ -1,18 +1,9 @@
 ---
-id: 654
 title: Denver's A Line Opens with Fanfare
 date: 2016-04-24T15:42:36+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=654
 permalink: /blog/2016/04/denvers-a-line-opens-with-fanfare/
-categories:
-  - Adventures
-tags:
-  - a line
-  - denver
-  - review
-  - rtd
 ---
 Friday was a celebration worthy of Duke Ellington and John Hickenlooper. "Take the &#8216;A' Train" was finally a meaningful phrase for the Denver metro area! Unfortunately, only one of them could make an appearance, while the other&#8217;s legacy lives on.  Relive the opening of the RTD University of Colorado A Line with my photo journey below!
 

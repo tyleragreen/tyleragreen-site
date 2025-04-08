@@ -1,18 +1,9 @@
 ---
-id: 416
 title: Transfort Bus Stops Through the Lens of GIS
 date: 2016-01-18T05:05:33+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=416
 permalink: /blog/2016/01/transfort-bus-stops-through-the-lens-of-gis/
-categories:
-  - Projects
-tags:
-  - fort collins
-  - gis
-  - gtfs
-  - transfort
 ---
 To better understand the Fort Collins population and what percentage of it is adequately served by Transfort bus stops, I decided to jump on board the GIS-hype train. I downloaded QGIS, read a bit at [qgistutorials.com](http://www.qgistutorials.com), and felt ready to dive in.
 

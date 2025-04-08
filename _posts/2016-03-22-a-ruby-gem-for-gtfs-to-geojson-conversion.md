@@ -1,18 +1,9 @@
 ---
-id: 575
 title: A Ruby Gem for GTFS to GeoJSON Conversion
 date: 2016-03-22T22:37:42+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=575
 permalink: /blog/2016/03/a-ruby-gem-for-gtfs-to-geojson-conversion/
-categories:
-  - Projects
-tags:
-  - geojson
-  - gtfs
-  - ruby
-  - transfort
 ---
 I published my first Ruby gem: gtfs-geojson! You can view the [source on GitHub](https://github.com/tyleragreen/gtfs-geojson). gtfs-geojson is a Ruby utility to convert a GTFS feed to a GeoJSON file. It's a simple endeavor, for sure, but I&#8217;m pleased with what I learned along the way.
 

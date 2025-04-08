@@ -1,16 +1,9 @@
 ---
-id: 20
 title: An American in Ontario
 date: 2015-11-23T18:58:17+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=20
 permalink: /blog/2015/11/an-american-in-ontario/
-categories:
-  - Reflections
-tags:
-  - mindfulness
-  - toronto
 ---
 _This essay describes my experience sitting on the boardwalk at Toronto's Woodbine Beach on Tuesday, September 22, 2015. I was visiting the city to [attend a Blue Jays game](https://twitter.com/tgreen8091/status/646093813719564288) and [appreciate](https://twitter.com/tgreen8091/status/647107323417202688) [their](https://twitter.com/tgreen8091/status/646817687973330944) [transit](https://twitter.com/tgreen8091/status/645753006420586496), but I took the following hour or so out of the week to take in my surroundings._
 

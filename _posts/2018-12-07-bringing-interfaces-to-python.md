@@ -1,16 +1,9 @@
 ---
-id: 827
 title: Bringing interfaces to Python
 date: 2018-12-07T12:42:13+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=827
 permalink: /blog/2018/12/bringing-interfaces-to-python/
-categories:
-  - Projects
-tags:
-  - open-source
-  - python
 ---
 I am a big fan of polymorphic code. My current mantra is "our code should do one thing, it may just behave differently sometimes." Towards this end, I often write classes that implement a common interface (that is, same methods and same signatures on those methods).
 

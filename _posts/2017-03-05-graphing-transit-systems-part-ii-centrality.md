@@ -1,19 +1,9 @@
 ---
-id: 723
 title: 'Graphing Transit Systems, Part II &#8211; Centrality'
 date: 2017-03-05T14:38:12+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=723
 permalink: /blog/2017/03/graphing-transit-systems-part-ii-centrality/
-categories:
-  - Projects
-tags:
-  - boston
-  - graph
-  - gtfs
-  - new york city
-  - paris
 ---
 _This post is the second of three looking into the graph structure of the New York City subway system. In the [previous post](/blog/2016/10/graphing-transit-systems/), I discussed a frontend I built to visualize a depth-first search, breadth-first search, and shortest path algorithm. I ended with a discussion of centrality algorithms. We pick up our hero there&#8230;_
 

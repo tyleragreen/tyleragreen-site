@@ -1,20 +1,9 @@
 ---
-id: 283
 title: 'Ride the Entire Denver Light Rail In One Day? I"m On Board!'
 date: 2015-12-02T03:49:52+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=283
 permalink: /blog/2015/12/ride-the-entire-denver-light-rail-in-one-day-im-on-board/
-categories:
-  - Adventures
-tags:
-  - buses
-  - bustang
-  - denver
-  - light rail
-  - review
-  - rtd
 ---
 Most days, I am content to take the bus to work and back, read a piece or two of transit news, and go to sleep dreaming I am swaying in the center aisle of a brisk underground train. Other days, I have an idea that reroutes the temporary flow of my daily consciousness for the better. One Sunday afternoon a few weeks ago, I had one of those thoughts. **"I SHOULD RIDE THE ENTIRE DENVER LIGHT RAIL IN ONE DAY."** It seemed so obvious. How was this a new thought to me?! Having completed a [similar urban challenge](/blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/) in the past and enjoying a growing passion for public transit, this was the perfect goal. I set a due date: by the end of 2015, I would ride all 6 lines of the RTD light rail.
 

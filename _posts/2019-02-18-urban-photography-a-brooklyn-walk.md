@@ -1,15 +1,9 @@
 ---
-id: 827
 title: 'Urban Photography: A Brooklyn Walk'
 date: 2019-02-18T21:46:13+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=827
 permalink: /blog/2019/02/urban-photography-a-brooklyn-walk/
-categories:
-  - Adventures
-tags:
-  - brooklyn
 ---
 One of my February goals is to go on a photo shoot in the city. Save for one family party, I had not used my Nikon DSLR in more than two years. Put another way, I had yet to use my camera my favorite city. I took a few hours this afternoon to fix this.
 

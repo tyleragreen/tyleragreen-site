@@ -1,17 +1,9 @@
 ---
-id: 798
 title: Hello Transportation Techies!
 date: 2017-10-30T16:58:42+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=798
 permalink: /blog/2017/10/hello-transportation-techies/
-categories:
-  - Presentations
-tags:
-  - dc
-  - graph
-  - transportation techies
 ---
 Last Wednesday, I rode the Amtrak Northeast Regional to our nation's capital to attend my first [Transportation Techies](https://www.meetup.com/Transportation-Techies/) meetup! Michael had been urging me to attend since we first met at <a href="/blog/2016/05/next-stop-transitland-a-transportationcamp-colorado-presentation/">TransportationCamp Colorado 2016</a>. Now that I'm on the east coast, it was an easy trip!
 

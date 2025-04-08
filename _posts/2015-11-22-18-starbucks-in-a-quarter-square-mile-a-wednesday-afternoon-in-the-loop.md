@@ -1,17 +1,9 @@
 ---
-id: 7
 title: '18 Starbucks in a Quarter Square Mile: A Wednesday Afternoon in the Loop'
 date: 2015-11-22T17:09:11+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=7
 permalink: /blog/2015/11/18-starbucks-in-a-quarter-square-mile-a-wednesday-afternoon-in-the-loop/
-categories:
-  - Adventures
-tags:
-  - chicago
-  - coffee
-  - starbucks
 ---
 
 Do you know how many [Starbucks](http://www.starbucks.com/) locations are contained within [the Loop](http://en.wikipedia.org/wiki/The_Loop_(Chicago_Transit_Authority))?  The gourmet coffee chain's prevalence inside this 0.24 square mile area of Chicago's business district gives new meaning to the phrase "on every corner".  On Wednesday afternoon, March, 19th, 2014, [Pushpinder](https://twitter.com/dua_pushpinder), [Dhawal](https://twitter.com/dhawalkgupta90), and I set out to take a [#selfie](https://twitter.com/search?q=%23selfie) in front of all 18.  That's right: one eight.

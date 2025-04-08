@@ -1,17 +1,9 @@
 ---
-id: 530
 title: I Spot Transfort MAX Buses
 date: 2016-03-08T20:04:32+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=530
 permalink: /blog/2016/03/i-spot-transfort-max-buses/
-categories:
-  - Adventures
-tags:
-  - bus spotting
-  - fort collins
-  - transfort
 ---
 If you wanted to see pictures of all <del>six</del> <del>eight</del> nine Transfort MAX buses, you are in luck! Please join me as we tour the fleet of North American Bus Industries vehicles. And no, I'm not the first person to [practice bus spotting](http://www.citylab.com/commute/2014/01/bus-spotting-train-spotting-weirder/8021/).
 

@@ -1,18 +1,9 @@
 ---
-id: 488
 title: New York City Transit Depicted With (A New Set Of) Colorful Lines
 date: 2016-02-14T21:28:49+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=488
 permalink: /blog/2016/02/new-york-city-transit-frequency-visualization/
-categories:
-  - Projects
-tags:
-  - mapbox
-  - new york city
-  - ruby
-  - transitland
 ---
 _Update 3/29/16: The transit visualization has been updated! The technical details in this post are still relevant, but some of the conclusions are no longer valid. [Read about the updates here](/blog/2016/03/updated-new-york-city-transit-frequency-visualization/)!_
 

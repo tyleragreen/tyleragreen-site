@@ -1,19 +1,9 @@
 ---
-id: 738
 title: 'Graphing Transit Systems, Part III &#8211; Centrality Extended'
 date: 2017-03-05T14:41:30+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=738
 permalink: /blog/2017/03/graphing-transit-systems-part-iii-centrality-extended/
-categories:
-  - Projects
-tags:
-  - boston
-  - graph
-  - gtfs
-  - new york city
-  - paris
 ---
 _This is the third post diving into the graph structure of the New York City subway system. Read the [first](/blog/2016/10/graphing-transit-systems/) [two](/blog/2017/03/graphing-transit-systems-part-ii-centrality/) for more background!_
 

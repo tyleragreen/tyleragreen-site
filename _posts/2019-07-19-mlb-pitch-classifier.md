@@ -4,12 +4,6 @@ date: 2019-07-21T11:40:00+00:00
 author: Tyler Green
 layout: post
 permalink: /blog/2019/07/mlb-pitch-classifier/
-categories:
-  - Projects
-tags:
-  - python
-  - baseball
-  - tensorflow
 ---
 
 _I used TensorFlow to classify baseball pitches. Here’s the backstory! Alternatively, you can skip straight to the [Jupyter notebook](/pitch-classifier/)._

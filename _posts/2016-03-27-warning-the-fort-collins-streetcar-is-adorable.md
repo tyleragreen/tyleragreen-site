@@ -1,16 +1,9 @@
 ---
-id: 586
 title: 'Warning: The Fort Collins Streetcar is Adorable'
 date: 2016-03-27T18:12:25+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=586
 permalink: /blog/2016/03/warning-the-fort-collins-streetcar-is-adorable/
-categories:
-  - Adventures
-tags:
-  - fort collins
-  - fort collins municipal railway
 ---
 Transit fans be warned: the Fort Collins streetcar is adorable. It's [no kitten](https://www.pinterest.com/pin/342766221620824493/), but Car 21 certainly takes you to an era bygone. I wanted to grab an evening post, tighten the top button on my overcoat, and ride into a romanticized time as I leaned against the rattan-backed seat.
 

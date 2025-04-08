@@ -1,19 +1,11 @@
 ---
-id: 565
 title: All Aboard the Fort Collins Municipal Railway!
 date: 2016-03-20T11:24:50+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=565
 permalink: /blog/2016/03/all-aboard-the-fort-collins-municipal-railway/
-categories:
-  - Adventures
-tags:
-  - fort collins
-  - fort collins municipal railway
-  - transfort
 ---
-After seeing a call for volunteers in the Coloradoan, [Calvin](http://www.calvinholic.com/) and I are now conductors-in-training for the Fort Collins Municipal Railway! We had our first session yesterday and toured the trolley barn on N. Howes Street. I've shared a few photos below!
+After seeing a call for volunteers in the Coloradoan, Calvin and I are now conductors-in-training for the Fort Collins Municipal Railway! We had our first session yesterday and toured the trolley barn on N. Howes Street. I've shared a few photos below!
 
 Streetcars originally ran in Fort Collins from 1907 until 1951. Five streetcars served the city over these years. The first run of restored Car 21 was in 1984, and this is the car that still runs today. The FCMR Society is in the process of restoring a "second Car 25." (Who needs unique fleet numbers??) I'm looking forward to learning more of the history of the trolley and giddy for the opportunity to share the intrigue of a historical mode of transit with the families of Fort Collins this summer!
 

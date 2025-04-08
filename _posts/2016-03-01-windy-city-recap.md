@@ -1,16 +1,9 @@
 ---
-id: 515
 title: Cider Up! A Photo Recap from the Windy City
 date: 2016-03-01T22:57:47+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=515
 permalink: /blog/2016/03/windy-city-recap/
-categories:
-  - Adventures
-tags:
-  - chicago
-  - cider summit
 ---
 Each February, a few Purdue friends and I make our way to Navy Pier for [Cider Summit Chicago](http://www.cidersummitnw.com/chicagoeventinfo.html). This was our third year of sampling fermented apples, and my second of making the weekend trip from Colorado to Chicago. I've included a few photos from the fantastic weekend below! They can be reasonably categorized into the following: airports, Chicago, Chicago transit, friends, friends on transit, transit in airports, and waffles.
 

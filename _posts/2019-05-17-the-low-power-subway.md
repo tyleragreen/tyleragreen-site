@@ -4,12 +4,6 @@ date: 2019-05-17T23:45:00+00:00
 author: Tyler Green
 layout: post
 permalink: /blog/2019/05/the-low-power-subway/
-categories:
-  - Writing
-tags:
-  - subway
-  - new-york-city
-  - writing
 ---
 
 _A train  to the future grounds me in the present._

@@ -1,18 +1,9 @@
 ---
-id: 595
 title: 'Updated: New York City Transit Frequency Visualization'
 date: 2016-03-29T07:25:24+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=595
 permalink: /blog/2016/03/updated-new-york-city-transit-frequency-visualization/
-categories:
-  - Projects
-tags:
-  - mapbox
-  - new york city
-  - ruby
-  - transitland
 ---
 Since I detailed my New York City transit frequency visualization project <a href="/blog/2016/02/new-york-city-transit-frequency-visualization/">last month</a>, there have been a few updates. [Check out the web tool](/maps/new_york) to view the changes!
 

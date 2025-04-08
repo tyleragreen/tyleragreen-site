@@ -1,18 +1,9 @@
 ---
-id: 359
 title: Honolulu Is Where the HART Is
 date: 2016-01-04T04:24:34+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=359
 permalink: /blog/2016/01/honolulu-is-where-the-hart-is/
-categories:
-  - Adventures
-tags:
-  - hart
-  - heavy rail
-  - honolulu
-  - review
 ---
 Rapid transit is coming to Hawaii! Construction has begun on an elevated Honolulu rapid transit system, operated by the [Honolulu Authority for Rapid Transit](http://www.honolulutransit.org/). Residents and tourists alike will be able to traverse a 20-mile route in just 42 minutes.
 

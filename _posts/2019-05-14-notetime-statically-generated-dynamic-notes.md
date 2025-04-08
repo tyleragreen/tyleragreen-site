@@ -1,17 +1,9 @@
 ---
-id: 828
 title: 'notetime: Statically-Generated Dynamic Notes'
 date: 2019-05-14T01:55:13+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=828
 permalink: /blog/2019/05/notetime-statically-generated-dynamic-notes/
-categories:
-  - Projects
-tags:
-  - nodejs
-  - notes
-  - new-york-city
 ---
 
 I was churning through a lot of sources. In the summer of 2017, I was new to New York and frantically learning everything I could about the MTA. After a few months, I had a better grasp on how the capital program functions and [a blog post on fare increases](/blog/2017/10/alls-fare-diving-into-mta-fares/). Along the way, my process was a rollercoaster.

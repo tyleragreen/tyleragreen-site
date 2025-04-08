@@ -1,16 +1,9 @@
 ---
-id: 444
 title: Baseball Transit Authority. We'll wave you home.
 date: 2016-01-26T05:51:28+00:00
 author: Tyler Green
 layout: post
-guid: https://tyleragreen.com/blog/?p=444
 permalink: /blog/2016/01/baseball-transit-authority-well-wave-you-home/
-categories:
-  - Projects
-tags:
-  - baseball
-  - maps
 ---
 I like baseball. I like stadiums. I like maps. I _really_ like transit. The result: the **Baseball Transit Authority**!
 
