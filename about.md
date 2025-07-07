@@ -6,6 +6,14 @@ permalink: /about/
 
 {% include nudge-from-scratch.html %}
 
+### Projects
+
+In addition to some of the now-dead projects in the [blog](/blog/), here are a few that still hang off this domain.
+
+- [NYC Transit History](/history/)
+- [NYC Transit Frequency Map](/maps/new_york/)
+- [MLB Pitch Classifier](/pitch-classifier/)
+
 ### Presentations
 
 - [Transit Techies NYC](https://transittechies.nyc), May 2018 - February 2020

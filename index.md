@@ -2,18 +2,16 @@
 layout: root
 ---
 
-<div class="hero">
-  <h2>Grow your confidence and expertise through personalized mentorship in Rust and Python.</h2>
-  <h3><a href="https://fromscratchcode.com/mentorship/">Explore my Mentorship Programs</a>!
-  </h3>
-</div>
-<div class="body-content">
+<div>
+  <h3>I build things from scratch. Code, writing, life experiments.</h3>
+  <p>Currently: <i><a href="https://fromscratchpress.substack.com/p/the-half-pint-pilgrimage">The Half Pint Pilgrimage</a></i>.</p>
+  <p>I run <a href="https://fromscratchcode.com/">From Scratch Code</a>, offering software mentorship for the quietly subversive.</p>
   <p>
-    For my latest work, see <a href="/fromscratch/">From Scratch</a>.
+    I write about mental health and belonging at <a href="https://fromscratchpress.com/">From Scratch Press</a>.
   </p>
   <p>
     Before I <a href="https://fromscratchpress.com/why-i-left-my-9-5-for-good/">left my 9-5 for good</a>, I worked
-    in public transportation and tech. Find more about my previous work on <a href="/blog/">my personal
+    in public transportation and tech. You can find more of my past work on <a href="/blog/">my personal
       blog</a>.
   </p>
 </div>
