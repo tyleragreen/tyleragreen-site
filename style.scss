@@ -243,6 +243,12 @@ nav {
   }
 }
 
+hr {
+  border: none;
+  border-top: 1px solid variables.$gray;
+  margin: 2rem 0;
+}
+
 //
 // .main
 //
@@ -266,12 +272,6 @@ nav {
     em {
       font-style: normal;
     }
-  }
-
-  hr {
-    border: none;
-    border-top: 1px solid variables.$gray;
-    margin: 2rem 0;
   }
 
   .caption-text {

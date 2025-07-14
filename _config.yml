@@ -5,13 +5,11 @@
 # Name of your site (displayed in the header)
 name: Tyler Green
 
-# Short bio or description (displayed in the header)
-subtitle: Life In Transit
-
-description: Providing personalized software mentorship and tutoring in Rust and Python, and writing about neurodivergence, meaningful work, and building a life that fits.
+description: Personalized software mentorship in Rust and Python for quietly ambitious developers, plus essays on neurodivergence, meaningful work, and rebuilding life beyond the defaults.
+jobTitle: Founder & Technical Mentor
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/15916062
+avatar: https://avatars.githubusercontent.com/u/165730713
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -25,8 +23,6 @@ footer-links:
 disqus: # tyler-green
 
 url: "https://tyleragreen.com"
-codeUrl: "https://fromscratchcode.com"
-pressUrl: "https://fromscratchpress.com"
 substackUrl: "https://fromscratchpress.substack.com"
 substackProfileUrl: "https://substack.com/@jonesbeach"
 personalGithubUrl: "https://github.com/JonesBeach"
@@ -34,9 +30,13 @@ fromScratchGithubUrl: "https://github.com/tyleragreen"
 linkedInUrl: "https://www.linkedin.com/in/tylergreen/"
 
 codeName: From Scratch Code
-codeDescription: Personalized Rust and Python mentorship.
+codeUrl: "https://fromscratchcode.com"
+codeDescription: Software mentorship for the quietly subversive.
+memphisUrl: "https://fromscratchcode.com/memphis/"
+
 pressName: From Scratch Press
-pressDescription: Essays on neurodivergence, meaningful work, and building a life that fits.
+pressUrl: "https://fromscratchpress.com"
+pressDescription: Nonessential stories for anyone rebuilding life beyond institutions.
 
 permalink: /:title/
 
