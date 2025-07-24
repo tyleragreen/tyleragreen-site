@@ -10,37 +10,7 @@ I run _From Scratch_, a collection of work helping people rebuild confidence, cr
 
 I’m rebuilding a life after the defaults stopped working. Maybe you are too?
 
-<h1 style="margin-top: 0">
-  <a href="{{ site.codeUrl }}">
-    <img src="/assets/icons/code.png" alt="From Scratch Code"
-         style="height: 1.3em; position: relative; top: 0.25em; margin-right: 0.1em;" />
-    From Scratch Code
-  </a>
-</h1>
-
-_{{ site.codeDescription }}_
-
-I help thoughtful, quietly ambitious developers go from shipping features to thinking in systems, building the mindset and confidence of a senior engineer along the way.
-
-I also build tools like [Memphis]({{ site.memphisUrl }}), an open-source Python interpreter in Rust, and teach how things work under the hood in Rust and Python.
-
-[Work with me](https://fromscratchcode.com/mentorship/) or [Read what I’ve learned from 200+ hours of mentorship](https://fromscratchcode.com/blog/what-ive-learned-from-200-hours-helping-developers-grow/).
-
-<h1 style="margin-top: 0">
-  <a href="{{ site.pressUrl }}">
-    <img src="/assets/icons/press.png" alt="From Scratch Press"
-         style="height: 1.3em; position: relative; top: 0.25em; margin-right: 0.1em;" />
-    From Scratch Press
-  </a>
-</h1>
-
-_{{ site.pressDescription }}_
-
-Through ridiculous essays, memoir, and fiction, I write about neurodivergence, meaningful work, and building a life that fits.
-
-Start with:
-- _[Why I left my 9-5 for good](https://fromscratchpress.com/why-i-left-my-9-5-for-good/)_
-- _[Lake-Effect Coffee](https://fromscratchpress.com/books/)_, a workplace satire about friendship, burnout, and starting over with a coffee van
+{% include from-scratch.html %}
 
 ---
 

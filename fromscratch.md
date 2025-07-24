@@ -8,9 +8,7 @@ permalink: /fromscratch/
 
 Whether you’re rebuilding your technical confidence or your entire life, welcome!
 
-[From Scratch Code]({{ site.codeUrl }}): _{{ site.codeDescription }}_
-
-[From Scratch Press]({{ site.pressUrl }}): _{{ site.pressDescription }}_
+{% include from-scratch.html %}
 
 <div class="breadcrumbs"><p>&copy; <span id="year"></span> From Scratch Enterprises LLC</p></div>
 
