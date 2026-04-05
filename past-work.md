@@ -16,7 +16,9 @@ In addition to some of the now-dead projects in the [blog](/blog/), here are a f
 
 ### Presentations
 
-- [Build Your First REST API in Rust](https://fromscratchcode.com/blog/build-your-first-rest-api-in-rust-ccny-workshop/), ACM CCNY, March 2026
+- Build Your First REST API in Rust
+  - [CCNY ACM](https://fromscratchcode.com/blog/build-your-first-rest-api-in-rust-ccny-workshop/), March 2026
+  - [LIU Brooklyn](https://fromscratchcode.com/blog/build-your-first-rest-api-in-rust-liu-brooklyn-workshop/), March 2026
 - [Transit Techies NYC](https://transittechies.nyc), May 2018 - February 2020
 - [Why Your Train is F*cked](https://www.eventbrite.com/e/why-your-train-is-fcked-a-lovehate-show-about-the-history-of-the-mta-tickets-47566159664#), Caveat, July 2018
 - [Transit Networks GRAPHED](/blog/2017/10/hello-transportation-techies/), Transportation Techies DC, October 2017
