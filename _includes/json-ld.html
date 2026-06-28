@@ -8,44 +8,28 @@
         "url": "{{ site.url }}",
         "sameAs": [
           "{{ site.codeUrl }}",
+          "{{ site.memphisUrl }}",
           "{{ site.pressUrl }}",
-          "{{ site.substackUrl }}",
-          "{{ site.substackProfileUrl }}",
-          "{{ site.fromScratchGithubUrl }}",
           "{{ site.personalGithubUrl }}",
           "{{ site.linkedInUrl }}"
         ],
         "jobTitle": "{{ site.jobTitle }}",
-        "worksFor": [
-          {
-            "@type": "Organization",
-            "name": "{{ site.codeName }}",
-            "url": "{{ site.codeUrl }}",
-            "description": "{{ site.codeDescription }}",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "{{ site.codeUrl }}/favicon-512x512.png"
-            }
-          },
-          {
-            "@type": "Organization",
-            "name": "{{ site.pressName }}",
-            "url": "{{ site.pressUrl }}",
-            "description": "{{ site.pressDescription }}",
-            "logo": {
-              "@type": "ImageObject",
-              "url": "{{ site.pressUrl}}/favicon-512x512.png"
-            }
+        "worksFor": {
+          "@type": "Organization",
+          "name": "From Scratch Code",
+          "url": "{{ site.codeUrl }}",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{ site.codeUrl }}/favicon-512x512.png"
           }
-        ],
+        },
         "description": "{{ site.description }}",
         "knowsAbout": [
           "Rust",
           "Python",
           "Software Mentorship",
           "Web Development",
-          "Writing",
-          "Creativity"
+          "Writing"
         ],
         "mainEntityOfPage": {
           "@type": "WebPage",

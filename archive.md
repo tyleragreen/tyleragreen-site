@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Past Work
-permalink: /past-work/
+title: Archive
+permalink: /archive/
 ---
 
 {% include nudge-from-scratch.html %}

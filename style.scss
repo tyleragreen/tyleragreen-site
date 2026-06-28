@@ -8,7 +8,6 @@
 @use "reset";
 @use "variables";
 @use "highlights";
-@use "svg-icons";
 
 /**************/
 /* BASE RULES */
@@ -161,10 +160,13 @@ sup {
 }
 
 .masthead {
+  display: flex;
+  align-items: center;
   padding: 20px 0;
   border-bottom: 1px solid variables.$lightGray;
 
   @include variables.mobile {
+    display: block;
     text-align: center;
   }
 }
@@ -218,7 +220,7 @@ sup {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-left: auto;
   font-family: variables.$helveticaNeue;
   font-size: 18px;
 
@@ -289,18 +291,6 @@ hr {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: variables.$lightGray;
-}
-
-footer {
-  padding: 20px 0;
-  text-align: center;
-}
-
 .breadcrumbs {
     font-size: 14px;
     color: gray;
@@ -313,4 +303,78 @@ footer {
   margin: 16px 0;
   font-size: 1.1em;
   line-height: 1.5;
+}
+
+.home-page #main {
+  min-height: calc(100vh - 260px);
+  display: flex;
+  align-items: center;
+
+  @include variables.mobile {
+    min-height: auto;
+    display: block;
+  }
+}
+
+.home-hero {
+  max-width: 680px;
+  padding: 2.5rem 0 4rem;
+}
+
+.home-hero h1 {
+  margin: 0;
+  font-size: 2.8rem;
+  line-height: 1.18;
+  font-weight: 300;
+  letter-spacing: -0.03em;
+
+  @include variables.mobile {
+    font-size: 2rem;
+    line-height: 1.24;
+  }
+}
+
+.home-actions {
+  margin: 2rem 0 0;
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.home-link {
+  display: inline-block;
+  padding: 0.8rem 1.1rem;
+  border: 1px solid variables.$lightGray;
+  color: variables.$darkGray;
+  font-family: variables.$helveticaNeue;
+  font-size: 1rem;
+}
+
+.home-link:hover,
+.home-link:active {
+  color: variables.$darkGray;
+  border-color: variables.$gray;
+}
+
+.home-link-primary {
+  background: variables.$darkGray;
+  border-color: variables.$darkGray;
+  color: variables.$white;
+}
+
+.home-link-primary:hover,
+.home-link-primary:active {
+  color: variables.$white;
+  background: variables.$black;
+  border-color: variables.$black;
+}
+
+.about-page #main {
+  max-width: 700px;
+}
+
+.about-page #main > p:first-of-type {
+  font-size: 1.35rem;
+  line-height: 1.55;
+  color: variables.$darkerGray;
 }
